@@ -1,0 +1,2852 @@
+accession,definition,organism,taxid,length
+WP_013173465.1,"glycerol kinase","[Bacillus] selenitireducens",85683,506
+WP_007713993.1,"glycerol kinase","[Clostridium] asparagiforme",333367,498
+WP_002571200.1,"glycerol kinase","[Clostridium] bolteae",208479,498
+WP_015924549.1,"glycerol kinase","[Clostridium] cellulolyticum",1521,501
+WP_015926010.1,"glycerol kinase","[Clostridium] cellulolyticum",1521,498
+WP_006439122.1,"glycerol kinase","[Clostridium] hiranonis",89152,498
+WP_002608752.1,"glycerol kinase","[Clostridium] innocuum",1522,493
+WP_003529055.1,"glycerol kinase","[Clostridium] leptum",1535,495
+WP_006353593.1,"glycerol kinase","[Clostridium] methylpentosum",84026,497
+WP_004618871.1,"glycerol kinase","[Clostridium] papyrosolvens",29362,498
+WP_020817235.1,"glycerol kinase","[Clostridium] papyrosolvens",29362,498
+WP_013273701.1,"glycerol kinase","[Clostridium] saccharolyticum",84030,498
+WP_013274664.1,"glycerol kinase","[Clostridium] saccharolyticum",84030,499
+WP_009248846.1,"glycerol kinase","[Clostridium] scindens",29347,499
+WP_020073594.1,"glycerol kinase","[Clostridium] sporosphaeroides",1549,496
+WP_015360345.1,"glycerol kinase","[Clostridium] stercorarium",1510,497
+WP_003502860.1,"glycerol kinase","[Clostridium] symbiosum",1512,498
+WP_003511037.1,"glycerol kinase","[Clostridium] symbiosum",1512,498
+WP_004622810.1,"glycerol kinase","[Clostridium] termitidis",29371,517
+WP_013364145.1,"glycerol kinase","[Enterobacter] lignolyticus",1334193,502
+WP_004604029.1,"glycerol kinase","[Eubacterium] cellulosolvens",29322,501
+WP_012740414.1,"glycerol kinase","[Eubacterium] eligens",39485,496
+WP_005343650.1,"glycerol kinase GlpK","[Eubacterium] hallii",39488,495
+WP_005344490.1,"glycerol kinase","[Eubacterium] hallii",39488,494
+WP_006000044.1,"glycerol kinase","[Eubacterium] infirmum",56774,497
+WP_012743409.1,"glycerol kinase","[Eubacterium] rectale",39491,498
+WP_005364754.1,"glycerol kinase","[Eubacterium] yurii",39498,501
+WP_005712042.1,"glycerol kinase","[Haemophilus] parasuis",738,502
+WP_015939600.1,"glycerol kinase","[Haemophilus] parasuis",738,502
+WP_010481306.1,"glycerol kinase","[Pseudomonas] geniculata",86188,499
+WP_004845215.1,"glycerol kinase","[Ruminococcus] torques",33039,504
+WP_004800582.1,"glycerol kinase","Absiella dolichum",31971,493
+WP_018135657.1,"glycerol kinase","Acaricomes phytoseiuli",291968,507
+WP_013362164.1,"glycerol kinase","Acetoanaerobium sticklandii",1511,499
+WP_014355299.1,"glycerol kinase","Acetobacterium woodii",33952,495
+WP_014355643.1,"glycerol kinase","Acetobacterium woodii",33952,501
+WP_014355664.1,"glycerol kinase","Acetobacterium woodii",33952,496
+WP_014356050.1,"glycerol kinase GlpK","Acetobacterium woodii",33952,495
+WP_014356707.1,"glycerol kinase","Acetobacterium woodii",33952,505
+WP_014356711.1,"glycerol kinase","Acetobacterium woodii",33952,501
+WP_014807545.1,"glycerol kinase","Acetomicrobium mobile",97477,503
+WP_004099131.1,"glycerol kinase","Acetonema longum",2374,498
+WP_006386932.1,"glycerol kinase","Achromobacter",222,507
+WP_008165359.1,"glycerol kinase","Achromobacter arsenitoxydans",1147684,508
+WP_006392678.1,"glycerol kinase","Achromobacter insuavis",1287735,507
+WP_006217168.1,"glycerol kinase","Achromobacter piechaudii",72556,516
+WP_006228001.1,"glycerol kinase","Achromobacter piechaudii",72556,508
+WP_015798310.1,"glycerol kinase","Acidimicrobium ferrooxidans",53635,497
+WP_007424080.1,"glycerol kinase","Acidiphilium",522,499
+WP_013640795.1,"glycerol kinase","Acidiphilium multivorum",62140,499
+WP_015072019.1,"glycerol kinase","Acidipropionibacterium acidipropionici",1748,509
+WP_010640977.1,"glycerol kinase","Acidithiobacillus thiooxidans",930,499
+WP_020722088.1,"glycerol kinase","Acidobacteriaceae bacterium KBS 96",1267535,489
+WP_008494847.1,"glycerol kinase","Acidocella",50709,499
+WP_013593061.1,"glycerol kinase","Acidovorax avenae",80867,506
+WP_019701401.1,"glycerol kinase","Acidovorax avenae",80867,506
+WP_011793777.1,"glycerol kinase","Acidovorax citrulli",80869,506
+WP_005793613.1,"glycerol kinase","Acidovorax delafieldii",47920,497
+WP_012655434.1,"glycerol kinase","Acidovorax ebreus",721785,498
+WP_010466352.1,"glycerol kinase","Acidovorax radicis",758826,497
+WP_007861687.1,"glycerol kinase","Acidovorax sp. CF316",1144317,497
+WP_011803844.1,"glycerol kinase","Acidovorax sp. JS42",232721,498
+WP_015016028.1,"glycerol kinase","Acidovorax sp. KKS102",358220,497
+WP_020227942.1,"glycerol kinase","Acidovorax sp. MR-S7",1268622,496
+WP_004279291.1,"glycerol kinase","Acinetobacter",469,494
+WP_004646148.1,"glycerol kinase","Acinetobacter",469,494
+WP_004652021.1,"glycerol kinase","Acinetobacter",469,504
+WP_004663369.1,"glycerol kinase","Acinetobacter",469,504
+WP_004681481.1,"glycerol kinase","Acinetobacter",469,502
+WP_004699649.1,"glycerol kinase","Acinetobacter",469,502
+WP_004760975.1,"glycerol kinase","Acinetobacter",469,502
+WP_004783217.1,"glycerol kinase","Acinetobacter",469,494
+WP_004921999.1,"glycerol kinase","Acinetobacter",469,495
+WP_004984334.1,"glycerol kinase","Acinetobacter",469,494
+WP_005018953.1,"glycerol kinase","Acinetobacter",469,495
+WP_005027454.1,"glycerol kinase","Acinetobacter",469,495
+WP_005067618.1,"glycerol kinase","Acinetobacter",469,502
+WP_005081717.1,"glycerol kinase","Acinetobacter",469,504
+WP_005144845.1,"glycerol kinase","Acinetobacter",469,504
+WP_005202079.1,"glycerol kinase","Acinetobacter",469,504
+WP_005231833.1,"glycerol kinase","Acinetobacter",469,504
+WP_005243524.1,"glycerol kinase","Acinetobacter",469,504
+WP_005251174.1,"glycerol kinase","Acinetobacter",469,494
+WP_005267342.1,"glycerol kinase","Acinetobacter",469,494
+WP_005406697.1,"glycerol kinase","Acinetobacter",469,495
+WP_007481743.1,"glycerol kinase","Acinetobacter",469,504
+WP_009585923.1,"glycerol kinase","Acinetobacter",469,493
+WP_017385778.1,"glycerol kinase","Acinetobacter",469,502
+WP_017387801.1,"glycerol kinase","Acinetobacter",469,502
+WP_019838356.1,"glycerol kinase","Acinetobacter",469,494
+WP_000063769.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063770.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063771.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063772.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063773.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063774.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063775.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063776.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063778.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063781.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063782.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063783.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063784.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_000063786.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_002133046.1,"glycerol kinase","Acinetobacter baumannii",470,502
+WP_005055194.1,"glycerol kinase","Acinetobacter beijerinckii",262668,504
+WP_005062914.1,"glycerol kinase","Acinetobacter beijerinckii",262668,504
+WP_004829750.1,"glycerol kinase","Acinetobacter bereziniae",106648,493
+WP_005033341.1,"glycerol kinase","Acinetobacter bereziniae",106648,493
+WP_004651070.1,"glycerol kinase","Acinetobacter bohemicus",1435036,494
+WP_005011699.1,"glycerol kinase","Acinetobacter bouvetii",202951,494
+WP_004903197.1,"glycerol kinase","Acinetobacter brisouii",396323,495
+WP_016137270.1,"glycerol kinase","Acinetobacter calcoaceticus",471,502
+WP_017390068.1,"glycerol kinase","Acinetobacter calcoaceticus",471,502
+WP_017391187.1,"glycerol kinase","Acinetobacter calcoaceticus",471,502
+WP_000063779.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_000063780.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_002048566.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_002115540.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_004885534.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_017394280.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_017480494.1,"glycerol kinase","Acinetobacter calcoaceticus/baumannii complex",909768,502
+WP_004862903.1,"glycerol kinase","Acinetobacter gerneri",202952,494
+WP_004723625.1,"glycerol kinase","Acinetobacter guillouiae",106649,493
+WP_004817514.1,"glycerol kinase","Acinetobacter guillouiae",106649,493
+WP_016541215.1,"glycerol kinase","Acinetobacter gyllenbergii",134534,504
+WP_004638301.1,"glycerol kinase","Acinetobacter haemolyticus",29430,504
+WP_017395622.1,"glycerol kinase","Acinetobacter haemolyticus",29430,504
+WP_016659445.1,"glycerol kinase","Acinetobacter indicus",756892,494
+WP_004694833.1,"glycerol kinase","Acinetobacter johnsonii",40214,494
+WP_004912734.1,"glycerol kinase","Acinetobacter junii",40215,504
+WP_004963379.1,"glycerol kinase","Acinetobacter junii",40215,504
+WP_004730545.1,"glycerol kinase","Acinetobacter lwoffii",28090,494
+WP_005096063.1,"glycerol kinase","Acinetobacter lwoffii",28090,494
+WP_005104771.1,"glycerol kinase","Acinetobacter lwoffii",28090,494
+WP_005107691.1,"glycerol kinase","Acinetobacter lwoffii",28090,494
+WP_004707363.1,"glycerol kinase","Acinetobacter nosocomialis",106654,502
+WP_013197002.1,"glycerol kinase","Acinetobacter oleivorans",1148157,502
+WP_004674902.1,"glycerol kinase","Acinetobacter parvus",134533,502
+WP_005072978.1,"glycerol kinase","Acinetobacter pittii",48296,502
+WP_014207452.1,"glycerol kinase","Acinetobacter pittii",48296,502
+WP_016140189.1,"glycerol kinase","Acinetobacter pittii",48296,502
+WP_016146211.1,"glycerol kinase","Acinetobacter pittii",48296,502
+WP_017399637.1,"glycerol kinase","Acinetobacter pittii",48296,502
+WP_004811098.1,"glycerol kinase","Acinetobacter schindleri",108981,494
+WP_004893343.1,"glycerol kinase","Acinetobacter schindleri",108981,494
+WP_004935523.1,"glycerol kinase","Acinetobacter soli",487316,495
+WP_004945906.1,"glycerol kinase","Acinetobacter soli",487316,495
+WP_005221135.1,"glycerol kinase","Acinetobacter sp. CIP 101934",1144661,494
+WP_005329277.1,"glycerol kinase","Acinetobacter sp. CIP 102143",1144666,502
+WP_005247089.1,"glycerol kinase","Acinetobacter sp. CIP 51.11",1144670,494
+WP_005179748.1,"glycerol kinase","Acinetobacter sp. CIP 53.82",1144671,494
+WP_004801481.1,"glycerol kinase","Acinetobacter sp. CIP 56.2",1144672,504
+WP_004670320.1,"glycerol kinase","Acinetobacter sp. CIP-A165",40373,494
+WP_019456546.1,"glycerol kinase","Acinetobacter sp. GG2",651305,502
+WP_008305563.1,"glycerol kinase","Acinetobacter sp. HA",1173062,494
+WP_005269757.1,"glycerol kinase","Acinetobacter sp. NIPH 1859",1217695,504
+WP_016651637.1,"glycerol kinase","Acinetobacter sp. NIPH 2036",1217696,504
+WP_005296128.1,"glycerol kinase","Acinetobacter sp. NIPH 2100",1217708,504
+WP_005259085.1,"glycerol kinase","Acinetobacter sp. NIPH 2168",1217706,504
+WP_005158115.1,"glycerol kinase","Acinetobacter sp. NIPH 284",1217704,504
+WP_005197918.1,"glycerol kinase","Acinetobacter sp. NIPH 298",1217692,504
+WP_005307907.1,"glycerol kinase","Acinetobacter sp. NIPH 542",1217688,502
+WP_005172291.1,"glycerol kinase","Acinetobacter sp. NIPH 713",1217709,494
+WP_004770367.1,"glycerol kinase","Acinetobacter sp. NIPH 758",1217712,504
+WP_004790482.1,"glycerol kinase","Acinetobacter sp. NIPH 817",520708,502
+WP_010115765.1,"glycerol kinase","Acinetobacter sp. P8-3-8",1029823,494
+WP_009392181.1,"glycerol kinase","Acinetobacter sp. WC-141",903915,502
+WP_018679701.1,"glycerol kinase","Acinetobacter tjernbergiae",202955,504
+WP_004975387.1,"glycerol kinase","Acinetobacter towneri",202956,494
+WP_004990838.1,"glycerol kinase","Acinetobacter ursingii",108980,495
+WP_004996084.1,"glycerol kinase","Acinetobacter ursingii",108980,495
+WP_005002941.1,"glycerol kinase","Acinetobacter ursingii",108980,495
+WP_004878344.1,"glycerol kinase","Acinetobacter venetianus",52133,504
+WP_019383911.1,"glycerol kinase","Acinetobacter venetianus",52133,504
+WP_016698736.1,"glycerol kinase","Actinoalloteichus spitiensis",252394,505
+WP_018651706.1,"glycerol kinase","Actinobacillus capsulatus",717,500
+WP_005819243.1,"glycerol kinase","Actinobacillus minor",51047,503
+WP_005825787.1,"glycerol kinase","Actinobacillus minor",51047,503
+WP_005596375.1,"glycerol kinase","Actinobacillus pleuropneumoniae",715,503
+WP_005603652.1,"glycerol kinase","Actinobacillus pleuropneumoniae",715,503
+WP_005619017.1,"glycerol kinase","Actinobacillus pleuropneumoniae",715,503
+WP_014991259.1,"glycerol kinase","Actinobacillus suis",716,500
+WP_016460391.1,"glycerol kinase","Actinobacteria",1760,506
+WP_019045226.1,"glycerol kinase","Actinobacteria",1760,496
+WP_019045228.1,"glycerol kinase","Actinobacteria",1760,505
+WP_019045288.1,"glycerol kinase","Actinobacteria",1760,498
+WP_018682408.1,"glycerol kinase","Actinokineospora enzanensis",155975,503
+WP_019633330.1,"glycerol kinase","Actinomadura atramentaria",1990,510
+WP_019633350.1,"glycerol kinase","Actinomadura atramentaria",1990,503
+WP_018653784.1,"glycerol kinase","Actinomadura flavalba",1120938,506
+WP_018655634.1,"glycerol kinase","Actinomadura flavalba",1120938,505
+WP_018656205.1,"glycerol kinase","Actinomadura flavalba",1120938,505
+WP_009743621.1,"glycerol kinase","Actinomyces",1654,506
+WP_005962316.1,"glycerol kinase","Actinomyces cardiffensis",181487,508
+WP_016444745.1,"glycerol kinase","Actinomyces europaeus",66228,508
+WP_005868694.1,"glycerol kinase","Actinomyces georgiae",52768,506
+WP_005986166.1,"glycerol kinase","Actinomyces graevenitzii",55565,585
+WP_008730923.1,"glycerol kinase","Actinomyces massiliensis",461393,521
+WP_017194642.1,"glycerol kinase","Actinomyces massiliensis",461393,521
+WP_003784692.1,"glycerol kinase","Actinomyces naeslundii",1655,521
+WP_003790702.1,"glycerol kinase","Actinomyces odontolyticus",1660,506
+WP_003795743.1,"glycerol kinase","Actinomyces odontolyticus",1660,506
+WP_010614478.1,"glycerol kinase","Actinomyces oris",544580,511
+WP_007589707.1,"glycerol kinase","Actinomyces sp. ICM39",1105029,506
+WP_009648566.1,"glycerol kinase","Actinomyces sp. ICM47",936548,507
+WP_009055628.1,"glycerol kinase","Actinomyces sp. ICM58",1105030,506
+WP_009747194.1,"glycerol kinase","Actinomyces sp. oral taxon 170",712117,517
+WP_009394447.1,"glycerol kinase","Actinomyces sp. oral taxon 171",706438,511
+WP_009213158.1,"glycerol kinase","Actinomyces sp. oral taxon 180",651609,506
+WP_009748789.1,"glycerol kinase","Actinomyces sp. oral taxon 448",712124,531
+WP_009198563.1,"glycerol kinase","Actinomyces sp. oral taxon 848",649739,508
+WP_009233209.1,"glycerol kinase","Actinomyces sp. oral taxon 849",653385,521
+WP_017177402.1,"glycerol kinase","Actinomyces timonensis",1288391,508
+WP_006680839.1,"glycerol kinase","Actinomyces turicensis",131111,508
+WP_006548290.1,"glycerol kinase","Actinomyces urogenitalis",103621,509
+WP_003789194.1,"glycerol kinase","Actinomyces viscosus",1656,511
+WP_004807519.1,"glycerol kinase","Actinomycetaceae",2049,508
+WP_009408660.1,"glycerol kinase","Actinomycetaceae",2049,506
+WP_018333955.1,"glycerol kinase","Actinomycetospora chiangmaiensis",402650,500
+WP_014690877.1,"glycerol kinase","Actinoplanes",1865,492
+WP_014692584.1,"glycerol kinase","Actinoplanes",1865,505
+WP_014692587.1,"glycerol kinase","Actinoplanes",1865,498
+WP_020513734.1,"glycerol kinase","Actinoplanes globisporus",113565,485
+WP_014441379.1,"glycerol kinase","Actinoplanes missouriensis",1866,485
+WP_014441381.1,"glycerol kinase","Actinoplanes missouriensis",1866,486
+WP_014445904.1,"glycerol kinase","Actinoplanes missouriensis",1866,505
+WP_014445907.1,"glycerol kinase","Actinoplanes missouriensis",1866,497
+WP_015623342.1,"glycerol kinase","Actinoplanes sp. N902-109",649831,505
+WP_015623345.1,"glycerol kinase","Actinoplanes sp. N902-109",649831,501
+WP_014690879.1,"glycerol kinase","Actinoplanes sp. SE50/110",134676,489
+WP_017973385.1,"glycerol kinase","Actinopolyspora halophila",1850,501
+WP_019855435.1,"glycerol kinase","Actinopolyspora mortivallis",33906,502
+WP_015805093.1,"glycerol kinase","Actinosynnema mirum",40567,504
+WP_014749304.1,"glycerol kinase","Advenella kashmirensis",310575,494
+WP_013668610.1,"glycerol kinase","Aerococcus urinae",1376,503
+WP_003142641.1,"glycerol kinase","Aerococcus viridans",1377,508
+WP_016897111.1,"glycerol kinase","Aerococcus viridans",1377,508
+WP_007078372.1,"glycerol kinase","Aeromicrobium marinum",219314,510
+WP_005299552.1,"glycerol kinase","Aeromonas",642,500
+WP_005310059.1,"glycerol kinase","Aeromonas",642,500
+WP_005337546.1,"glycerol kinase","Aeromonas",642,500
+WP_010674229.1,"glycerol kinase","Aeromonas",642,500
+WP_017409920.1,"glycerol kinase","Aeromonas",642,500
+WP_005359284.1,"glycerol kinase","Aeromonas diversa",502790,500
+WP_011705539.1,"glycerol kinase","Aeromonas hydrophila",644,500
+WP_016350303.1,"glycerol kinase","Aeromonas hydrophila",644,500
+WP_005901751.1,"glycerol kinase","Aeromonas molluscorum",271417,500
+WP_005347048.1,"glycerol kinase","Aeromonas veronii",654,500
+WP_016399864.1,"glycerol kinase","Agarivorans albus",182262,504
+WP_005700405.1,"glycerol kinase","Aggregatibacter aphrophilus",732,499
+WP_005703098.1,"glycerol kinase","Aggregatibacter aphrophilus",732,499
+WP_006717987.1,"glycerol kinase","Aggregatibacter segnis",739,499
+WP_003804720.1,"glycerol kinase","Alcaligenes faecalis",511,497
+WP_008203174.1,"glycerol kinase","Algoriphagus machipongonensis",388413,500
+WP_013520748.1,"glycerol kinase","Alicycliphilus denitrificans",179636,501
+WP_013723140.1,"glycerol kinase","Alicycliphilus denitrificans",179636,501
+WP_008337869.1,"glycerol kinase","Alicyclobacillus acidocaldarius",405212,501
+WP_012809514.1,"glycerol kinase","Alicyclobacillus acidocaldarius",405212,501
+WP_006445471.1,"glycerol kinase","Alicyclobacillus hesperidum",89784,514
+WP_012551735.1,"glycerol kinase","Aliivibrio",511678,504
+WP_005422118.1,"glycerol kinase","Aliivibrio fischeri",668,504
+WP_011263133.1,"glycerol kinase","Aliivibrio fischeri",668,504
+WP_012535407.1,"glycerol kinase","Aliivibrio fischeri",668,504
+WP_019245197.1,"glycerol kinase","Alistipes ihumii",1470347,500
+WP_019129470.1,"glycerol kinase","Alistipes obesi",1118061,498
+WP_018695943.1,"glycerol kinase","Alistipes onderdonkii",328813,497
+WP_010259588.1,"glycerol kinase","Alistipes timonensis",1465754,497
+WP_017186513.1,"glycerol kinase","Alkalibacillus haloalkaliphilus",94136,497
+WP_011629059.1,"glycerol kinase","Alkalilimnicola ehrlichii",351052,495
+WP_011971692.1,"glycerol kinase","Alkaliphilus metalliredigens",208226,500
+WP_012158861.1,"glycerol kinase","Alkaliphilus oremlandii",461876,504
+WP_018526887.1,"glycerol kinase","Alkalispirochaeta alkalica",46356,499
+WP_019893127.1,"glycerol kinase","Allobaculum stercoricanis",174709,499
+WP_018659033.1,"glycerol kinase","Allofustis seminis",166939,504
+WP_003777315.1,"glycerol kinase","Alloiococcus otitis",1652,502
+WP_014954294.1,"glycerol kinase","alpha proteobacterium HIMB59",744985,493
+WP_006301602.1,"glycerol kinase","Aminomonas paucivorans",81412,509
+WP_017470783.1,"glycerol kinase","Amphibacillus jilinensis",1216008,497
+WP_015010650.1,"glycerol kinase","Amphibacillus xylanus",1449,497
+WP_020633536.1,"glycerol kinase","Amycolatopsis alba",76020,504
+WP_020634636.1,"glycerol kinase","Amycolatopsis alba",76020,505
+WP_005167273.1,"glycerol kinase","Amycolatopsis azurea",36819,505
+WP_005167726.1,"glycerol kinase","Amycolatopsis azurea",36819,513
+WP_020643440.1,"glycerol kinase","Amycolatopsis balhimycina",208443,504
+WP_020647395.1,"glycerol kinase","Amycolatopsis balhimycina",208443,504
+WP_020662584.1,"glycerol kinase","Amycolatopsis benzoatilytica",346045,502
+WP_007031951.1,"glycerol kinase","Amycolatopsis decaplanina",208441,503
+WP_007033226.1,"glycerol kinase","Amycolatopsis decaplanina",208441,505
+WP_013222837.1,"glycerol kinase","Amycolatopsis mediterranei",33910,504
+WP_013226257.1,"glycerol kinase","Amycolatopsis mediterranei",33910,504
+WP_017983583.1,"glycerol kinase GlpK","Amycolatopsis methanolica",1814,498
+WP_020668184.1,"glycerol kinase","Amycolatopsis nigrescens",381445,502
+WP_020672234.1,"glycerol kinase","Amycolatopsis nigrescens",381445,502
+WP_020672237.1,"glycerol kinase","Amycolatopsis nigrescens",381445,505
+WP_016331321.1,"glycerol kinase","Amycolatopsis orientalis",31958,503
+WP_016335195.1,"glycerol kinase","Amycolatopsis orientalis",31958,505
+WP_020422811.1,"glycerol kinase","Amycolatopsis sp. ATCC 39116",385957,503
+WP_020423170.1,"glycerol kinase","Amycolatopsis sp. ATCC 39116",385957,500
+WP_003057219.1,"glycerol kinase","Amycolatopsis vancoresmycina",208444,504
+WP_003082344.1,"glycerol kinase","Amycolatopsis vancoresmycina",208444,504
+WP_015217632.1,"glycerol kinase","Anabaena cylindrica",1165,497
+WP_016948833.1,"glycerol kinase","Anabaena sp. PCC 7108",163908,497
+WP_019118271.1,"glycerol kinase","Anaerococcus",165779,501
+WP_004816959.1,"glycerol kinase","Anaerococcus hydrogenalis",33029,501
+WP_004827973.1,"glycerol kinase","Anaerococcus lactolyticus",33032,501
+WP_004835766.1,"glycerol kinase","Anaerococcus prevotii",33034,501
+WP_015778410.1,"glycerol kinase","Anaerococcus prevotii",33034,501
+WP_019116385.1,"glycerol kinase","Anaerococcus vaginalis",33037,501
+WP_007050990.1,"glycerol kinase","Anaerofustis stercorihominis",214853,500
+WP_013561135.1,"glycerol kinase","Anaerolinea thermophila",167964,495
+WP_018702084.1,"glycerol kinase","Anaeromusa acidaminophila",81464,497
+WP_006567424.1,"glycerol kinase","Anaerostipes caccae",105841,498
+WP_009289239.1,"glycerol kinase","Anaerostipes sp. 3_2_56FAA",665937,498
+WP_003398924.1,"glycerol kinase","Anoxybacillus flavithermus",33934,494
+WP_004890561.1,"glycerol kinase","Anoxybacillus flavithermus",33934,494
+WP_006318353.1,"glycerol kinase","Anoxybacillus flavithermus",33934,496
+WP_019418311.1,"glycerol kinase","Anoxybacillus kamchatkensis",196180,496
+WP_009361171.1,"glycerol kinase","Anoxybacillus sp. DT3-1",690871,494
+WP_010880244.1,"glycerol kinase","Aquifex aeolicus",63363,492
+WP_013169518.1,"glycerol kinase","Arcanobacterium haemolyticum",28264,507
+WP_019387622.1,"glycerol kinase","Arenitalea lutea",1178825,499
+WP_011238336.1,"glycerol kinase","Aromatoleum aromaticum",551760,496
+WP_018769291.1,"glycerol kinase","Arthrobacter",1663,504
+WP_005271764.1,"glycerol kinase","Arthrobacter crystallopoietes",37928,504
+WP_003800801.1,"glycerol kinase","Arthrobacter globiformis",1665,504
+WP_009358815.1,"glycerol kinase","Arthrobacter nitrophenolicus",683150,504
+WP_018773124.1,"glycerol kinase","Arthrobacter sp. 131MFCol6.1",1157944,504
+WP_018761406.1,"glycerol kinase","Arthrobacter sp. 135MFCol5.1",1158050,504
+WP_011691659.1,"glycerol kinase","Arthrobacter sp. FB24",290399,509
+WP_011692092.1,"glycerol kinase","Arthrobacter sp. FB24",290399,504
+WP_017200028.1,"glycerol kinase","Arthrobacter sp. M2012083",1197706,499
+WP_019482796.1,"glycerol kinase","Arthrobacter sp. TB 23",494419,504
+WP_002436767.1,"glycerol kinase","Atlantibacter hermannii",565,501
+WP_006502359.1,"glycerol kinase","Austwickia chelonae",100225,506
+WP_017807359.1,"glycerol kinase","Avibacterium paragallinarum",728,502
+WP_011766477.1,"glycerol kinase","Azoarcus sp. BH72",62928,496
+WP_015434842.1,"glycerol kinase","Azoarcus sp. KH32C",748247,497
+WP_018990843.1,"glycerol kinase","Azoarcus toluclasticus",92003,496
+WP_012171234.1,"glycerol kinase","Azorhizobium caulinodans",7,498
+WP_012703050.1,"glycerol kinase","Azotobacter vinelandii",354,505
+WP_003251439.1,"glycerol kinase","Bacillaceae",186817,496
+WP_008173628.1,"glycerol kinase","Bacillaceae",186817,498
+WP_008634055.1,"glycerol kinase","Bacillaceae",186817,499
+WP_013401182.1,"glycerol kinase","Bacillaceae",186817,496
+WP_018392425.1,"glycerol kinase","Bacillaceae",186817,496
+WP_014113171.1,"glycerol kinase","Bacillales",1385,496
+WP_016741429.1,"glycerol kinase","Bacillales",1385,499
+WP_002357138.1,"glycerol kinase","Bacilli",91061,501
+WP_000759975.1,"glycerol kinase","Bacillus",1386,496
+WP_000759991.1,"glycerol kinase","Bacillus",1386,496
+WP_000759995.1,"glycerol kinase","Bacillus",1386,496
+WP_000759998.1,"glycerol kinase","Bacillus",1386,496
+WP_000760003.1,"glycerol kinase","Bacillus",1386,496
+WP_000760007.1,"glycerol kinase","Bacillus",1386,496
+WP_000760008.1,"glycerol kinase","Bacillus",1386,496
+WP_000760009.1,"glycerol kinase","Bacillus",1386,496
+WP_000760011.1,"glycerol kinase","Bacillus",1386,496
+WP_000760013.1,"glycerol kinase","Bacillus",1386,496
+WP_000760015.1,"glycerol kinase","Bacillus",1386,496
+WP_002125757.1,"glycerol kinase","Bacillus",1386,496
+WP_003180088.1,"glycerol kinase","Bacillus",1386,496
+WP_003195725.1,"glycerol kinase","Bacillus",1386,496
+WP_003233384.1,"glycerol kinase","Bacillus",1386,496
+WP_007409284.1,"glycerol kinase","Bacillus",1386,496
+WP_007497075.1,"glycerol kinase","Bacillus",1386,498
+WP_007610291.1,"glycerol kinase","Bacillus",1386,496
+WP_009794678.1,"glycerol kinase","Bacillus",1386,496
+WP_013055263.1,"glycerol kinase","Bacillus",1386,496
+WP_014304694.1,"glycerol kinase","Bacillus",1386,496
+WP_014417284.1,"glycerol kinase","Bacillus",1386,496
+WP_016082604.1,"glycerol kinase","Bacillus",1386,496
+WP_016089017.1,"glycerol kinase","Bacillus",1386,496
+WP_016762943.1,"glycerol kinase","Bacillus",1386,496
+WP_016938408.1,"glycerol kinase","Bacillus",1386,496
+WP_019393963.1,"glycerol kinase","Bacillus",1386,496
+WP_018665197.1,"glycerol kinase","Bacillus acidiproducens",1121084,496
+WP_003155342.1,"glycerol kinase","Bacillus amyloliquefaciens group",1938374,496
+WP_000759993.1,"glycerol kinase","Bacillus anthracis",1392,496
+WP_003331610.1,"glycerol kinase","Bacillus azotoformans",1454,496
+WP_007086963.1,"glycerol kinase","Bacillus bataviensis",220685,496
+WP_017152957.1,"glycerol kinase","Bacillus bingmayongensis",1150157,496
+WP_013487987.1,"glycerol kinase","Bacillus cellulosilyticus",1413,501
+WP_000759976.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759978.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759979.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759980.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759982.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759983.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759985.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759986.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759988.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759990.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759992.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759994.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759996.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759999.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000760004.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000760010.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000760012.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_001993992.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_002087182.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_002150096.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_002170697.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_016094611.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_016122053.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_017561267.1,"glycerol kinase","Bacillus cereus",1396,496
+WP_000759981.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000759987.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000759997.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000760000.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000760005.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000760006.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_000760014.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_001988667.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_002011107.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_002116721.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_002159019.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_002188617.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_002201498.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_003206083.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_016113654.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_016513877.1,"glycerol kinase","Bacillus cereus group",86661,496
+WP_011246107.1,"glycerol kinase","Bacillus clausii",79880,500
+WP_011248223.1,"glycerol kinase","Bacillus clausii",79880,498
+WP_013858256.1,"glycerol kinase","Bacillus coagulans",1398,496
+WP_014096281.1,"glycerol kinase","Bacillus coagulans",1398,496
+WP_017550623.1,"glycerol kinase","Bacillus coagulans",1398,496
+WP_017554090.1,"glycerol kinase","Bacillus coagulans",1398,496
+WP_011983899.1,"glycerol kinase","Bacillus cytotoxicus",580165,496
+WP_018705027.1,"glycerol kinase","Bacillus fordii",254759,498
+WP_010897263.1,"glycerol kinase","Bacillus halodurans",86665,497
+WP_017728727.1,"glycerol kinase","Bacillus ligniniphilus",1134413,497
+WP_019240321.1,"glycerol kinase","Bacillus massilioanorexius",1468413,497
+WP_019240328.1,"glycerol kinase","Bacillus massilioanorexius",1468413,496
+WP_019153403.1,"glycerol kinase","Bacillus massiliosenegalensis",1287657,496
+WP_013081635.1,"glycerol kinase","Bacillus megaterium",1404,496
+WP_014461712.1,"glycerol kinase","Bacillus megaterium",1404,496
+WP_003350499.1,"glycerol kinase","Bacillus methanolicus",1471,496
+WP_004433694.1,"glycerol kinase","Bacillus methanolicus",1471,496
+WP_010333529.1,"glycerol kinase","Bacillus mojavensis",72360,496
+WP_016203925.1,"glycerol kinase","Bacillus nealsonii",115979,496
+WP_019379657.1,"glycerol kinase","Bacillus oceanisediminis",665099,496
+WP_017754796.1,"glycerol kinase","Bacillus oryziterrae",1191699,496
+WP_012957483.1,"glycerol kinase","Bacillus pseudofirmus",79885,501
+WP_006093843.1,"glycerol kinase","Bacillus pseudomycoides",64104,496
+WP_003212099.1,"glycerol kinase","Bacillus pumilus",1408,498
+WP_012009401.1,"glycerol kinase","Bacillus pumilus",1408,498
+WP_003353102.1,"glycerol kinase","Bacillus smithii",1479,497
+WP_006636600.1,"glycerol kinase","Bacillus sonorensis",119858,496
+WP_020062052.1,"glycerol kinase","Bacillus sp. 123MFChir2",1169144,496
+WP_015594189.1,"glycerol kinase","Bacillus sp. 1NLA3E",666686,496
+WP_009332513.1,"glycerol kinase","Bacillus sp. 2_A_57_CT2",665959,496
+WP_008181733.1,"glycerol kinase","Bacillus sp. B14905",388400,497
+WP_009328988.1,"glycerol kinase","Bacillus sp. BT1B_CT2",665958,496
+WP_014663336.1,"glycerol kinase","Bacillus sp. JS",1127744,496
+WP_010198265.1,"glycerol kinase","Bacillus sp. m3-13",406124,496
+WP_003224126.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_003239584.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_014476263.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_014479286.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_019257893.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_019713769.1,"glycerol kinase","Bacillus subtilis",1423,496
+WP_003327832.1,"glycerol kinase","Bacillus subtilis group",653685,496
+WP_013351645.1,"glycerol kinase","Bacillus subtilis group",653685,496
+WP_000759984.1,"glycerol kinase","Bacillus thuringiensis",1428,496
+WP_000759989.1,"glycerol kinase","Bacillus thuringiensis",1428,496
+WP_000760001.1,"glycerol kinase","Bacillus thuringiensis",1428,496
+WP_000760002.1,"glycerol kinase","Bacillus thuringiensis",1428,496
+WP_010283615.1,"glycerol kinase","Bacillus timonensis",1033734,496
+WP_010327773.1,"glycerol kinase","Bacillus vallismortis",72361,496
+WP_015239470.1,"glycerol kinase","Bacillus velezensis",492670,496
+WP_008361508.1,"glycerol kinase","Bacillus xiamenensis",1178537,498
+WP_006808669.1,"glycerol kinase","Bacteria",2,502
+WP_012319152.1,"glycerol kinase","Bacteria",2,501
+WP_005855008.1,"glycerol kinase","Bacteroidales",171549,499
+WP_008773317.1,"glycerol kinase","Bacteroidales",171549,499
+WP_006743942.1,"glycerol kinase","Bacteroides coprosuis",151276,495
+WP_018128063.1,"glycerol kinase","Balneola vulgaris",287535,498
+WP_008038366.1,"glycerol kinase","Bartonella tamiae",373638,503
+WP_012383391.1,"glycerol kinase","Beijerinckia indica",533,507
+WP_014772271.1,"glycerol kinase","Belliella baltica",232259,496
+WP_014772991.1,"glycerol kinase","Belliella baltica",232259,499
+WP_017507212.1,"glycerol kinase","beta proteobacterium L13",1229489,500
+WP_015883771.1,"glycerol kinase","Beutenbergia cavernae",84757,505
+WP_008297094.1,"glycerol kinase","Bhargavaea cecembensis",394098,497
+WP_015433170.1,"glycerol kinase","Bibersteinia trehalosi",47735,500
+WP_009733367.1,"glycerol kinase","Bilophila sp. 4_1_30",693988,496
+WP_005024890.1,"glycerol kinase","Bilophila wadsworthia",35833,496
+WP_014378628.1,"glycerol kinase","Blastococcus saxobsidens",138336,505
+WP_002652627.1,"glycerol kinase","Blastopirellula marina",124,498
+WP_014246356.1,"glycerol kinase","Blattabacterium punctulatus",164514,498
+WP_014726499.1,"glycerol kinase","Blattabacterium sp. (Blaberus giganteus)",1186051,500
+WP_012840981.1,"glycerol kinase","Blattabacterium sp. (Blattella germanica)",624186,498
+WP_014158661.1,"glycerol kinase","Blattabacterium sp. (Mastotermes darwiniensis)",39768,496
+WP_012821338.1,"glycerol kinase","Blattabacterium sp. (Periplaneta americana)",367488,498
+WP_005950041.1,"glycerol kinase","Blautia hydrogenotrophica",53443,498
+WP_005425514.1,"glycerol kinase","Blautia obeum",40520,500
+WP_003815059.1,"glycerol kinase","Bordetella",517,508
+WP_015040573.1,"glycerol kinase","Bordetella",517,508
+WP_012418690.1,"glycerol kinase","Bordetella avium",521,499
+WP_003820512.1,"glycerol kinase","Bordetella bronchiseptica",518,508
+WP_004567811.1,"glycerol kinase","Bordetella bronchiseptica",518,508
+WP_010931670.1,"glycerol kinase","Bordetella pertussis",520,508
+WP_019249116.1,"glycerol kinase","Bordetella pertussis",520,508
+WP_012247548.1,"glycerol kinase","Bordetella petrii",94624,506
+WP_019938056.1,"glycerol kinase","Bordetella sp. FB-8",1159870,505
+WP_014696123.1,"glycerol kinase","Borrelia crocidurae",29520,496
+WP_012538006.1,"glycerol kinase","Borrelia duttonii",40834,496
+WP_012422013.1,"glycerol kinase","Borrelia hermsii",140,495
+WP_011193582.1,"glycerol kinase","Borreliella",64895,501
+WP_004790383.1,"glycerol kinase","Borreliella afzelii",29518,501
+WP_015055420.1,"glycerol kinase","Borreliella afzelii",29518,501
+WP_014023490.1,"glycerol kinase","Borreliella bissettii",64897,501
+WP_002556840.1,"glycerol kinase","Borreliella burgdorferi",139,501
+WP_002656192.1,"glycerol kinase","Borreliella burgdorferi",139,501
+WP_002663811.1,"glycerol kinase","Borreliella burgdorferi",139,501
+WP_008882469.1,"glycerol kinase","Borreliella finlandensis",498741,501
+WP_004791616.1,"glycerol kinase","Borreliella garinii",29519,501
+WP_004793766.1,"glycerol kinase","Borreliella garinii",29519,501
+WP_006433586.1,"glycerol kinase","Borreliella spielmanii",88916,502
+WP_006068550.1,"glycerol kinase","Borreliella valaisiana",62088,501
+WP_015776956.1,"glycerol kinase","Brachybacterium faecium",43669,514
+WP_017823040.1,"glycerol kinase","Brachybacterium muris",219301,511
+WP_010549215.1,"glycerol kinase","Brachybacterium paraconglomeratum",173362,514
+WP_010532995.1,"glycerol kinase","Brachybacterium squillarum",661979,511
+WP_008721301.1,"glycerol kinase","Brachyspira hampsonii",1287055,494
+WP_008729417.1,"glycerol kinase","Brachyspira hampsonii",1287055,494
+WP_012671460.1,"glycerol kinase","Brachyspira hyodysenteriae",159,494
+WP_020005327.1,"glycerol kinase","Brachyspira innocens",13264,494
+WP_014489125.1,"glycerol kinase","Brachyspira intermedia",84377,494
+WP_013113762.1,"glycerol kinase","Brachyspira murdochii",84378,494
+WP_013243752.1,"glycerol kinase","Brachyspira pilosicoli",52584,494
+WP_014933723.1,"glycerol kinase","Brachyspira pilosicoli",52584,494
+WP_014936608.1,"glycerol kinase","Brachyspira pilosicoli",52584,494
+WP_009114848.1,"glycerol kinase","Brenneria sp. EniD312",598467,503
+WP_005830655.1,"glycerol kinase","Brevibacillus agri",51101,499
+WP_003386173.1,"glycerol kinase","Brevibacillus borstelensis",45462,497
+WP_015893267.1,"glycerol kinase","Brevibacillus brevis",1393,499
+WP_017251607.1,"glycerol kinase","Brevibacillus brevis",1393,499
+WP_003336492.1,"glycerol kinase","Brevibacillus laterosporus",1465,502
+WP_003339839.1,"glycerol kinase","Brevibacillus laterosporus",1465,502
+WP_018671874.1,"glycerol kinase","Brevibacillus laterosporus",1465,502
+WP_019119941.1,"glycerol kinase","Brevibacillus massiliensis",1118054,496
+WP_007718426.1,"glycerol kinase","Brevibacillus sp. BC25",1144308,499
+WP_007782986.1,"glycerol kinase","Brevibacillus sp. CF112",1144311,499
+WP_009380606.1,"glycerol kinase","Brevibacterium casei",33889,510
+WP_009882939.1,"glycerol kinase","Brevibacterium linens",1703,510
+WP_005882500.1,"glycerol kinase","Brevibacterium mcbrellneri",53363,491
+WP_019175201.1,"glycerol kinase","Brevibacterium ravenspurgense",479117,491
+WP_019157583.1,"glycerol kinase","Brevibacterium senegalense",1033736,500
+WP_006406533.1,"glycerol kinase","Burkholderia",32008,500
+WP_009911296.1,"glycerol kinase","Burkholderia",32008,500
+WP_010090755.1,"glycerol kinase","Burkholderia",32008,500
+WP_011546147.1,"glycerol kinase","Burkholderia",32008,500
+WP_011885953.1,"glycerol kinase","Burkholderia",32008,500
+WP_006751301.1,"glycerol kinase","Burkholderia ambifaria",152480,500
+WP_006757966.1,"glycerol kinase","Burkholderia ambifaria",152480,500
+WP_011657858.1,"glycerol kinase","Burkholderia ambifaria",152480,500
+WP_012364653.1,"glycerol kinase","Burkholderia ambifaria",152480,500
+WP_014896124.1,"glycerol kinase","Burkholderia cepacia",292,500
+WP_006484471.1,"glycerol kinase","Burkholderia cepacia complex",87882,500
+WP_006497360.1,"glycerol kinase","Burkholderia cepacia complex",87882,500
+WP_013699320.1,"glycerol kinase","Burkholderia gladioli",28095,500
+WP_015876960.1,"glycerol kinase","Burkholderia glumae",337,500
+WP_011203789.1,"glycerol kinase","Burkholderia mallei",13373,503
+WP_006398356.1,"glycerol kinase","Burkholderia multivorans",87883,500
+WP_009963560.1,"glycerol kinase","Burkholderia pseudomallei",28450,500
+WP_009972918.1,"glycerol kinase","Burkholderia pseudomallei",28450,500
+WP_017334119.1,"glycerol kinase","Burkholderia pyrrocinia",60550,500
+WP_013589557.1,"glycerol kinase","Burkholderia sp. CCGE1001",640510,499
+WP_013090479.1,"glycerol kinase","Burkholderia sp. CCGE1002",640511,499
+WP_013340435.1,"glycerol kinase","Burkholderia sp. CCGE1003",640512,499
+WP_007180458.1,"glycerol kinase","Burkholderia sp. Ch1-1",243261,499
+WP_008919605.1,"glycerol kinase","Burkholderia sp. H160",516466,499
+WP_018437720.1,"glycerol kinase","Burkholderia sp. JPY251",667585,499
+WP_018443743.1,"glycerol kinase","Burkholderia sp. JPY347",667632,499
+WP_016344349.1,"glycerol kinase","Burkholderia sp. RPE64",758793,498
+WP_016346831.1,"glycerol kinase","Burkholderia sp. RPE64",758793,511
+WP_018421757.1,"glycerol kinase","Burkholderia sp. WSM4176",935543,499
+WP_014190486.1,"glycerol kinase","Burkholderia sp. YI23",1097668,498
+WP_009892877.1,"glycerol kinase","Burkholderia thailandensis",57975,500
+WP_009903005.1,"glycerol kinase","Burkholderia thailandensis",57975,500
+WP_007586171.1,"glycerol kinase","Burkholderiaceae",119060,499
+WP_007737357.1,"glycerol kinase","Burkholderiaceae",119060,499
+WP_008346094.1,"glycerol kinase","Burkholderiaceae",119060,507
+WP_008351422.1,"glycerol kinase","Burkholderiaceae",119060,498
+WP_008812243.1,"glycerol kinase","Burkholderiales bacterium 1_1_47",469610,504
+WP_009553185.1,"glycerol kinase","Burkholderiales bacterium JOSHI_001",864051,497
+WP_016146820.1,"glycerol kinase","Butyricicoccus pullicaecorum",501571,499
+WP_018337917.1,"glycerol kinase","Butyricimonas synergistica",544644,500
+WP_013281135.1,"glycerol kinase","Butyrivibrio proteoclasticus",43305,500
+WP_009610750.1,"glycerol kinase","Caldanaerobacter subterraneus",911092,497
+WP_020156656.1,"glycerol kinase","Caldibacillus debilis",301148,496
+WP_019562069.1,"glycerol kinase","Caldimonas manganoxidans",196015,501
+WP_014453961.1,"glycerol kinase","Caldisericum exile",693075,504
+WP_008907470.1,"glycerol kinase","Caloramator australicus",515264,498
+WP_015766812.1,"glycerol kinase","Candidatus Accumulibacter phosphatis",327160,503
+WP_011523789.1,"glycerol kinase","Candidatus Koribacter versatilis",658062,498
+WP_006707492.1,"glycerol kinase","Candidatus Regiella insecticola",138073,514
+WP_013087639.1,"glycerol kinase GlpK","Candidatus Riesia pediculicola",401619,515
+WP_011687241.1,"glycerol kinase","Candidatus Solibacter usitatus",332163,494
+WP_011344733.1,"glycerol kinase","Carboxydothermus hydrogenoformans",129958,500
+WP_004141407.1,"glycerol kinase","Cardiobacterium hominis",2718,496
+WP_006984278.1,"glycerol kinase","Cardiobacterium valvarum",194702,496
+WP_007724540.1,"glycerol kinase","Carnobacterium",2747,505
+WP_010050233.1,"glycerol kinase","Carnobacterium maltaromaticum",2751,498
+WP_010052430.1,"glycerol kinase","Carnobacterium maltaromaticum",2751,502
+WP_013709800.1,"glycerol kinase","Carnobacterium sp. 17-4",208596,504
+WP_013711117.1,"glycerol kinase","Carnobacterium sp. 17-4",208596,501
+WP_007723398.1,"glycerol kinase","Carnobacterium sp. AT7",333990,501
+WP_009488925.1,"glycerol kinase","Catellicoccus marimammalium",300419,498
+WP_020525025.1,"glycerol kinase","Catelliglobosispora koreensis",129052,480
+WP_015793712.1,"glycerol kinase","Catenulispora acidiphila",304895,506
+WP_015793715.1,"glycerol kinase","Catenulispora acidiphila",304895,507
+WP_009186584.1,"glycerol kinase","Cecembia lonarensis",645110,496
+WP_013772655.1,"glycerol kinase","Cellulomonas fimi",1708,507
+WP_013115804.1,"glycerol kinase","Cellulomonas flavigena",1711,506
+WP_013882334.1,"glycerol kinase","Cellulomonas gilvus",11,507
+WP_019135877.1,"glycerol kinase","Cellulomonas massiliensis",1465811,507
+WP_013549579.1,"glycerol kinase","Cellulophaga algicola",59600,495
+WP_013620371.1,"glycerol kinase","Cellulophaga lytica",979,498
+WP_013655516.1,"glycerol kinase","Cellulosilyticum lentocellum",29360,503
+WP_012788401.1,"glycerol kinase","Chitinophaga pinensis",79329,513
+WP_014099661.1,"glycerol kinase","Chloracidobacterium thermophilum",458033,507
+WP_012503083.1,"glycerol kinase","Chlorobaculum parvum",274539,483
+WP_010931879.1,"glycerol kinase","Chlorobaculum tepidum",1097,483
+WP_006366095.1,"glycerol kinase","Chlorobium ferrooxidans",84205,483
+WP_012465121.1,"glycerol kinase","Chlorobium limicola",1092,493
+WP_012474394.1,"glycerol kinase","Chlorobium phaeobacteroides",1096,483
+WP_015961109.1,"glycerol kinase","Chlorobium phaeobacteroides",1096,483
+WP_012615391.1,"glycerol kinase","Chloroflexus aggregans",152260,498
+WP_012259133.1,"glycerol kinase","Chloroflexus aurantiacus",1108,498
+WP_015909396.1,"glycerol kinase","Chloroflexus sp. Y-400-fl",480224,498
+WP_011133806.1,"glycerol kinase","Chromobacterium",535,500
+WP_002978575.1,"glycerol kinase","Chryseobacterium",59732,503
+WP_002983179.1,"glycerol kinase","Chryseobacterium gleum",250,498
+WP_010145393.1,"glycerol kinase","Citricoccus sp. CH26A",1045009,509
+WP_016157908.1,"glycerol kinase","Citrobacter",544,502
+WP_003847857.1,"glycerol kinase","Citrobacter freundii",546,502
+WP_012907806.1,"glycerol kinase","Citrobacter rodentium",67825,502
+WP_006686207.1,"glycerol kinase","Citrobacter youngae",133448,502
+WP_012038518.1,"glycerol kinase","Clavibacter",1573,505
+WP_015490495.1,"glycerol kinase","Clavibacter nebraskensis",31963,505
+WP_002585172.1,"glycerol kinase","Clostridiales",186802,498
+WP_003401646.1,"glycerol kinase","Clostridiales",186802,498
+WP_007870166.1,"glycerol kinase","Clostridiales",186802,498
+WP_008393175.1,"glycerol kinase","Clostridiales",186802,497
+WP_008399380.1,"glycerol kinase","Clostridiales",186802,498
+WP_009893012.1,"glycerol kinase","Clostridiales",186802,504
+WP_013379156.1,"glycerol kinase","Clostridiales",186802,497
+WP_013379901.1,"glycerol kinase GlpK","Clostridiales",186802,497
+WP_013380617.1,"glycerol kinase GlpK","Clostridiales",186802,494
+WP_013381169.1,"glycerol kinase","Clostridiales",186802,494
+WP_013381373.1,"glycerol kinase","Clostridiales",186802,498
+WP_009269216.1,"glycerol kinase","Clostridioides difficile",1496,493
+WP_009902453.1,"glycerol kinase","Clostridioides difficile",1496,504
+WP_009905427.1,"glycerol kinase","Clostridioides difficile",1496,504
+WP_011861192.1,"glycerol kinase","Clostridioides difficile",1496,504
+WP_002580667.1,"glycerol kinase","Clostridium",1485,499
+WP_002599235.1,"glycerol kinase","Clostridium",1485,499
+WP_003361253.1,"glycerol kinase","Clostridium",1485,498
+WP_003378301.1,"glycerol kinase","Clostridium",1485,498
+WP_003494477.1,"glycerol kinase","Clostridium",1485,498
+WP_009060408.1,"glycerol kinase","Clostridium",1485,496
+WP_010298125.1,"glycerol kinase","Clostridium",1485,500
+WP_011723053.1,"glycerol kinase","Clostridium",1485,498
+WP_010964631.1,"glycerol kinase","Clostridium acetobutylicum",1488,498
+WP_012060665.1,"glycerol kinase","Clostridium beijerinckii",1520,499
+WP_003359217.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_003373509.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_011987067.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_012100593.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_012341873.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_012424579.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_013726512.1,"glycerol kinase","Clostridium botulinum",1491,516
+WP_014521514.1,"glycerol kinase","Clostridium botulinum",1491,498
+WP_003407258.1,"glycerol kinase","Clostridium butyricum",1492,499
+WP_003426069.1,"glycerol kinase","Clostridium butyricum",1492,499
+WP_007064269.1,"glycerol kinase","Clostridium carboxidivorans",217159,496
+WP_005214040.1,"glycerol kinase","Clostridium celatum",36834,497
+WP_003450593.1,"glycerol kinase","Clostridium perfringens",1502,500
+WP_003456800.1,"glycerol kinase","Clostridium perfringens",1502,500
+WP_003462978.1,"glycerol kinase","Clostridium perfringens",1502,500
+WP_003467821.1,"glycerol kinase","Clostridium perfringens",1502,500
+WP_015390910.1,"glycerol kinase","Clostridium saccharoperbutylacetonicum",36745,499
+WP_016205679.1,"glycerol kinase","Clostridium sartagoforme",84031,498
+WP_008680874.1,"glycerol kinase","Clostridium sp. 7_2_43FAA",457396,496
+WP_009297076.1,"glycerol kinase","Clostridium sp. 7_3_54FAA",665940,498
+WP_004079541.1,"glycerol kinase","Clostridium sp. ASF502",97139,499
+WP_014312271.1,"glycerol kinase","Clostridium sp. BNL1100",755731,498
+WP_009002313.1,"glycerol kinase","Clostridium sp. D5",556261,498
+WP_009168516.1,"glycerol kinase","Clostridium sp. DL-VIII",641107,499
+WP_009588380.1,"glycerol kinase","Clostridium sp. HGF2",908340,493
+WP_008421875.1,"glycerol kinase","Clostridium sp. LS",1352601,499
+WP_013976684.1,"glycerol kinase","Clostridium sp. SY8519",1042156,500
+WP_011099949.1,"glycerol kinase","Clostridium tetani",1513,498
+WP_011100588.1,"glycerol kinase","Clostridium tetani",1513,493
+WP_017414196.1,"glycerol kinase","Clostridium tunisiense",219748,498
+WP_017752631.1,"glycerol kinase","Clostridium tyrobutyricum",1519,497
+WP_019006501.1,"glycerol kinase","Cohnella laeviribosi",380174,498
+WP_003050488.1,"glycerol kinase","Comamonas testosteroni",285,498
+WP_003068397.1,"glycerol kinase","Comamonas testosteroni",285,498
+WP_003073861.1,"glycerol kinase","Comamonas testosteroni",285,498
+WP_012840094.1,"glycerol kinase","Comamonas testosteroni",285,498
+WP_012935385.1,"glycerol kinase","Conexibacter woesei",191495,499
+WP_008788073.1,"glycerol kinase","Coprobacillus",100883,495
+WP_008373317.1,"glycerol kinase","Coprococcus comes",410072,498
+WP_016441583.1,"glycerol kinase","Coprococcus sp. HPP0048",1078091,498
+WP_016439756.1,"glycerol kinase","Coprococcus sp. HPP0074",1078090,498
+WP_018962613.1,"glycerol kinase","Coprothermobacter platensis",108819,500
+WP_012544743.1,"glycerol kinase","Coprothermobacter proteolyticus",35786,498
+WP_013043962.1,"glycerol kinase","Coraliomargarita akajimensis",395922,497
+WP_003862629.1,"glycerol kinase","Corynebacterium",1716,509
+WP_005279713.1,"glycerol kinase","Corynebacterium",1716,515
+WP_016421657.1,"glycerol kinase","Corynebacterium",1716,518
+WP_003847924.1,"glycerol kinase","Corynebacterium ammoniagenes",1697,499
+WP_005510503.1,"glycerol kinase","Corynebacterium amycolatum",43765,518
+WP_010188529.1,"glycerol kinase","Corynebacterium aurimucosum",169292,515
+WP_015652283.1,"glycerol kinase","Corynebacterium callunae",1721,509
+WP_006822529.1,"glycerol kinase","Corynebacterium casei",160386,499
+WP_018019057.1,"glycerol kinase","Corynebacterium ciconiae",227319,510
+WP_006284780.1,"glycerol kinase","Corynebacterium crenatum",168810,509
+WP_004567377.1,"glycerol kinase","Corynebacterium diphtheriae",1717,506
+WP_010935685.1,"glycerol kinase","Corynebacterium diphtheriae",1717,506
+WP_014311017.1,"glycerol kinase","Corynebacterium diphtheriae",1717,489
+WP_014318336.1,"glycerol kinase","Corynebacterium diphtheriae",1717,506
+WP_014320564.1,"glycerol kinase","Corynebacterium diphtheriae",1717,489
+WP_018022035.1,"glycerol kinase","Corynebacterium doosanense",1121358,509
+WP_035109268.1,"glycerol kinase","Corynebacterium efficiens",152794,508
+WP_005288015.1,"glycerol kinase","Corynebacterium genitalium",38288,498
+WP_005389239.1,"glycerol kinase","Corynebacterium glucuronolyticum",39791,503
+WP_003857839.1,"glycerol kinase","Corynebacterium glutamicum",1718,509
+WP_015402044.1,"glycerol kinase","Corynebacterium halotolerans",225326,507
+WP_012730896.1,"glycerol kinase","Corynebacterium kroppenstedtii",161879,512
+WP_006840410.1,"glycerol kinase","Corynebacterium lipophiloflavum",161889,492
+WP_018295928.1,"glycerol kinase","Corynebacterium lubricantis",541095,495
+WP_018117792.1,"glycerol kinase","Corynebacterium mastitidis",161890,510
+WP_005521248.1,"glycerol kinase","Corynebacterium matruchotii",43768,503
+WP_005526515.1,"glycerol kinase","Corynebacterium matruchotii",43768,503
+WP_018582345.1,"glycerol kinase","Corynebacterium pilosum",35756,491
+WP_018121561.1,"glycerol kinase","Corynebacterium propinquum",43769,512
+WP_005325394.1,"glycerol kinase","Corynebacterium pseudogenitalium",38303,515
+WP_013240954.1,"glycerol kinase","Corynebacterium pseudotuberculosis",1719,509
+WP_014366295.1,"glycerol kinase","Corynebacterium pseudotuberculosis",1719,509
+WP_014400907.1,"glycerol kinase","Corynebacterium pseudotuberculosis",1719,509
+WP_014522965.1,"glycerol kinase","Corynebacterium pseudotuberculosis",1719,509
+WP_014799871.1,"glycerol kinase","Corynebacterium pseudotuberculosis",1719,509
+WP_016457880.1,"glycerol kinase","Corynebacterium pyruviciproducens",598660,503
+WP_005529457.1,"glycerol kinase","Corynebacterium striatum",43770,515
+WP_005327045.1,"glycerol kinase","Corynebacterium tuberculostearicum",38304,515
+WP_014525177.1,"glycerol kinase","Corynebacterium ulcerans",65058,508
+WP_014835707.1,"glycerol kinase","Corynebacterium ulcerans",65058,508
+WP_018023420.1,"glycerol kinase","Corynebacterium ulceribovis",487732,509
+WP_015201799.1,"glycerol kinase","Crinalium epipsammum",241425,493
+WP_007779258.1,"glycerol kinase","Cronobacter",413496,505
+WP_007798050.1,"glycerol kinase","Cronobacter",413496,505
+WP_012126088.1,"glycerol kinase","Cronobacter",413496,505
+WP_007667751.1,"glycerol kinase","Cronobacter condimenti",1163710,505
+WP_006163538.1,"glycerol kinase","Cupriavidus basilensis",68895,520
+WP_011615701.1,"glycerol kinase","Cupriavidus necator",106590,523
+WP_013957321.1,"glycerol kinase","Cupriavidus necator",106590,523
+WP_011298369.1,"glycerol kinase","Cupriavidus pinatubonensis",248026,516
+WP_019451862.1,"glycerol kinase","Cupriavidus sp. BIS7",1217718,513
+WP_018309341.1,"glycerol kinase","Cupriavidus sp. UYPR2.512",1080187,523
+WP_020202329.1,"glycerol kinase","Cupriavidus sp. WS",1312922,528
+WP_012353261.1,"glycerol kinase","Cupriavidus taiwanensis",164546,523
+WP_018007857.1,"glycerol kinase","Cupriavidus taiwanensis",164546,523
+WP_017887334.1,"glycerol kinase","Curtobacterium",2034,503
+WP_019576365.1,"glycerol kinase","Curvibacter lanceolatus",86182,497
+WP_002522774.1,"glycerol kinase","Cutibacterium acnes",1747,515
+WP_002538484.1,"glycerol kinase","Cutibacterium acnes",1747,515
+WP_002543683.1,"glycerol kinase","Cutibacterium acnes",1747,515
+WP_002545329.1,"glycerol kinase","Cutibacterium acnes",1747,515
+WP_014598714.1,"glycerol kinase","Cutibacterium acnes",1747,515
+WP_015219626.1,"glycerol kinase","Cyanobacterium aponinum",379064,496
+WP_017321913.1,"glycerol kinase","cyanobacterium PCC 7702",1173021,494
+WP_014020440.1,"glycerol kinase","Cyclobacterium marinum",104,500
+WP_015209401.1,"glycerol kinase","Cylindrospermum stagnale",142864,497
+WP_011287670.1,"glycerol kinase","Dechloromonas aromatica",259537,502
+WP_013007945.1,"glycerol kinase","Deferribacter desulfuricans",197162,496
+WP_015042316.1,"glycerol kinase","Dehalobacter",56112,497
+WP_019224846.1,"glycerol kinase","Dehalobacter sp. E1",304767,497
+WP_020490104.1,"glycerol kinase","Dehalobacter sp. FTH1",1035308,505
+WP_020492280.1,"glycerol kinase","Dehalobacter sp. FTH1",1035308,497
+WP_019586052.1,"glycerol kinase","Deinococcus apachensis",309886,502
+WP_019009817.1,"glycerol kinase","Deinococcus aquatilis",519440,556
+WP_012695150.1,"glycerol kinase","Deinococcus deserti",310783,499
+WP_011526040.1,"glycerol kinase","Deinococcus geothermalis",68909,505
+WP_013555838.1,"glycerol kinase","Deinococcus maricopensis",309887,503
+WP_015236295.1,"glycerol kinase","Deinococcus peraridilitoris",432329,505
+WP_013614866.1,"glycerol kinase","Deinococcus proteolyticus",55148,502
+WP_010888563.1,"glycerol kinase","Deinococcus radiodurans",1299,501
+WP_017870196.1,"glycerol kinase","Deinococcus wulumuqiensis",980427,500
+WP_012202955.1,"glycerol kinase","Delftia",80865,498
+WP_016449164.1,"glycerol kinase","Delftia acidovorans",80866,498
+WP_016452009.1,"glycerol kinase","Delftia acidovorans",80866,498
+WP_013804453.1,"glycerol kinase","Delftia sp. Cs1-4",742013,498
+WP_006423821.1,"glycerol kinase","delta proteobacterium NaphS2",88274,503
+WP_018157864.1,"glycerol kinase","Demetria terragena",63959,503
+WP_016663431.1,"glycerol kinase","Dermabacter sp. HFH0086",1203568,516
+WP_006946725.1,"glycerol kinase","Dermacoccus",57495,505
+WP_009709019.1,"glycerol kinase","Desmospora sp. 8437",997346,512
+WP_013259061.1,"glycerol kinase","Desulfarculus baarsii",453230,505
+WP_014795742.1,"glycerol kinase","Desulfitobacterium dehalogenans",36854,498
+WP_015263705.1,"glycerol kinase","Desulfitobacterium dichloroeliminans",233055,494
+WP_005815736.1,"glycerol kinase","Desulfitobacterium hafniense",49338,494
+WP_015945391.1,"glycerol kinase","Desulfitobacterium hafniense",49338,494
+WP_018212160.1,"glycerol kinase","Desulfitobacterium hafniense",49338,494
+WP_018305416.1,"glycerol kinase","Desulfitobacterium hafniense",49338,494
+WP_019851448.1,"glycerol kinase","Desulfitobacterium sp. PCE1",146907,498
+WP_020589284.1,"glycerol kinase","Desulfobacter curvatus",2290,497
+WP_015903722.1,"glycerol kinase","Desulfobacterium autotrophicum",2296,505
+WP_020876880.1,"glycerol kinase","Desulfococcus multivorans",897,503
+WP_012174815.1,"glycerol kinase","Desulfococcus oleovorans",181663,505
+WP_015752519.1,"glycerol kinase","Desulfohalobium retbaense",45663,505
+WP_015773622.1,"glycerol kinase","Desulfomicrobium baculatum",899,503
+WP_014829396.1,"glycerol kinase","Desulfosporosinus acidiphilus",885581,498
+WP_014905211.1,"glycerol kinase","Desulfosporosinus meridiei",79209,498
+WP_014187637.1,"glycerol kinase","Desulfosporosinus orientis",1563,498
+WP_009623644.1,"glycerol kinase","Desulfosporosinus sp. OT",913865,498
+WP_006967744.1,"glycerol kinase","Desulfotignum phosphitoxidans",190898,504
+WP_008412170.1,"glycerol kinase","Desulfotomaculum hydrothermale",412895,500
+WP_003540632.1,"glycerol kinase","Desulfotomaculum nigrificans",1565,500
+WP_013809434.1,"glycerol kinase","Desulfotomaculum nigrificans",1565,500
+WP_011366544.1,"glycerol kinase","Desulfovibrio alaskensis",58180,497
+WP_012624973.1,"glycerol kinase","Desulfovibrio desulfuricans",876,498
+WP_005991598.1,"glycerol kinase","Desulfovibrio fructosivorans",878,497
+WP_015334980.1,"glycerol kinase","Desulfovibrio hydrothermalis",191026,497
+WP_015861430.1,"glycerol kinase","Desulfovibrio magneticus",184917,497
+WP_018125630.1,"glycerol kinase","Desulfovibrio oxyclinae",63560,503
+WP_006004540.1,"glycerol kinase","Desulfovibrio piger",901,502
+WP_015853018.1,"glycerol kinase","Desulfovibrio salexigens",880,495
+WP_008681992.1,"glycerol kinase","Desulfovibrio sp. 3_1_syn3",457398,500
+WP_009302851.1,"glycerol kinase","Desulfovibrio sp. 6_1_46AFAA",665942,500
+WP_007522604.1,"glycerol kinase","Desulfovibrio sp. A2",298701,497
+WP_020879416.1,"glycerol kinase","Desulfovibrio sp. X2",941449,497
+WP_010940392.1,"glycerol kinase","Desulfovibrio vulgaris",881,497
+WP_012611957.1,"glycerol kinase","Desulfovibrio vulgaris",881,497
+WP_014524620.1,"glycerol kinase","Desulfovibrio vulgaris",881,497
+WP_020001533.1,"glycerol kinase","Desulfovibrionaceae",194924,503
+WP_018085303.1,"glycerol kinase","Desulfurispora thermophila",265470,499
+WP_011927960.1,"glycerol kinase","Dichelobacter nodosus",870,497
+WP_012767891.1,"glycerol kinase","Dickeya chrysanthemi",556,503
+WP_013315890.1,"glycerol kinase","Dickeya dadantii",204038,503
+WP_015855448.1,"glycerol kinase","Dickeya paradisiaca",69223,503
+WP_012886543.1,"glycerol kinase","Dickeya zeae",204042,503
+WP_016942837.1,"glycerol kinase","Dickeya zeae",204042,503
+WP_019846439.1,"glycerol kinase","Dickeya zeae",204042,503
+WP_012548076.1,"glycerol kinase","Dictyoglomus thermophilum",14,494
+WP_012583206.1,"glycerol kinase","Dictyoglomus turgidum",513050,494
+WP_010542038.1,"glycerol kinase","Dietzia alimentaria",665550,519
+WP_007628892.1,"glycerol kinase","Dietzia cinnamea",321318,519
+WP_017836657.1,"glycerol kinase","Dietzia sp. UCD-THP",1292020,519
+WP_004634533.1,"glycerol kinase","Dolosigranulum pigrum",29394,503
+WP_005330533.1,"glycerol kinase","Dorea formicigenerans",39486,497
+WP_005341022.1,"glycerol kinase","Dorea formicigenerans",39486,497
+WP_019921422.1,"glycerol kinase","Duganella zoogloeoides",75659,503
+WP_019945947.1,"glycerol kinase","Dyadobacter beijingensis",365489,499
+WP_015813350.1,"glycerol kinase","Dyadobacter fermentans",94254,499
+WP_017463976.1,"glycerol kinase","Dyella ginsengisoli",363848,498
+WP_019463561.1,"glycerol kinase","Dyella japonica",231455,499
+WP_006798385.1,"glycerol kinase","Dysgonomonas gadei",156974,495
+WP_006842692.1,"glycerol kinase","Dysgonomonas mossii",163665,496
+WP_018475275.1,"glycerol kinase","Echinicola pacifica",346377,500
+WP_015265597.1,"glycerol kinase","Echinicola vietnamensis",390884,500
+WP_012850236.1,"glycerol kinase","Edwardsiella",635,502
+WP_015872951.1,"glycerol kinase","Edwardsiella ictaluri",67780,502
+WP_005290956.1,"glycerol kinase","Edwardsiella tarda",636,502
+WP_018133536.1,"glycerol kinase","Effusibacillus pohliae",232270,500
+WP_004801551.1,"glycerol kinase","Eggerthia catenaformis",31973,497
+WP_009254864.1,"glycerol kinase","Eisenbergiella tayi",1432052,503
+WP_016198428.1,"glycerol kinase","Elizabethkingia meningoseptica",238,498
+WP_015028738.1,"glycerol kinase","Emticicia oligotrophica",312279,498
+WP_020584672.1,"glycerol kinase","Endozoicomonas elysicola",305900,502
+WP_014072351.1,"glycerol kinase","Enterobacter",547,502
+WP_014172201.1,"glycerol kinase","Enterobacter",547,502
+WP_006179172.1,"glycerol kinase","Enterobacter cancerogenus",69218,502
+WP_015961006.1,"glycerol kinase","Enterobacter sp. 638",399742,502
+WP_002922944.1,"glycerol kinase","Enterobacterales",91347,503
+WP_003028792.1,"glycerol kinase","Enterobacterales",91347,502
+WP_004126722.1,"glycerol kinase","Enterobacterales",91347,503
+WP_008109683.1,"glycerol kinase","Enterobacterales",91347,502
+WP_019452234.1,"glycerol kinase","Enterobacterales",91347,502
+WP_000136780.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_000136782.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_000136804.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_003862028.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_004019375.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_004106971.1,"glycerol kinase","Enterobacteriaceae",543,503
+WP_004868997.1,"glycerol kinase","Enterobacteriaceae",543,501
+WP_007369233.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_008457520.1,"glycerol kinase","Enterobacteriaceae",543,504
+WP_008501808.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_012133870.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_014885706.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_014906766.1,"glycerol kinase","Enterobacteriaceae",543,503
+WP_015369131.1,"glycerol kinase","Enterobacteriaceae",543,503
+WP_016155254.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_020455954.1,"glycerol kinase","Enterobacteriaceae",543,502
+WP_017375223.1,"glycerol kinase","Enterobacteriaceae bacterium LSJC7",1224136,504
+WP_015343985.1,"glycerol kinase","Enterobacteriaceae bacterium strain FGI 57",693444,502
+WP_002292557.1,"glycerol kinase","Enterococcus",1350,498
+WP_002294668.1,"glycerol kinase","Enterococcus",1350,498
+WP_002310688.1,"glycerol kinase","Enterococcus",1350,498
+WP_002314031.1,"glycerol kinase","Enterococcus",1350,498
+WP_003127402.1,"glycerol kinase","Enterococcus",1350,506
+WP_005225176.1,"glycerol kinase","Enterococcus",1350,506
+WP_005875467.1,"glycerol kinase","Enterococcus",1350,498
+WP_008377082.1,"glycerol kinase","Enterococcus",1350,506
+WP_010742202.1,"glycerol kinase","Enterococcus",1350,502
+WP_010743426.1,"glycerol kinase","Enterococcus",1350,502
+WP_016178473.1,"glycerol kinase","Enterococcus",1350,502
+WP_010753710.1,"glycerol kinase","Enterococcus asini",57732,507
+WP_010771254.1,"glycerol kinase","Enterococcus caccae",317735,501
+WP_010773330.1,"glycerol kinase","Enterococcus caccae",317735,502
+WP_005237473.1,"glycerol kinase","Enterococcus casseliflavus",37734,506
+WP_016250522.1,"glycerol kinase","Enterococcus cecorum",44008,500
+WP_016184159.1,"glycerol kinase","Enterococcus columbae",1355,498
+WP_016172116.1,"glycerol kinase","Enterococcus dispar",44009,503
+WP_016177283.1,"glycerol kinase","Enterococcus durans",53345,498
+WP_002362033.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_002377099.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_002395194.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_002403817.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_002410553.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_016618461.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_016625854.1,"glycerol kinase","Enterococcus faecalis",1351,503
+WP_016634911.1,"glycerol kinase","Enterococcus faecalis",1351,501
+WP_002312734.1,"glycerol kinase","Enterococcus faecium",1352,498
+WP_002317520.1,"glycerol kinase","Enterococcus faecium",1352,498
+WP_002325279.1,"glycerol kinase","Enterococcus faecium",1352,498
+WP_002345426.1,"glycerol kinase","Enterococcus faecium",1352,498
+WP_016631712.1,"glycerol kinase","Enterococcus faecium",1352,491
+WP_010779235.1,"glycerol kinase","Enterococcus gilvus",160453,502
+WP_010779419.1,"glycerol kinase","Enterococcus gilvus",160453,499
+WP_010760492.1,"glycerol kinase","Enterococcus haemoperoxidus",155618,502
+WP_010762882.1,"glycerol kinase","Enterococcus haemoperoxidus",155618,501
+WP_010737028.1,"glycerol kinase","Enterococcus hirae",1354,498
+WP_007207390.1,"glycerol kinase","Enterococcus italicus",246144,503
+WP_010764055.1,"glycerol kinase","Enterococcus moraviensis",155617,501
+WP_010765861.1,"glycerol kinase","Enterococcus moraviensis",155617,502
+WP_010736420.1,"glycerol kinase","Enterococcus mundtii",53346,498
+WP_019722534.1,"glycerol kinase","Enterococcus mundtii",53346,498
+WP_010757720.1,"glycerol kinase","Enterococcus pallens",160454,501
+WP_010759881.1,"glycerol kinase","Enterococcus pallens",160454,498
+WP_010768191.1,"glycerol kinase","Enterococcus phoeniculicola",154621,506
+WP_010769441.1,"glycerol kinase","Enterococcus phoeniculicola",154621,503
+WP_016174730.1,"glycerol kinase","Enterococcus saccharolyticus",41997,508
+WP_016184802.1,"glycerol kinase","Enterococcus sulfureus",1356,499
+WP_010750268.1,"glycerol kinase","Enterococcus villorum",112904,498
+WP_017009567.1,"glycerol kinase","Enterovibrio",188143,501
+WP_016961935.1,"glycerol kinase","Enterovibrio norvegicus",188144,501
+WP_017005752.1,"glycerol kinase","Enterovibrio norvegicus",188144,501
+WP_010167371.1,"glycerol kinase GlpK","Epulopiscium sp. 'N.t. morphotype B'",420336,499
+WP_006418228.1,"glycerol kinase","Eremococcus coleocola",88132,504
+WP_004154856.1,"glycerol kinase","Erwinia amylovora",552,504
+WP_013200188.1,"glycerol kinase","Erwinia billingiae",182337,504
+WP_012666521.1,"glycerol kinase","Erwinia pyrifoliae",79967,504
+WP_014542938.1,"glycerol kinase","Erwinia sp. Ejp617",215689,504
+WP_012439886.1,"glycerol kinase","Erwinia tasmaniensis",338565,504
+WP_017801531.1,"glycerol kinase","Erwinia toletana",92490,503
+WP_016191270.1,"glycerol kinase","Erwinia tracheiphila",65700,504
+WP_003775790.1,"glycerol kinase","Erysipelothrix rhusiopathiae",1648,496
+WP_013852524.1,"glycerol kinase","Erysipelothrix rhusiopathiae",1648,496
+WP_018579939.1,"glycerol kinase","Erysipelothrix tonsillarum",38402,492
+WP_003536141.1,"glycerol kinase","Erysipelotrichaceae",128827,497
+WP_008978997.1,"glycerol kinase","Erysipelotrichaceae bacterium 5_2_54FAA",552396,493
+WP_008819320.1,"glycerol kinase","Erysipelotrichaceae bacterium 6_1_45",469614,493
+WP_000136774.1,"glycerol kinase","Escherichia",561,502
+WP_000136799.1,"glycerol kinase","Escherichia",561,502
+WP_000136801.1,"glycerol kinase","Escherichia",561,502
+WP_001517514.1,"glycerol kinase","Escherichia",561,502
+WP_016158826.1,"glycerol kinase","Escherichia",561,502
+WP_000136775.1,"glycerol kinase","Escherichia albertii",208962,502
+WP_000136776.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136777.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136778.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136783.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136784.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136790.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136791.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136792.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136793.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136794.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136797.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136802.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136803.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136816.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136817.1,"glycerol kinase","Escherichia coli",562,502
+WP_000349367.1,"glycerol kinase","Escherichia coli",562,481
+WP_001398097.1,"glycerol kinase","Escherichia coli",562,502
+WP_001411958.1,"glycerol kinase","Escherichia coli",562,502
+WP_001455606.1,"glycerol kinase","Escherichia coli",562,502
+WP_001464844.1,"glycerol kinase","Escherichia coli",562,502
+WP_001465752.1,"glycerol kinase","Escherichia coli",562,502
+WP_001469593.1,"glycerol kinase","Escherichia coli",562,502
+WP_001484004.1,"glycerol kinase","Escherichia coli",562,502
+WP_001499967.1,"glycerol kinase","Escherichia coli",562,502
+WP_001567170.1,"glycerol kinase","Escherichia coli",562,502
+WP_001604353.1,"glycerol kinase","Escherichia coli",562,502
+WP_001615401.1,"glycerol kinase","Escherichia coli",562,502
+WP_001646062.1,"glycerol kinase","Escherichia coli",562,502
+WP_001649547.1,"glycerol kinase","Escherichia coli",562,502
+WP_001653577.1,"glycerol kinase","Escherichia coli",562,502
+WP_001679925.1,"glycerol kinase","Escherichia coli",562,502
+WP_001681870.1,"glycerol kinase","Escherichia coli",562,502
+WP_001694379.1,"glycerol kinase","Escherichia coli",562,502
+WP_001705587.1,"glycerol kinase","Escherichia coli",562,502
+WP_001706687.1,"glycerol kinase","Escherichia coli",562,502
+WP_001736509.1,"glycerol kinase","Escherichia coli",562,502
+WP_003618622.1,"glycerol kinase","Escherichia coli",562,502
+WP_003879913.1,"glycerol kinase","Escherichia coli",562,502
+WP_004099557.1,"glycerol kinase","Escherichia coli",562,502
+WP_020231230.1,"glycerol kinase","Escherichia coli",562,502
+WP_020231747.1,"glycerol kinase","Escherichia coli",562,502
+WP_020239897.1,"glycerol kinase","Escherichia coli",562,502
+WP_020245371.1,"glycerol kinase","Escherichia coli",562,502
+WP_000136798.1,"glycerol kinase","Escherichia fergusonii",564,502
+WP_000136800.1,"glycerol kinase","Escherichia sp. TW09308",754331,502
+WP_004062108.1,"glycerol kinase","Eubacterium plexicaudatum",97253,498
+WP_008688895.1,"glycerol kinase","Eubacterium sp. 3_1_31",457402,493
+WP_005359998.1,"glycerol kinase","Eubacterium ventriosum",39496,497
+WP_019669005.1,"glycerol kinase","Eudoraea adriatica",446681,496
+WP_012726935.1,"glycerol kinase","Exiguobacterium",33986,505
+WP_014969704.1,"glycerol kinase","Exiguobacterium antarcticum",132920,496
+WP_014970068.1,"glycerol kinase","Exiguobacterium antarcticum",132920,505
+WP_012369620.1,"glycerol kinase","Exiguobacterium sibiricum",332410,496
+WP_012369993.1,"glycerol kinase","Exiguobacterium sibiricum",332410,505
+WP_016508677.1,"glycerol kinase","Exiguobacterium sp. S17",856854,505
+WP_005921131.1,"glycerol kinase","Faecalibacterium prausnitzii",853,500
+WP_005943594.1,"glycerol kinase","Faecalibacterium prausnitzii",853,497
+WP_015537364.1,"glycerol kinase","Faecalibacterium prausnitzii",853,500
+WP_015334176.1,"glycerol kinase","Fibrella aestuarina",651143,499
+WP_009285336.1,"glycerol kinase","Fibrisoma limi",663275,499
+WP_007203737.1,"glycerol kinase","Fictibacillus macauensis",245160,497
+WP_008865640.1,"glycerol kinase","Flavobacteria bacterium MS024-2A",487796,493
+WP_014164214.1,"glycerol kinase","Flavobacterium columnare",996,495
+WP_007137734.1,"glycerol kinase","Flavobacterium frigoris",229204,498
+WP_016989273.1,"glycerol kinase","Flavobacterium sp. ACAM 123",1189620,498
+WP_017495267.1,"glycerol kinase","Flavobacterium sp. WG21",1229487,498
+WP_013886706.1,"glycerol kinase","Flexistipes sinusarabici",2352,499
+WP_004287046.1,"glycerol kinase","Francisella",262,499
+WP_014714671.1,"glycerol kinase","Francisella noatunensis",657445,499
+WP_012280424.1,"glycerol kinase","Francisella philomiragia",28110,499
+WP_013922400.1,"glycerol kinase","Francisella sp. TX077308",573569,499
+WP_003017064.1,"glycerol kinase","Francisella tularensis",263,502
+WP_003019502.1,"glycerol kinase","Francisella tularensis",263,502
+WP_003019887.1,"glycerol kinase","Francisella tularensis",263,502
+WP_003024782.1,"glycerol kinase","Francisella tularensis",263,502
+WP_003035057.1,"glycerol kinase","Francisella tularensis",263,500
+WP_003037605.1,"glycerol kinase","Francisella tularensis",263,500
+WP_012429125.1,"glycerol kinase","Francisella tularensis",263,502
+WP_014548927.1,"glycerol kinase","Francisella tularensis",263,499
+WP_014550221.1,"glycerol kinase","Francisella tularensis",263,500
+WP_013872808.1,"glycerol kinase","Frankia symbiont of Datisca glomerata",656024,515
+WP_014402060.1,"glycerol kinase","Frateuria aurantia",81475,501
+WP_009579971.1,"glycerol kinase","Fulvivirga imtechensis",881893,497
+WP_005892806.1,"glycerol kinase","Fusobacterium",848,497
+WP_008800793.1,"glycerol kinase","Fusobacterium",848,499
+WP_005915941.1,"glycerol kinase","Fusobacterium hwasookii",1583098,497
+WP_005883090.1,"glycerol kinase","Fusobacterium mortiferum",850,501
+WP_005954673.1,"glycerol kinase","Fusobacterium necrophorum",859,499
+WP_005956717.1,"glycerol kinase","Fusobacterium necrophorum",859,490
+WP_005894461.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_005903016.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_005909940.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_008694317.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_008796611.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_008800221.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_008803466.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_009006800.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_011015864.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_020789070.1,"glycerol kinase","Fusobacterium nucleatum",851,497
+WP_005966476.1,"glycerol kinase","Fusobacterium periodonticum",860,497
+WP_005970589.1,"glycerol kinase","Fusobacterium periodonticum",860,497
+WP_008794592.1,"glycerol kinase","Fusobacterium periodonticum",860,497
+WP_008821795.1,"glycerol kinase","Fusobacterium periodonticum",860,497
+WP_009422946.1,"glycerol kinase","Fusobacterium sp. oral taxon 370",712288,497
+WP_005979902.1,"glycerol kinase","Fusobacterium ulcerans",861,500
+WP_008697286.1,"glycerol kinase","Fusobacterium ulcerans",861,500
+WP_005951629.1,"glycerol kinase","Fusobacterium varium",856,501
+WP_008992544.1,"glycerol kinase","Galbibacter marinus",555500,497
+WP_018346816.1,"glycerol kinase","Gallibacterium",155493,504
+WP_013745549.1,"glycerol kinase","Gallibacterium anatis",750,504
+WP_003144108.1,"glycerol kinase","Gemella haemolysans",1379,498
+WP_003147597.1,"glycerol kinase","Gemella haemolysans",1379,498
+WP_004633649.1,"glycerol kinase","Gemella morbillorum",29391,499
+WP_008879498.1,"glycerol kinase","Geobacillus",129337,497
+WP_013523471.1,"glycerol kinase","Geobacillus",129337,496
+WP_011230857.1,"glycerol kinase","Geobacillus kaustophilus",1462,496
+WP_013145661.1,"glycerol kinase","Geobacillus sp. C56-T3",691437,496
+WP_015374485.1,"glycerol kinase","Geobacillus sp. GHH01",1233873,496
+WP_015863591.1,"glycerol kinase","Geobacillus sp. WCH70",471223,496
+WP_012531803.1,"glycerol kinase","Geobacter bemidjiensis",225194,495
+WP_012470731.1,"glycerol kinase","Geobacter lovleyi",313985,496
+WP_004511388.1,"glycerol kinase","Geobacter metallireducens",28232,496
+WP_015721718.1,"glycerol kinase","Geobacter sp. M18",443143,493
+WP_012774553.1,"glycerol kinase","Geobacter sp. M21",443144,495
+WP_010943390.1,"glycerol kinase","Geobacter sulfurreducens",35554,496
+WP_014551958.1,"glycerol kinase","Geobacter sulfurreducens",35554,496
+WP_012950991.1,"glycerol kinase","Geodermatophilus obscurus",1861,502
+WP_012950993.1,"glycerol kinase","Geodermatophilus obscurus",1861,505
+WP_006987851.1,"glycerol kinase","Gillisia limnaea",195907,500
+WP_002647165.1,"glycerol kinase","Gimesia maris",122,495
+WP_012222504.1,"glycerol kinase","Gluconacetobacter diazotrophicus",33996,499
+WP_013349045.1,"glycerol kinase","Glutamicibacter arilaitensis",256701,506
+WP_005206219.1,"glycerol kinase","Gordonia",2053,501
+WP_010841928.1,"glycerol kinase","Gordonia",2053,495
+WP_005178846.1,"glycerol kinase","Gordonia aichiensis",36820,505
+WP_005178854.1,"glycerol kinase","Gordonia aichiensis",36820,501
+WP_006434533.1,"glycerol kinase","Gordonia amicalis",89053,495
+WP_018177909.1,"glycerol kinase","Gordonia kroppenstedtii",1121721,503
+WP_008379869.1,"glycerol kinase","Gordonia malaquae",410332,502
+WP_006865916.1,"glycerol kinase","Gordonia namibiensis",168480,495
+WP_009677964.1,"glycerol kinase","Gordonia neofelifaecis",945692,502
+WP_007240292.1,"glycerol kinase","Gordonia otitidis",249058,501
+WP_007240295.1,"glycerol kinase","Gordonia otitidis",249058,505
+WP_006901842.1,"glycerol kinase","Gordonia paraffinivorans",175628,495
+WP_014359546.1,"glycerol kinase","Gordonia polyisoprenivorans",84595,502
+WP_020171712.1,"glycerol kinase","Gordonia polyisoprenivorans",84595,502
+WP_005195986.1,"glycerol kinase","Gordonia rubripertincta",36822,495
+WP_006896516.1,"glycerol kinase","Gordonia sihwensis",173559,502
+WP_007623230.1,"glycerol kinase","Gordonia soli",320799,495
+WP_014926239.1,"glycerol kinase","Gordonia sp. KTR9",337191,495
+WP_005206214.1,"glycerol kinase","Gordonia sputi",36823,505
+WP_004021664.1,"glycerol kinase","Gordonia terrae",2055,495
+WP_003464564.1,"glycerol kinase","Gracilibacillus halophilus",470864,496
+WP_018931153.1,"glycerol kinase","Gracilibacillus lacisalsi",393087,496
+WP_020404656.1,"glycerol kinase","Gracilimonas tropica",454600,499
+WP_005501430.1,"glycerol kinase","Grimontia hollisae",673,501
+WP_005505576.1,"glycerol kinase","Grimontia hollisae",673,502
+WP_002535265.1,"glycerol kinase","Grimontia indica",1056512,501
+WP_005635293.1,"glycerol kinase","Haemophilus",724,503
+WP_005640250.1,"glycerol kinase","Haemophilus",724,503
+WP_005658430.1,"glycerol kinase","Haemophilus",724,503
+WP_005694750.1,"glycerol kinase","Haemophilus",724,503
+WP_005697426.1,"glycerol kinase","Haemophilus",724,503
+WP_005626924.1,"glycerol kinase","Haemophilus haemolyticus",726,503
+WP_005644218.1,"glycerol kinase","Haemophilus haemolyticus",726,503
+WP_005650776.1,"glycerol kinase","Haemophilus influenzae",727,503
+WP_005655029.1,"glycerol kinase","Haemophilus influenzae",727,503
+WP_005687890.1,"glycerol kinase","Haemophilus influenzae",727,514
+WP_011272170.1,"glycerol kinase","Haemophilus influenzae",727,503
+WP_012054630.1,"glycerol kinase","Haemophilus influenzae",727,503
+WP_005700128.1,"glycerol kinase","Haemophilus parainfluenzae",729,503
+WP_009499675.1,"glycerol kinase","Haemophilus sp. oral taxon 851",762964,503
+WP_004094211.1,"glycerol kinase","Hafnia",568,502
+WP_013404615.1,"glycerol kinase","Halanaerobium hydrogeniformans",656519,498
+WP_014552206.1,"glycerol kinase","Halanaerobium praevalens",2331,498
+WP_005488099.1,"glycerol kinase GlpK","Halanaerobium saccharolyticum",43595,501
+WP_005488222.1,"glycerol kinase","Halanaerobium saccharolyticum",43595,498
+WP_013767675.1,"glycerol kinase","Haliscomenobacter hydrossis",2350,498
+WP_014644217.1,"glycerol kinase","Halobacillus halophilus",1570,497
+WP_014644262.1,"glycerol kinase","Halobacillus halophilus",1570,498
+WP_015327656.1,"glycerol kinase","Halobacteroides halobius",42422,497
+WP_019020500.1,"glycerol kinase","Halomonas lutea",453962,499
+WP_018917954.1,"glycerol kinase","Halomonas zhanjiangensis",1121960,501
+WP_008825428.1,"glycerol kinase","Haloplasma contractile",471825,496
+WP_011812896.1,"glycerol kinase","Halorhodospira halophila",1053,507
+WP_012635754.1,"glycerol kinase","Halothermothrix orenii",31909,499
+WP_012823872.1,"glycerol kinase","Halothiobacillus neapolitanus",927,504
+WP_006018368.1,"glycerol kinase","Helicobacter bizzozeronii",56877,495
+WP_013469695.1,"glycerol kinase","Helicobacter felis",214,495
+WP_013022838.1,"glycerol kinase","Helicobacter mustelae",217,495
+WP_017451333.1,"glycerol kinase","Herbaspirillum",963,493
+WP_006464942.1,"glycerol kinase","Herbaspirillum frisingense",92645,493
+WP_016833172.1,"glycerol kinase","Herbaspirillum lusitanum",213312,493
+WP_013233004.1,"glycerol kinase","Herbaspirillum seropedicae",964,495
+WP_007877649.1,"glycerol kinase","Herbaspirillum sp. CF444",1144319,493
+WP_008325925.1,"glycerol kinase","Herbaspirillum sp. GW103",1175306,493
+WP_008116278.1,"glycerol kinase","Herbaspirillum sp. YR522",1144342,506
+WP_011869791.1,"glycerol kinase","Herminiimonas arsenicoxydans",204773,498
+WP_003864138.1,"glycerol kinase","Holdemanella biformis",1735,493
+WP_006060539.1,"glycerol kinase","Holdemania filiformis",61171,499
+WP_013809138.1,"glycerol kinase","Hoyosella subflava",639313,505
+WP_013809140.1,"glycerol kinase","Hoyosella subflava",639313,508
+WP_002605246.1,"glycerol kinase","Hungatella hathewayi",154046,498
+WP_006774122.1,"glycerol kinase","Hungatella hathewayi",154046,498
+WP_006782431.1,"glycerol kinase","Hungatella hathewayi",154046,503
+WP_009514949.1,"glycerol kinase","Hydrogenophaga",47420,499
+WP_006297890.1,"glycerol kinase","Hylemonella gracilis",80880,497
+WP_013386479.1,"glycerol kinase","Ilyobacter polytropus",167642,503
+WP_013388179.1,"glycerol kinase","Ilyobacter polytropus",167642,503
+WP_013494209.1,"glycerol kinase","Intrasporangium calvum",53358,502
+WP_013837723.1,"glycerol kinase","Isoptericola variabilis",139208,504
+WP_013565336.1,"glycerol kinase","Isosphaera pallida",128,501
+WP_009775814.1,"glycerol kinase","Janibacter sp. HTCC2649",313589,504
+WP_010399331.1,"glycerol kinase","Janthinobacterium lividum",29581,497
+WP_017876099.1,"glycerol kinase","Janthinobacterium sp. CG3",1075768,498
+WP_008445406.1,"glycerol kinase","Janthinobacterium sp. HH01",1198452,501
+WP_008448222.1,"glycerol kinase","Janthinobacterium sp. HH01",1198452,495
+WP_012078133.1,"glycerol kinase","Janthinobacterium sp. Marseille",375286,498
+WP_015770778.1,"glycerol kinase","Jonesia denitrificans",43674,505
+WP_012084639.1,"glycerol kinase","Kineococcus radiotolerans",131568,522
+WP_012084652.1,"glycerol kinase","Kineococcus radiotolerans",131568,510
+WP_006594329.1,"glycerol kinase","Kineosphaera limosa",111564,507
+WP_006594500.1,"glycerol kinase","Kineosphaera limosa",111564,509
+WP_014134711.1,"glycerol kinase","Kitasatospora setae",2066,514
+WP_004205092.1,"glycerol kinase","Klebsiella",570,503
+WP_004873089.1,"glycerol kinase","Klebsiella",570,503
+WP_008806810.1,"glycerol kinase","Klebsiella",570,503
+WP_006213291.1,"glycerol kinase","Kocuria palustris",71999,561
+WP_006215657.1,"glycerol kinase","Kocuria palustris",71999,510
+WP_012398418.1,"glycerol kinase","Kocuria rhizophila",72000,506
+WP_019309292.1,"glycerol kinase","Kocuria rhizophila",72000,506
+WP_017832284.1,"glycerol kinase","Kocuria sp. UCD-OTCP",1292021,507
+WP_014104205.1,"glycerol kinase","Komagataeibacter medellinensis",1177712,499
+WP_017459642.1,"glycerol kinase","Kosakonia sacchari",1158459,502
+WP_020384893.1,"glycerol kinase","Kribbella catacumbae",460086,501
+WP_020384896.1,"glycerol kinase","Kribbella catacumbae",460086,505
+WP_012920815.1,"glycerol kinase","Kribbella flavida",182640,505
+WP_012920820.1,"glycerol kinase","Kribbella flavida",182640,508
+WP_007909953.1,"glycerol kinase","Ktedonobacter racemifer",363277,496
+WP_010290695.1,"glycerol kinase","Kurthia massiliensis",1033739,497
+WP_010303936.1,"glycerol kinase","Kurthia senegalensis",1033740,498
+WP_010307369.1,"glycerol kinase","Kurthia senegalensis",1033740,496
+WP_019952221.1,"glycerol kinase","Kushneria aurantia",504092,502
+WP_015779519.1,"glycerol kinase","Kytococcus sedentarius",1276,514
+WP_008750616.1,"glycerol kinase","Lachnoanaerobaculum saburreum",467210,498
+WP_009664034.1,"glycerol kinase","Lachnoanaerobaculum sp. ICM7",936594,498
+WP_007595806.1,"glycerol kinase","Lachnoanaerobaculum sp. OBRC5-5",936595,498
+WP_002569415.1,"glycerol kinase","Lachnoclostridium",1506553,498
+WP_012198074.1,"glycerol kinase","Lachnoclostridium phytofermentans",66219,499
+WP_009268060.1,"glycerol kinase","Lachnospiraceae bacterium 1_4_56FAA",658655,503
+WP_016292161.1,"glycerol kinase","Lachnospiraceae bacterium 28-4",397287,499
+WP_009756919.1,"glycerol kinase","Lachnospiraceae bacterium 2_1_46FAA",742723,498
+WP_016288933.1,"glycerol kinase","Lachnospiraceae bacterium 3-1",397288,498
+WP_008976586.1,"glycerol kinase","Lachnospiraceae bacterium 6_1_37FAA",658656,498
+WP_009246164.1,"glycerol kinase","Lachnospiraceae bacterium 6_1_63FAA",658083,498
+WP_009263020.1,"glycerol kinase","Lachnospiraceae bacterium 9_1_43BFAA",658088,498
+WP_016282400.1,"glycerol kinase","Lachnospiraceae bacterium A4",397291,498
+WP_016293843.1,"glycerol kinase","Lachnospiraceae bacterium M18-1",1235792,498
+WP_009445993.1,"glycerol kinase","Lachnospiraceae bacterium oral taxon 082",712976,498
+WP_009220118.1,"glycerol kinase","Lachnospiraceae bacterium oral taxon 500",712991,498
+WP_003569146.1,"glycerol kinase","Lactobacillus",1578,505
+WP_003581235.1,"glycerol kinase","Lactobacillus",1578,504
+WP_003643773.1,"glycerol kinase","Lactobacillus",1578,505
+WP_004563180.1,"glycerol kinase","Lactobacillus",1578,503
+WP_005684152.1,"glycerol kinase","Lactobacillus",1578,505
+WP_005688150.1,"glycerol kinase","Lactobacillus",1578,510
+WP_005714156.1,"glycerol kinase","Lactobacillus",1578,510
+WP_005715114.1,"glycerol kinase","Lactobacillus",1578,505
+WP_005717732.1,"glycerol kinase","Lactobacillus",1578,510
+WP_014570154.1,"glycerol kinase","Lactobacillus",1578,510
+WP_014571668.1,"glycerol kinase","Lactobacillus",1578,510
+WP_015764267.1,"glycerol kinase","Lactobacillus",1578,505
+WP_016386908.1,"glycerol kinase","Lactobacillus",1578,505
+WP_010495302.1,"glycerol kinase","Lactobacillus acidipiscis",89059,507
+WP_010495339.1,"glycerol kinase","Lactobacillus acidipiscis",89059,500
+WP_003549614.1,"glycerol kinase","Lactobacillus acidophilus",1579,500
+WP_006352215.1,"glycerol kinase","Lactobacillus amylolyticus",83683,503
+WP_013438724.1,"glycerol kinase","Lactobacillus amylovorus",1604,500
+WP_013642546.1,"glycerol kinase","Lactobacillus amylovorus",1604,500
+WP_010688305.1,"glycerol kinase","Lactobacillus animalis",1605,496
+WP_003552114.1,"glycerol kinase","Lactobacillus brevis",1580,504
+WP_003553976.1,"glycerol kinase","Lactobacillus brevis",1580,503
+WP_011667032.1,"glycerol kinase","Lactobacillus brevis",1580,504
+WP_011667623.1,"glycerol kinase","Lactobacillus brevis",1580,500
+WP_003557623.1,"glycerol kinase","Lactobacillus buchneri",1581,504
+WP_003560405.1,"glycerol kinase","Lactobacillus buchneri",1581,503
+WP_013727343.1,"glycerol kinase","Lactobacillus buchneri",1581,503
+WP_013727874.1,"glycerol kinase","Lactobacillus buchneri",1581,507
+WP_014939952.1,"glycerol kinase","Lactobacillus buchneri",1581,502
+WP_003577951.1,"glycerol kinase","Lactobacillus casei",1582,505
+WP_003590164.1,"glycerol kinase","Lactobacillus casei",1582,505
+WP_003596344.1,"glycerol kinase","Lactobacillus casei",1582,504
+WP_003563706.1,"glycerol kinase","Lactobacillus casei group",655183,505
+WP_003567856.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_003585725.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_003600071.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_003601387.1,"glycerol kinase","Lactobacillus casei group",655183,505
+WP_003604510.1,"glycerol kinase","Lactobacillus casei group",655183,505
+WP_003606111.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_003662599.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_012492057.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_016364114.1,"glycerol kinase","Lactobacillus casei group",655183,504
+WP_006916069.1,"glycerol kinase","Lactobacillus coleohominis",181675,501
+WP_010011498.1,"glycerol kinase","Lactobacillus coryniformis",1610,503
+WP_010013962.1,"glycerol kinase","Lactobacillus coryniformis",1610,503
+WP_005720043.1,"glycerol kinase","Lactobacillus crispatus",47770,499
+WP_005721840.1,"glycerol kinase","Lactobacillus crispatus",47770,499
+WP_005726513.1,"glycerol kinase","Lactobacillus crispatus",47770,499
+WP_005728210.1,"glycerol kinase","Lactobacillus crispatus",47770,499
+WP_013087003.1,"glycerol kinase","Lactobacillus crispatus",47770,500
+WP_004270348.1,"glycerol kinase","Lactobacillus curvatus",28038,505
+WP_002879452.1,"glycerol kinase","Lactobacillus delbrueckii",1584,502
+WP_003613593.1,"glycerol kinase","Lactobacillus delbrueckii",1584,502
+WP_003620463.1,"glycerol kinase","Lactobacillus delbrueckii",1584,502
+WP_013440297.1,"glycerol kinase","Lactobacillus delbrueckii",1584,502
+WP_016396135.1,"glycerol kinase","Lactobacillus delbrueckii",1584,502
+WP_008462033.1,"glycerol kinase","Lactobacillus equicursoris",420645,505
+WP_009557491.1,"glycerol kinase","Lactobacillus equicursoris",420645,505
+WP_010018095.1,"glycerol kinase","Lactobacillus farciminis",1612,499
+WP_010020829.1,"glycerol kinase","Lactobacillus farciminis",1612,501
+WP_010020831.1,"glycerol kinase","Lactobacillus farciminis",1612,501
+WP_015639138.1,"glycerol kinase","Lactobacillus fermentum",1613,503
+WP_009166482.1,"glycerol kinase","Lactobacillus florum",640331,501
+WP_007122658.1,"glycerol kinase","Lactobacillus gastricus",227942,508
+WP_008474020.1,"glycerol kinase","Lactobacillus gigeriorum",1203069,500
+WP_014919570.1,"glycerol kinase","Lactobacillus helveticus",1587,499
+WP_003634723.1,"glycerol kinase","Lactobacillus hilgardii",1588,504
+WP_004561489.1,"glycerol kinase","Lactobacillus hilgardii",1588,503
+WP_008471032.1,"glycerol kinase","Lactobacillus hominis",1203033,498
+WP_006729375.1,"glycerol kinase","Lactobacillus iners",147802,507
+WP_006585328.1,"glycerol kinase","Lactobacillus jensenii",109790,498
+WP_006585989.1,"glycerol kinase","Lactobacillus jensenii",109790,498
+WP_006588808.1,"glycerol kinase","Lactobacillus jensenii",109790,493
+WP_013854861.1,"glycerol kinase","Lactobacillus kefiranofaciens",267818,500
+WP_008855391.1,"glycerol kinase","Lactobacillus kisonensis",481722,507
+WP_010619851.1,"glycerol kinase","Lactobacillus malefermentans",176292,502
+WP_010620325.1,"glycerol kinase","Lactobacillus malefermentans",176292,502
+WP_003689046.1,"glycerol kinase","Lactobacillus mali",1618,503
+WP_003689086.1,"glycerol kinase","Lactobacillus mali",1618,506
+WP_006499106.1,"glycerol kinase","Lactobacillus mucosae",97478,501
+WP_003715188.1,"glycerol kinase","Lactobacillus oris",1632,501
+WP_020280282.1,"glycerol kinase","Lactobacillus otakiensis",481720,502
+WP_020280820.1,"glycerol kinase","Lactobacillus otakiensis",481720,503
+WP_020089439.1,"glycerol kinase","Lactobacillus parabrevis",357278,505
+WP_020090403.1,"glycerol kinase","Lactobacillus parabrevis",357278,499
+WP_003573925.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_003576588.1,"glycerol kinase","Lactobacillus paracasei",1597,504
+WP_003662830.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_016363265.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_016368727.1,"glycerol kinase","Lactobacillus paracasei",1597,504
+WP_016370762.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_016382673.1,"glycerol kinase","Lactobacillus paracasei",1597,504
+WP_016384651.1,"glycerol kinase","Lactobacillus paracasei",1597,504
+WP_016385750.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_016387867.1,"glycerol kinase","Lactobacillus paracasei",1597,507
+WP_019897328.1,"glycerol kinase","Lactobacillus paracasei",1597,505
+WP_008214688.1,"glycerol kinase","Lactobacillus parafarraginis",390842,501
+WP_009558930.1,"glycerol kinase","Lactobacillus pasteurii",872327,500
+WP_003637591.1,"glycerol kinase","Lactobacillus pentosus",1589,505
+WP_003637909.1,"glycerol kinase","Lactobacillus pentosus",1589,498
+WP_003641088.1,"glycerol kinase","Lactobacillus plantarum",1590,508
+WP_003641943.1,"glycerol kinase","Lactobacillus plantarum",1590,505
+WP_003643996.1,"glycerol kinase","Lactobacillus plantarum",1590,508
+WP_003645802.1,"glycerol kinase","Lactobacillus plantarum",1590,508
+WP_011101174.1,"glycerol kinase","Lactobacillus plantarum",1590,508
+WP_013355271.1,"glycerol kinase","Lactobacillus plantarum",1590,508
+WP_015379759.1,"glycerol kinase","Lactobacillus plantarum",1590,505
+WP_017867576.1,"glycerol kinase","Lactobacillus pobuzihii",449659,501
+WP_017867932.1,"glycerol kinase","Lactobacillus pobuzihii",449659,507
+WP_003663509.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_003667028.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_013923767.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_016496753.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_019252118.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_019252826.1,"glycerol kinase","Lactobacillus reuteri",1598,500
+WP_005691804.1,"glycerol kinase","Lactobacillus rhamnosus",47715,505
+WP_015764758.1,"glycerol kinase","Lactobacillus rhamnosus",47715,510
+WP_017260897.1,"glycerol kinase","Lactobacillus rossiae",231049,501
+WP_017261813.1,"glycerol kinase","Lactobacillus rossiae",231049,499
+WP_009552087.1,"glycerol kinase","Lactobacillus saerimneri",228229,500
+WP_011374358.1,"glycerol kinase","Lactobacillus sakei",1599,505
+WP_003700771.1,"glycerol kinase","Lactobacillus salivarius",1624,504
+WP_014081590.1,"glycerol kinase","Lactobacillus sanfranciscensis",1625,504
+WP_014081970.1,"glycerol kinase","Lactobacillus sanfranciscensis",1625,500
+WP_004040227.1,"glycerol kinase","Lactobacillus sp. ASF360",97137,500
+WP_010621370.1,"glycerol kinase","Lactobacillus suebicus",152335,505
+WP_010622147.1,"glycerol kinase","Lactobacillus suebicus",152335,499
+WP_010624415.1,"glycerol kinase","Lactobacillus versmoldensis",194326,500
+WP_010624417.1,"glycerol kinase","Lactobacillus versmoldensis",194326,502
+WP_010579524.1,"glycerol kinase","Lactobacillus vini",238015,504
+WP_010493470.1,"glycerol kinase","Lactobacillus zeae",57037,505
+WP_019292543.1,"glycerol kinase","Lactococcus",1357,498
+WP_003136372.1,"glycerol kinase","Lactococcus garvieae",1363,498
+WP_003136794.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_004256320.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_004257913.1,"glycerol kinase","Lactococcus garvieae",1363,498
+WP_014024629.1,"glycerol kinase","Lactococcus garvieae",1363,498
+WP_014024995.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_017369159.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_017369574.1,"glycerol kinase","Lactococcus garvieae",1363,498
+WP_019292737.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_019293832.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_019299425.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_019335492.1,"glycerol kinase","Lactococcus garvieae",1363,496
+WP_003131019.1,"glycerol kinase","Lactococcus lactis",1358,498
+WP_011676355.1,"glycerol kinase","Lactococcus lactis",1358,505
+WP_011835007.1,"glycerol kinase","Lactococcus lactis",1358,505
+WP_012897853.1,"glycerol kinase","Lactococcus lactis",1358,498
+WP_014572735.1,"glycerol kinase","Lactococcus lactis",1358,505
+WP_015082544.1,"glycerol kinase","Lactococcus lactis",1358,505
+WP_015426473.1,"glycerol kinase","Lactococcus lactis",1358,498
+WP_004261739.1,"glycerol kinase","Lactococcus raffinolactis",1366,498
+WP_013409009.1,"glycerol kinase","Leadbetterella byssophila",316068,495
+WP_018151595.1,"glycerol kinase","Leeia oryzae",356662,494
+WP_009778966.1,"glycerol kinase","Leeuwenhoekiella blandensis",360293,497
+WP_011185436.1,"glycerol kinase","Leifsonia xyli",1575,506
+WP_010532142.1,"glycerol kinase","Lentibacillus jeotgali",558169,497
+WP_007281319.1,"glycerol kinase","Lentisphaera araneosa",256847,509
+WP_012348228.1,"glycerol kinase","Leptothrix cholodnii",34029,497
+WP_012806570.1,"glycerol kinase","Leptotrichia buccalis",40542,505
+WP_006807191.1,"glycerol kinase","Leptotrichia goodfellowii",157692,514
+WP_006804897.1,"glycerol kinase","Leptotrichia hofstadii",157688,503
+WP_010156823.1,"glycerol kinase","Leucobacter chromiiresistens",1079994,504
+WP_017793875.1,"glycerol kinase","Leucobacter salsicius",664638,503
+WP_017884908.1,"glycerol kinase","Leucobacter sp. UCD-THU",1292023,504
+WP_019190290.1,"glycerol kinase","Levyella massiliensis",938289,498
+WP_020538754.1,"glycerol kinase","Lewinella cohaerens",70995,499
+WP_020568670.1,"glycerol kinase","Lewinella persica",70998,497
+WP_008251044.1,"glycerol kinase","Limnobacter sp. MED105",391597,496
+WP_019426795.1,"glycerol kinase","Limnohabitans sp. Rim28",1100720,500
+WP_019429872.1,"glycerol kinase","Limnohabitans sp. Rim47",1100721,501
+WP_003771956.1,"glycerol kinase","Listeria",1637,497
+WP_007544027.1,"glycerol kinase","Listeria fleischmannii",1069827,497
+WP_003755641.1,"glycerol kinase","Listeria grayi",1641,497
+WP_014092900.1,"glycerol kinase","Listeria ivanovii",1638,497
+WP_003726648.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003730217.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003731159.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003732584.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003733818.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003739013.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_014930486.1,"glycerol kinase","Listeria monocytogenes",1639,497
+WP_003747849.1,"glycerol kinase","Listeria seeligeri",1640,497
+WP_011702340.1,"glycerol kinase","Listeria welshimeri",1643,497
+WP_018351123.1,"glycerol kinase","Longispora albida",203523,491
+WP_010852811.1,"glycerol kinase","Lunatimonas lonarensis",1232681,500
+WP_004225835.1,"glycerol kinase","Lysinibacillus fusiformis",28031,497
+WP_012292039.1,"glycerol kinase","Lysinibacillus sphaericus",1421,498
+WP_012656799.1,"glycerol kinase","Macrococcus caseolyticus",69966,497
+WP_012993693.1,"glycerol kinase","Mageeibacillus indolicus",884684,508
+WP_013781930.1,"glycerol kinase","Mahella australiensis",252966,495
+WP_006248030.1,"glycerol kinase","Mannheimia haemolytica",75985,503
+WP_006252560.1,"glycerol kinase","Mannheimia haemolytica",75985,503
+WP_013306039.1,"glycerol kinase","Maribacter sp. HTCC2170",313603,495
+WP_009772106.1,"glycerol kinase","marine actinobacterium PHSC20C1",312284,502
+WP_009774071.1,"glycerol kinase","marine actinobacterium PHSC20C1",312284,505
+WP_013703462.1,"glycerol kinase","Marinithermus hydrothermalis",186192,495
+WP_013455872.1,"glycerol kinase","Marivirga tractuosa",1006,499
+WP_006859849.1,"glycerol kinase","Marvinbryantia formatexigens",168384,498
+WP_020655493.1,"glycerol kinase","Massilia niastensis",544911,496
+WP_005668191.1,"glycerol kinase","Massilia timonae",47229,519
+WP_020311406.1,"glycerol kinase","Megasphaera",906,501
+WP_014015602.1,"glycerol kinase","Megasphaera elsdenii",907,501
+WP_009369428.1,"glycerol kinase","Megasphaera genomosp. type_1",699192,500
+WP_007393304.1,"glycerol kinase","Megasphaera sp. UPII 135-E",1000569,500
+WP_007391105.1,"glycerol kinase","Megasphaera sp. UPII 199-6",1000568,500
+WP_015586324.1,"glycerol kinase","Meiothermus ruber",277,496
+WP_013157516.1,"glycerol kinase","Meiothermus silvanus",52022,496
+WP_018467142.1,"glycerol kinase","Meiothermus timidus",307124,495
+WP_010518174.1,"glycerol kinase","Mesoflavibacter zeaxanthinifaciens",393060,497
+WP_009059370.1,"glycerol kinase","Methylacidiphilum fumariolicum",591154,502
+WP_011831238.1,"glycerol kinase","Methylibium",316612,499
+WP_006893361.1,"glycerol kinase","Methylobacter tundripaludum",173365,494
+WP_007562957.1,"glycerol kinase","Methylobacterium",407,501
+WP_020095418.1,"glycerol kinase","Methylobacterium",407,501
+WP_003606425.1,"glycerol kinase","Methylobacterium extorquens",408,501
+WP_012255214.1,"glycerol kinase","Methylobacterium extorquens",408,501
+WP_015824202.1,"glycerol kinase","Methylobacterium extorquens",408,501
+WP_015857376.1,"glycerol kinase","Methylobacterium extorquens",408,501
+WP_015952278.1,"glycerol kinase","Methylobacterium extorquens",408,501
+WP_010686152.1,"glycerol kinase","Methylobacterium mesophilicum",39956,501
+WP_012456247.1,"glycerol kinase","Methylobacterium populi",223967,501
+WP_019904164.1,"glycerol kinase","Methylobacterium sp. 77",1101192,506
+WP_018043844.1,"glycerol kinase","Methylobacterium sp. 88A",1131813,501
+WP_017484099.1,"glycerol kinase","Methylobacterium sp. MB200",648885,501
+WP_016921063.1,"glycerol kinase","Methylocystis parvus",134,497
+WP_018406674.1,"glycerol kinase","Methylocystis rosea",173366,498
+WP_014891380.1,"glycerol kinase","Methylocystis sp. SC2",187303,498
+WP_005371619.1,"glycerol kinase","Methylomicrobium album",39775,495
+WP_020561680.1,"glycerol kinase","Methylosarcina fibrata",105972,494
+WP_003609404.1,"glycerol kinase","Methylosinus",425,493
+WP_018267275.1,"glycerol kinase","Methylosinus sp. LW4",136993,493
+WP_019918698.1,"glycerol kinase","Methyloversatilis discipulorum",1119528,503
+WP_020164260.1,"glycerol kinase","Methyloversatilis discipulorum",1119528,502
+WP_008060447.1,"glycerol kinase","Methyloversatilis universalis",378211,500
+WP_018229639.1,"glycerol kinase","Methyloversatilis universalis",378211,500
+WP_018189990.1,"glycerol kinase","Microbacteriaceae",85023,506
+WP_017830735.1,"glycerol kinase","Microbacterium",33882,504
+WP_018188795.1,"glycerol kinase","Microbacterium",33882,552
+WP_017201828.1,"glycerol kinase GlpK","Microbacterium barkeri",33917,499
+WP_017204512.1,"glycerol kinase","Microbacterium barkeri",33917,504
+WP_005047841.1,"glycerol kinase","Microbacterium laevaniformans",36807,504
+WP_020096713.1,"glycerol kinase","Microbacterium sp. 11MF",1169146,552
+WP_018171862.1,"glycerol kinase","Microbacterium sp. 292MF",1151122,512
+WP_016464115.1,"glycerol kinase","Microbacterium sp. oral taxon 186",712383,504
+WP_013583492.1,"glycerol kinase","Microbacterium testaceum",2033,503
+WP_019179423.1,"glycerol kinase","Microbacterium yannicii",671622,512
+WP_010131837.1,"glycerol kinase","Microbulbifer agarilyticus",260552,492
+WP_020411324.1,"glycerol kinase","Microbulbifer variabilis",266805,492
+WP_018777715.1,"glycerol kinase","Micrococcaceae",1268,504
+WP_002857756.1,"glycerol kinase","Micrococcus luteus",1270,510
+WP_010079812.1,"glycerol kinase","Micrococcus luteus",1270,510
+WP_006634935.1,"glycerol kinase","Microcoleus vaginatus",119532,495
+WP_013863107.1,"glycerol kinase","Microlunatus phosphovorus",29405,502
+WP_013864950.1,"glycerol kinase","Microlunatus phosphovorus",29405,506
+WP_013475257.1,"glycerol kinase","Micromonospora",1873,504
+WP_018784754.1,"glycerol kinase","Micromonospora",1873,504
+WP_013288389.1,"glycerol kinase","Micromonospora aurantiaca",47850,504
+WP_002695222.1,"glycerol kinase","Microscilla marina",1027,496
+WP_009483303.1,"glycerol kinase","Mobilicoccus pelagius",746032,515
+WP_004007241.1,"glycerol kinase","Mobiluncus curtisii",2051,512
+WP_004009142.1,"glycerol kinase","Mobiluncus curtisii",2051,512
+WP_004011025.1,"glycerol kinase","Mobiluncus curtisii",2051,512
+WP_013189202.1,"glycerol kinase","Mobiluncus curtisii",2051,512
+WP_004014557.1,"glycerol kinase","Mobiluncus mulieris",2052,512
+WP_014743460.1,"glycerol kinase","Modestobacter marinus",477641,500
+WP_014743462.1,"glycerol kinase","Modestobacter marinus",477641,505
+WP_009643662.1,"glycerol kinase","Mogibacterium",86331,502
+WP_004240799.1,"glycerol kinase","Morganella",581,508
+WP_004236613.1,"glycerol kinase","Morganella morganii",582,508
+WP_017219719.1,"glycerol kinase","Moritella dasanensis",428031,510
+WP_019441121.1,"glycerol kinase","Moritella marina",90736,510
+WP_006032203.1,"glycerol kinase","Moritella sp. PE36",58051,510
+WP_008508447.1,"glycerol kinase","Mucilaginibacter paludis",423351,504
+WP_014032275.1,"glycerol kinase","Muricauda ruestringensis",111501,498
+WP_005083566.1,"glycerol kinase","Mycobacterium",1763,504
+WP_011892225.1,"glycerol kinase","Mycobacterium",1763,505
+WP_012396720.1,"glycerol kinase","Mycobacterium",1763,508
+WP_014710826.1,"glycerol kinase","Mycobacterium",1763,508
+WP_019512331.1,"glycerol kinase","Mycobacterium",1763,505
+WP_019737064.1,"glycerol kinase","Mycobacterium",1763,505
+WP_020785266.1,"glycerol kinase","Mycobacterium",1763,508
+WP_005063212.1,"glycerol kinase","Mycobacterium abscessus",36809,504
+WP_005065381.1,"glycerol kinase","Mycobacterium abscessus",36809,504
+WP_005072539.1,"glycerol kinase","Mycobacterium abscessus",36809,504
+WP_012296300.1,"glycerol kinase","Mycobacterium abscessus",36809,504
+WP_016892008.1,"glycerol kinase","Mycobacterium abscessus",36809,504
+WP_003873346.1,"glycerol kinase","Mycobacterium avium",1764,508
+WP_003877027.1,"glycerol kinase","Mycobacterium avium",1764,508
+WP_009974637.1,"glycerol kinase","Mycobacterium avium",1764,508
+WP_014378923.1,"glycerol kinase","Mycobacterium avium complex (MAC)",120793,508
+WP_014817981.1,"glycerol kinase","Mycobacterium chubuense",1800,505
+WP_007772157.1,"glycerol kinase","Mycobacterium colombiense",339268,508
+WP_003883830.1,"glycerol kinase","Mycobacterium fortuitum",1766,505
+WP_013472964.1,"glycerol kinase","Mycobacterium gilvum",1804,505
+WP_005630871.1,"glycerol kinase","Mycobacterium hassiacum",46351,510
+WP_009955094.1,"glycerol kinase","Mycobacterium intracellulare",1767,508
+WP_020188341.1,"glycerol kinase","Mycobacterium intracellulare",1767,508
+WP_010908827.1,"glycerol kinase","Mycobacterium leprae",1769,508
+WP_020730936.1,"glycerol kinase","Mycobacterium marinum",1781,508
+WP_007166678.1,"glycerol kinase","Mycobacterium parascrofulaceum",240125,505
+WP_003888638.1,"glycerol kinase","Mycobacterium phlei",1771,509
+WP_005138542.1,"glycerol kinase","Mycobacterium rhodesiae",36814,504
+WP_014210517.1,"glycerol kinase","Mycobacterium rhodesiae",36814,505
+WP_013830898.1,"glycerol kinase","Mycobacterium sinense",875328,505
+WP_003897649.1,"glycerol kinase","Mycobacterium smegmatis",1772,505
+WP_003898134.1,"glycerol kinase","Mycobacterium smegmatis",1772,505
+WP_003898137.1,"glycerol kinase","Mycobacterium smegmatis",1772,504
+WP_011731139.1,"glycerol kinase","Mycobacterium smegmatis",1772,505
+WP_011731514.1,"glycerol kinase","Mycobacterium smegmatis",1772,505
+WP_019973144.1,"glycerol kinase","Mycobacterium sp. 141",1120797,505
+WP_018603440.1,"glycerol kinase","Mycobacterium sp. 155",1157943,506
+WP_020101472.1,"glycerol kinase","Mycobacterium sp. 360MFTsu5.1",1172186,505
+WP_008263282.1,"glycerol kinase","Mycobacterium sp. H4Y",1168288,508
+WP_015309760.1,"glycerol kinase","Mycobacterium sp. JS623",212767,505
+WP_003925241.1,"glycerol kinase","Mycobacterium thermoresistibile",1797,510
+WP_003899643.1,"glycerol kinase","Mycobacterium tuberculosis",1773,517
+WP_003902695.1,"glycerol kinase","Mycobacterium tuberculosis",1773,517
+WP_003909066.1,"glycerol kinase","Mycobacterium tuberculosis",1773,517
+WP_019257008.1,"glycerol kinase","Mycobacterium tuberculosis",1773,517
+WP_003908412.1,"glycerol kinase","Mycobacterium tuberculosis complex",77643,517
+WP_011799369.1,"glycerol kinase","Mycobacterium tuberculosis complex",77643,518
+WP_006243920.1,"glycerol kinase","Mycobacterium tusciae",75922,505
+WP_011741904.1,"glycerol kinase","Mycobacterium ulcerans",1809,508
+WP_003931859.1,"glycerol kinase","Mycobacterium vaccae",1810,505
+WP_011782592.1,"glycerol kinase","Mycobacterium vanbaalenii",110539,505
+WP_003921584.1,"glycerol kinase","Mycobacterium xenopi",1789,505
+WP_004023857.1,"glycerol kinase","Mycoplasma agalactiae",2110,502
+WP_011949616.1,"glycerol kinase","Mycoplasma agalactiae",2110,502
+WP_013022083.1,"glycerol kinase","Mycoplasma agalactiae",2110,502
+WP_005683790.1,"glycerol kinase","Mycoplasma alligatoris",47687,510
+WP_013455990.1,"glycerol kinase","Mycoplasma bovis",28903,502
+WP_013954718.1,"glycerol kinase","Mycoplasma bovis",28903,502
+WP_004794209.1,"glycerol kinase","Mycoplasma canis",29555,505
+WP_004796091.1,"glycerol kinase","Mycoplasma canis",29555,505
+WP_004796569.1,"glycerol kinase","Mycoplasma canis",29555,505
+WP_004796973.1,"glycerol kinase","Mycoplasma canis",29555,505
+WP_011387106.1,"glycerol kinase","Mycoplasma capricolum",2095,505
+WP_012751238.1,"glycerol kinase","Mycoplasma conjunctivae",45361,505
+WP_013054761.1,"glycerol kinase","Mycoplasma crocodyli",50052,509
+WP_015287381.1,"glycerol kinase","Mycoplasma cynos",171284,507
+WP_008363702.1,"glycerol kinase","Mycoplasma feriruminatoris",1179777,505
+WP_011113244.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_014574361.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_014885780.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_014886314.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_014886613.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_014886697.1,"glycerol kinase","Mycoplasma gallisepticum",2096,508
+WP_010869300.1,"glycerol kinase","Mycoplasma genitalium",2097,508
+WP_014894111.1,"glycerol kinase","Mycoplasma genitalium",2097,508
+WP_011206205.1,"glycerol kinase","Mycoplasma hyopneumoniae",2099,510
+WP_011284127.1,"glycerol kinase","Mycoplasma hyopneumoniae",2099,510
+WP_011290194.1,"glycerol kinase","Mycoplasma hyopneumoniae",2099,510
+WP_014579812.1,"glycerol kinase","Mycoplasma hyopneumoniae",2099,510
+WP_004024764.1,"glycerol kinase","Mycoplasma iowae",2116,509
+WP_013447577.1,"glycerol kinase","Mycoplasma leachii",2105,505
+WP_011264814.1,"glycerol kinase","Mycoplasma mobile",2118,510
+WP_011166455.1,"glycerol kinase","Mycoplasma mycoides",2102,505
+WP_013729427.1,"glycerol kinase","Mycoplasma mycoides",2102,505
+WP_015545468.1,"glycerol kinase","Mycoplasma mycoides",2102,505
+WP_017697983.1,"glycerol kinase","Mycoplasma mycoides",2102,505
+WP_010321135.1,"glycerol kinase","Mycoplasma ovipneumoniae",29562,510
+WP_011077456.1,"glycerol kinase","Mycoplasma penetrans",28227,507
+WP_010874407.1,"glycerol kinase","Mycoplasma pneumoniae",2104,508
+WP_014325309.1,"glycerol kinase","Mycoplasma pneumoniae",2104,508
+WP_014574852.1,"glycerol kinase","Mycoplasma pneumoniae",2104,508
+WP_017532729.1,"glycerol kinase","Mycoplasma pneumoniae",2104,508
+WP_019830474.1,"glycerol kinase","Mycoplasma pneumoniae",2104,508
+WP_010925025.1,"glycerol kinase","Mycoplasma pulmonis",2107,507
+WP_014035281.1,"glycerol kinase","Mycoplasma putrefaciens",2123,502
+WP_015587237.1,"glycerol kinase","Mycoplasma putrefaciens",2123,502
+WP_004429842.1,"glycerol kinase","Mycoplasma yeatsii",51365,502
+WP_015746835.1,"glycerol kinase","Nakamurella multipartita",53461,504
+WP_015748508.1,"glycerol kinase","Nakamurella multipartita",53461,501
+WP_015750369.1,"glycerol kinase","Nakamurella multipartita",53461,503
+WP_015750374.1,"glycerol kinase","Nakamurella multipartita",53461,507
+WP_012449067.1,"glycerol kinase","Natranaerobius thermophilus",375929,498
+WP_010523902.1,"glycerol kinase","Nesterenkonia sp. F",795955,519
+WP_018628410.1,"glycerol kinase","Niabella aurantiaca",379900,498
+WP_008586892.1,"glycerol kinase","Niabella soli",446683,498
+WP_014217017.1,"glycerol kinase","Niastella koreensis",354356,494
+WP_009053376.1,"glycerol kinase","Nitritalea halalkaliphila",590849,496
+WP_004179438.1,"glycerol kinase","Nitrosospira lacus",1288494,508
+WP_014981921.1,"glycerol kinase","Nocardia brasiliensis",37326,499
+WP_014982240.1,"glycerol kinase","Nocardia brasiliensis",37326,506
+WP_014982243.1,"glycerol kinase","Nocardia brasiliensis",37326,510
+WP_014349312.1,"glycerol kinase","Nocardia cyriacigeorgica",135487,499
+WP_014350983.1,"glycerol kinase","Nocardia cyriacigeorgica",135487,503
+WP_014350985.1,"glycerol kinase","Nocardia cyriacigeorgica",135487,505
+WP_011207501.1,"glycerol kinase","Nocardia farcinica",37329,499
+WP_019932977.1,"glycerol kinase","Nocardia sp. BMG111209",1160137,500
+WP_017536772.1,"glycerol kinase","Nocardiopsis",2013,498
+WP_019608030.1,"glycerol kinase","Nocardiopsis",2013,499
+WP_014908775.1,"glycerol kinase","Nocardiopsis alba",53437,499
+WP_017533577.1,"glycerol kinase","Nocardiopsis alba",53437,499
+WP_017604723.1,"glycerol kinase","Nocardiopsis alkaliphila",225762,499
+WP_017622654.1,"glycerol kinase","Nocardiopsis chromatogenes",280239,498
+WP_013154655.1,"glycerol kinase","Nocardiopsis dassonvillei",2014,499
+WP_017585017.1,"glycerol kinase","Nocardiopsis ganjiahuensis",239984,499
+WP_017571919.1,"glycerol kinase","Nocardiopsis halotolerans",124252,499
+WP_017575127.1,"glycerol kinase","Nocardiopsis kunsanensis",141693,497
+WP_017599526.1,"glycerol kinase","Nocardiopsis lucentensis",53441,499
+WP_017542572.1,"glycerol kinase","Nocardiopsis prasina",2015,499
+WP_017612231.1,"glycerol kinase","Nocardiopsis salina",245836,504
+WP_017567677.1,"glycerol kinase","Nocardiopsis synnemataformans",61305,499
+WP_017581850.1,"glycerol kinase","Nocardiopsis valliformis",239974,499
+WP_017608408.1,"glycerol kinase","Nocardiopsis xinjiangensis",124285,495
+WP_020546652.1,"glycerol kinase","Nonomuraea coxensis",404386,493
+WP_020547836.1,"glycerol kinase","Nonomuraea coxensis",404386,502
+WP_019139924.1,"glycerol kinase","Noviherbaspirillum massiliense",1465823,498
+WP_019933787.1,"glycerol kinase","Oceanimonas smirnovii",264574,494
+WP_014292417.1,"glycerol kinase","Oceanimonas sp. GK1",511062,498
+WP_013458426.1,"glycerol kinase","Oceanithermus profundus",187137,496
+WP_017797664.1,"glycerol kinase","Oceanobacillus",182709,500
+WP_011066868.1,"glycerol kinase","Oceanobacillus iheyensis",182710,500
+WP_010647548.1,"glycerol kinase","Oceanobacillus massiliensis",1465765,497
+WP_010647826.1,"glycerol kinase","Oceanobacillus massiliensis",1465765,496
+WP_007876858.1,"glycerol kinase","Ochrobactrum",528,499
+WP_010661485.1,"glycerol kinase","Ochrobactrum anthropi",529,499
+WP_012091247.1,"glycerol kinase","Ochrobactrum anthropi",529,499
+WP_006467832.1,"glycerol kinase","Ochrobactrum intermedium",94625,499
+WP_009137995.1,"glycerol kinase","Odoribacter laneus",626933,495
+WP_013613469.1,"glycerol kinase","Odoribacter splanchnicus",28118,495
+WP_007360379.1,"glycerol kinase","Opitutaceae bacterium TAV1",278956,514
+WP_009511943.1,"glycerol kinase","Opitutaceae bacterium TAV5",794903,514
+WP_012374310.1,"glycerol kinase","Opitutus terrae",107709,498
+WP_018249872.1,"glycerol kinase","Orenia marismortui",46469,499
+WP_009536137.1,"glycerol kinase","Oribacterium asaccharolyticum",1501332,500
+WP_009534481.1,"glycerol kinase","Oribacterium parvum",1501329,498
+WP_009216015.1,"glycerol kinase","Oribacterium sp. oral taxon 078",652706,506
+WP_009429847.1,"glycerol kinase","Oribacterium sp. oral taxon 108",712414,500
+WP_010095267.1,"glycerol kinase","Ornithinibacillus scapharcae",1147159,498
+WP_010096392.1,"glycerol kinase","Ornithinibacillus scapharcae",1147159,497
+WP_010098880.1,"glycerol kinase","Ornithinibacillus scapharcae",1147159,496
+WP_015176898.1,"glycerol kinase","Oscillatoria nigro-viridis",482564,495
+WP_016320502.1,"glycerol kinase","Oscillibacter sp. 1-3",1235797,495
+WP_014117272.1,"glycerol kinase","Oscillibacter valericigenes",351091,503
+WP_006562876.1,"glycerol kinase","Oscillochloris trichoides",104176,497
+WP_020705053.1,"glycerol kinase","Oxalobacteraceae bacterium AB_14",1158293,501
+WP_009665792.1,"glycerol kinase","Oxalobacteraceae bacterium IMCC9480",937450,499
+WP_011774932.1,"glycerol kinase","Paenarthrobacter aurescens",43663,504
+WP_007431735.1,"glycerol kinase","Paenibacillus",44249,497
+WP_009671839.1,"glycerol kinase","Paenibacillus",44249,496
+WP_016818622.1,"glycerol kinase","Paenibacillus",44249,497
+WP_017814233.1,"glycerol kinase","Paenibacillus",44249,497
+WP_006038451.1,"glycerol kinase","Paenibacillus curdlanolyticus",59840,498
+WP_020615643.1,"glycerol kinase","Paenibacillus daejeonensis",135193,498
+WP_006676217.1,"glycerol kinase","Paenibacillus dendritiformis",130049,496
+WP_010495824.1,"glycerol kinase","Paenibacillus elgii",189691,495
+WP_010497592.1,"glycerol kinase","Paenibacillus elgii",189691,500
+WP_019638543.1,"glycerol kinase","Paenibacillus fonticola",379896,496
+WP_019537220.1,"glycerol kinase","Paenibacillus ginsengihumi",431596,495
+WP_007132158.1,"glycerol kinase","Paenibacillus lactis",228574,496
+WP_018884006.1,"glycerol kinase","Paenibacillus massiliensis",225917,497
+WP_013921471.1,"glycerol kinase","Paenibacillus mucilaginosus",61624,496
+WP_014372713.1,"glycerol kinase","Paenibacillus mucilaginosus",61624,496
+WP_010348063.1,"glycerol kinase","Paenibacillus peoriae",59893,497
+WP_013311634.1,"glycerol kinase","Paenibacillus polymyxa",1406,497
+WP_013312488.1,"glycerol kinase","Paenibacillus polymyxa",1406,496
+WP_013372701.1,"glycerol kinase","Paenibacillus polymyxa",1406,497
+WP_013373602.1,"glycerol kinase","Paenibacillus polymyxa",1406,497
+WP_019688908.1,"glycerol kinase","Paenibacillus polymyxa",1406,497
+WP_010272730.1,"glycerol kinase","Paenibacillus senegalensis",1465766,492
+WP_009590054.1,"glycerol kinase","Paenibacillus sp. HGF5",908341,496
+WP_019909925.1,"glycerol kinase","Paenibacillus sp. HW567",1034769,497
+WP_015846885.1,"glycerol kinase","Paenibacillus sp. JDR-2",324057,498
+WP_009225121.1,"glycerol kinase","Paenibacillus sp. oral taxon 786",652715,496
+WP_019421755.1,"glycerol kinase","Paenibacillus sp. OSY-SE",1196323,517
+WP_017691749.1,"glycerol kinase","Paenibacillus sp. PAMC 26794",1257080,495
+WP_015736412.1,"glycerol kinase","Paenibacillus sp. Y412MC10",481743,496
+WP_014277622.1,"glycerol kinase","Paenibacillus terrae",159743,497
+WP_018754637.1,"glycerol kinase","Paenibacillus terrigena",369333,498
+WP_006211435.1,"glycerol kinase","Paenibacillus vortex",71995,496
+WP_007272149.1,"glycerol kinase","Paeniglutamicibacter gangotriensis",254787,504
+WP_016427494.1,"glycerol kinase","Paenisporosarcina sp. HGH0030",1078085,496
+WP_017381397.1,"glycerol kinase","Paenisporosarcina sp. TG-14",1231057,496
+WP_019413628.1,"glycerol kinase","Paenisporosarcina sp. TG20",1211706,496
+WP_019413758.1,"glycerol kinase","Paenisporosarcina sp. TG20",1211706,496
+WP_003851245.1,"glycerol kinase","Pantoea",53335,503
+WP_007885381.1,"glycerol kinase","Pantoea",53335,503
+WP_009088036.1,"glycerol kinase","Pantoea",53335,503
+WP_010258184.1,"glycerol kinase","Pantoea",53335,503
+WP_010672072.1,"glycerol kinase","Pantoea",53335,503
+WP_013359472.1,"glycerol kinase","Pantoea",53335,503
+WP_014594886.1,"glycerol kinase","Pantoea",53335,503
+WP_013027696.1,"glycerol kinase","Pantoea ananatis",553,503
+WP_017348812.1,"glycerol kinase","Pantoea sp. A4",1225184,505
+WP_013510994.1,"glycerol kinase","Pantoea sp. At-9b",592316,504
+WP_006121297.1,"glycerol kinase","Pantoea stewartii",66269,503
+WP_005865033.1,"glycerol kinase","Parabacteroides",375288,499
+WP_010803654.1,"glycerol kinase","Parabacteroides",375288,503
+WP_007653228.1,"glycerol kinase","Parabacteroides goldsteinii",328812,503
+WP_008147536.1,"glycerol kinase","Parabacteroides johnsonii",387661,501
+WP_008158464.1,"glycerol kinase","Parabacteroides johnsonii",387661,501
+WP_005635115.1,"glycerol kinase","Parabacteroides merdae",46503,500
+WP_005644145.1,"glycerol kinase","Parabacteroides merdae",46503,500
+WP_020069273.1,"glycerol kinase","Paraburkholderia bryophila",420952,499
+WP_006049935.1,"glycerol kinase","Paraburkholderia graminis",60548,502
+WP_017772735.1,"glycerol kinase","Paraburkholderia kururiensis",984307,499
+WP_015003698.1,"glycerol kinase","Paraburkholderia phenoliruptrix",252970,499
+WP_012399838.1,"glycerol kinase","Paraburkholderia phymatum",148447,499
+WP_012434280.1,"glycerol kinase","Paraburkholderia phytofirmans",261302,499
+WP_013436210.1,"glycerol kinase","Paraburkholderia rhizoxinica",412963,500
+WP_011489785.1,"glycerol kinase","Paraburkholderia xenovorans",36873,499
+WP_017436187.1,"glycerol kinase","Parageobacillus caldoxylosilyticus",81408,496
+WP_008864920.1,"glycerol kinase","Parasutterella excrementihominis",487175,504
+WP_004832377.1,"glycerol kinase","Parvimonas micra",33033,500
+WP_009354795.1,"glycerol kinase","Parvimonas sp. oral taxon 110",671230,500
+WP_009447647.1,"glycerol kinase","Parvimonas sp. oral taxon 393",713008,500
+WP_005760786.1,"glycerol kinase","Pasteurella bettyae",752,503
+WP_005763966.1,"glycerol kinase","Pasteurella dagmatis",754,502
+WP_005717983.1,"glycerol kinase","Pasteurella multocida",747,502
+WP_010907166.1,"glycerol kinase","Pasteurella multocida",747,502
+WP_007575235.1,"glycerol kinase","Patulibacter medicamentivorans",1097667,493
+WP_012822006.1,"glycerol kinase","Pectobacterium",122277,503
+WP_011095736.1,"glycerol kinase","Pectobacterium atrosepticum",29471,503
+WP_010299314.1,"glycerol kinase","Pectobacterium carotovorum",554,503
+WP_012772900.1,"glycerol kinase","Pectobacterium carotovorum",554,503
+WP_014917002.1,"glycerol kinase","Pectobacterium carotovorum",554,503
+WP_005973322.1,"glycerol kinase","Pectobacterium wasabiae",55208,503
+WP_002829658.1,"glycerol kinase","Pediococcus acidilactici",1254,504
+WP_002832463.1,"glycerol kinase","Pediococcus acidilactici",1254,504
+WP_005918190.1,"glycerol kinase","Pediococcus acidilactici",1254,504
+WP_008841239.1,"glycerol kinase","Pediococcus acidilactici",1254,500
+WP_014215784.1,"glycerol kinase","Pediococcus claussenii",187452,504
+WP_002832953.1,"glycerol kinase","Pediococcus pentosaceus",1255,504
+WP_010600885.1,"glycerol kinase","Pedobacter agri",454586,496
+WP_017257718.1,"glycerol kinase","Pedobacter arcticus",752140,497
+WP_015809986.1,"glycerol kinase","Pedobacter heparinus",984,496
+WP_008242675.1,"glycerol kinase","Pedobacter sp. BAL39",391596,504
+WP_007413764.1,"glycerol kinase","Pedosphaera parvula",1032527,497
+WP_011358652.1,"glycerol kinase","Pelodictyon luteolum",1100,483
+WP_012509260.1,"glycerol kinase","Pelodictyon phaeoclathratiforme",34090,483
+WP_007933408.1,"glycerol kinase","Pelosinus",365348,503
+WP_007950363.1,"glycerol kinase","Pelosinus",365348,497
+WP_007932247.1,"glycerol kinase","Pelosinus fermentans",365349,497
+WP_009431895.1,"glycerol kinase","Peptoniphilaceae",1570339,495
+WP_009221377.1,"glycerol kinase","Peptoniphilus",162289,495
+WP_008902319.1,"glycerol kinase","Peptoniphilus duerdenii",507750,499
+WP_005955292.1,"glycerol kinase","Peptoniphilus harei",54005,495
+WP_004819091.1,"glycerol kinase","Peptoniphilus indolicus",33030,495
+WP_004826397.1,"glycerol kinase","Peptoniphilus lacrimalis",33031,496
+WP_019034163.1,"glycerol kinase","Peptoniphilus lacrimalis",33031,496
+WP_010245360.1,"glycerol kinase","Peptoniphilus rhinitidis",1175452,495
+WP_019108198.1,"glycerol kinase","Peptoniphilus senegalensis",1465757,495
+WP_009345405.1,"glycerol kinase","Peptoniphilus sp. oral taxon 836",671216,496
+WP_009079779.1,"glycerol kinase","Peptostreptococcaceae bacterium AS15",936556,501
+WP_002844018.1,"glycerol kinase","Peptostreptococcus anaerobius",1261,501
+WP_002845558.1,"glycerol kinase","Peptostreptococcus anaerobius",1261,501
+WP_007789710.1,"glycerol kinase","Peptostreptococcus stomatis",341694,501
+WP_012208133.1,"glycerol kinase","Petrotoga mobilis",69499,498
+WP_009144818.1,"glycerol kinase","Phascolarctobacterium succinatutens",626940,500
+WP_005368626.1,"glycerol kinase","Photobacterium angustum",661,505
+WP_005302608.1,"glycerol kinase","Photobacterium damselae",38293,503
+WP_008987439.1,"glycerol kinase","Photobacterium leiognathi",553611,505
+WP_008988149.1,"glycerol kinase","Photobacterium leiognathi",553611,507
+WP_007469356.1,"glycerol kinase","Photobacterium marinum",1056511,505
+WP_006233889.1,"glycerol kinase","Photobacterium profundum",74109,506
+WP_011217063.1,"glycerol kinase","Photobacterium profundum",74109,508
+WP_006645258.1,"glycerol kinase","Photobacterium sp. SKA34",121723,505
+WP_015836323.1,"glycerol kinase","Photorhabdus asymbiotica",291112,507
+WP_011148833.1,"glycerol kinase","Photorhabdus luminescens",29488,507
+WP_012909726.1,"glycerol kinase","Pirellula staleyi",125,497
+WP_006831341.1,"glycerol kinase","Planococcus antarcticus",161360,500
+WP_008431951.1,"glycerol kinase","Planococcus donghaensis",414778,500
+WP_008497063.1,"glycerol kinase","Planococcus halocryophilus",1215089,500
+WP_010616534.1,"glycerol kinase","Plautia stali symbiont",891974,503
+WP_004570209.1,"glycerol kinase","Polaribacter irgensii",531,498
+WP_015481485.1,"glycerol kinase","Polaribacter sp. MED152",313598,494
+WP_011799758.1,"glycerol kinase","Polaromonas naphthalenivorans",216465,497
+WP_007869216.1,"glycerol kinase","Polaromonas sp. CF318",1144318,497
+WP_011481447.1,"glycerol kinase","Polaromonas sp. JS666",296591,497
+WP_004338123.1,"glycerol kinase","Prevotella bivia",28125,496
+WP_004354474.1,"glycerol kinase","Prevotella denticola",28129,496
+WP_013670628.1,"glycerol kinase","Prevotella denticola",28129,496
+WP_008824253.1,"glycerol kinase","Prevotella histicola",470565,496
+WP_004361405.1,"glycerol kinase","Prevotella melaninogenica",28132,496
+WP_007367943.1,"glycerol kinase","Prevotella multiformis",282402,496
+WP_007573409.1,"glycerol kinase","Prevotella multisaccharivorax",310514,495
+WP_016665500.1,"glycerol kinase","Prevotella oralis",28134,499
+WP_020015964.1,"glycerol kinase","Promicromonospora sukumoe",88382,504
+WP_002512652.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_002515920.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_002519763.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_002524547.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_002526072.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_002528349.1,"glycerol kinase","Propionibacteriaceae",31957,515
+WP_004809962.1,"glycerol kinase","Propionibacteriaceae",31957,507
+WP_016666539.1,"glycerol kinase","Propionibacteriaceae",31957,507
+WP_013161327.1,"glycerol kinase","Propionibacterium freudenreichii",1744,508
+WP_016669372.1,"glycerol kinase","Propionibacterium sp. oral taxon 192",671222,507
+WP_016456919.1,"glycerol kinase","Propionimicrobium",203133,507
+WP_019555019.1,"glycerol kinase","Propionispira raffinosivorans",86959,499
+WP_019555026.1,"glycerol kinase","Propionispira raffinosivorans",86959,499
+WP_012506068.1,"glycerol kinase","Prosthecochloris aestuarii",1102,484
+WP_000136788.1,"glycerol kinase","Proteobacteria",1224,502
+WP_013099318.1,"glycerol kinase","Proteobacteria",1224,502
+WP_004246422.1,"glycerol kinase","Proteus",583,510
+WP_012368678.1,"glycerol kinase","Proteus mirabilis",584,510
+WP_006660520.1,"glycerol kinase","Providencia alcalifaciens",126385,508
+WP_006663187.1,"glycerol kinase","Providencia alcalifaciens",126385,508
+WP_008913555.1,"glycerol kinase","Providencia burhodogranariea",516074,508
+WP_004265295.1,"glycerol kinase","Providencia rettgeri",587,508
+WP_006816276.1,"glycerol kinase","Providencia rustigianii",158850,508
+WP_004924654.1,"glycerol kinase","Providencia stuartii",588,508
+WP_015937178.1,"glycerol kinase","Pseudarthrobacter chlorophenolicus",85085,504
+WP_013601060.1,"glycerol kinase","Pseudarthrobacter phenanthrenivorans",361575,504
+WP_009839169.1,"glycerol kinase","Pseudoalteromonas tunicata",314281,500
+WP_015413943.1,"glycerol kinase","Pseudodesulfovibrio piezophilus",879567,503
+WP_004556718.1,"glycerol kinase","pseudomallei group",111527,500
+WP_015600277.1,"glycerol kinase","pseudomallei group",111527,500
+WP_003092168.1,"glycerol kinase","Pseudomonas",286,505
+WP_003178687.1,"glycerol kinase","Pseudomonas",286,501
+WP_003188963.1,"glycerol kinase","Pseudomonas",286,501
+WP_003204972.1,"glycerol kinase","Pseudomonas",286,501
+WP_003208721.1,"glycerol kinase","Pseudomonas",286,501
+WP_003231438.1,"glycerol kinase","Pseudomonas",286,501
+WP_003254960.1,"glycerol kinase","Pseudomonas",286,499
+WP_003363615.1,"glycerol kinase","Pseudomonas",286,501
+WP_003405430.1,"glycerol kinase","Pseudomonas",286,501
+WP_003443190.1,"glycerol kinase","Pseudomonas",286,501
+WP_004575666.1,"glycerol kinase","Pseudomonas",286,499
+WP_004881859.1,"glycerol kinase","Pseudomonas",286,501
+WP_005785253.1,"glycerol kinase","Pseudomonas",286,501
+WP_007898522.1,"glycerol kinase","Pseudomonas",286,501
+WP_007916698.1,"glycerol kinase","Pseudomonas",286,500
+WP_008009318.1,"glycerol kinase","Pseudomonas",286,501
+WP_008032172.1,"glycerol kinase","Pseudomonas",286,501
+WP_008570319.1,"glycerol kinase","Pseudomonas",286,502
+WP_009045375.1,"glycerol kinase","Pseudomonas",286,501
+WP_009684549.1,"glycerol kinase","Pseudomonas",286,499
+WP_010212752.1,"glycerol kinase","Pseudomonas",286,501
+WP_010426632.1,"glycerol kinase","Pseudomonas",286,501
+WP_011335748.1,"glycerol kinase","Pseudomonas",286,500
+WP_012273893.1,"glycerol kinase","Pseudomonas",286,499
+WP_014717135.1,"glycerol kinase","Pseudomonas",286,501
+WP_015271569.1,"glycerol kinase","Pseudomonas",286,499
+WP_016488789.1,"glycerol kinase","Pseudomonas",286,499
+WP_016713734.1,"glycerol kinase","Pseudomonas",286,499
+WP_016986644.1,"glycerol kinase","Pseudomonas",286,500
+WP_017137034.1,"glycerol kinase","Pseudomonas",286,501
+WP_017640303.1,"glycerol kinase","Pseudomonas",286,502
+WP_017844614.1,"glycerol kinase","Pseudomonas",286,501
+WP_018614184.1,"glycerol kinase","Pseudomonas",286,501
+WP_018926616.1,"glycerol kinase","Pseudomonas",286,501
+WP_019093252.1,"glycerol kinase","Pseudomonas",286,501
+WP_019472057.1,"glycerol kinase","Pseudomonas",286,499
+WP_019823557.1,"glycerol kinase","Pseudomonas",286,501
+WP_020288930.1,"glycerol kinase","Pseudomonas",286,501
+WP_020799855.1,"glycerol kinase","Pseudomonas",286,501
+WP_003113886.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_003115225.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_003119372.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_003152303.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_015502506.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_019726587.1,"glycerol kinase","Pseudomonas aeruginosa",287,505
+WP_017131293.1,"glycerol kinase","Pseudomonas agarici",46677,501
+WP_005620047.1,"glycerol kinase","Pseudomonas avellanae",46257,501
+WP_009050562.1,"glycerol kinase","Pseudomonas chlororaphis",587753,501
+WP_010221028.1,"glycerol kinase","Pseudomonas donghuensis",1163398,499
+WP_011532512.1,"glycerol kinase","Pseudomonas entomophila",312306,499
+WP_010564129.1,"glycerol kinase","Pseudomonas extremaustralis",359110,501
+WP_003172086.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_003227744.1,"glycerol kinase","Pseudomonas fluorescens",294,500
+WP_012722480.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_014339888.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_017340578.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_017526346.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_019693369.1,"glycerol kinase","Pseudomonas fluorescens",294,501
+WP_016779687.1,"glycerol kinase","Pseudomonas fragi",296,501
+WP_013792312.1,"glycerol kinase","Pseudomonas fulva",47880,498
+WP_010445051.1,"glycerol kinase","Pseudomonas fuscovaginae",50340,501
+WP_017902748.1,"glycerol kinase","Pseudomonas fuscovaginae",50340,501
+WP_019363267.1,"glycerol kinase","Pseudomonas fuscovaginae",50340,501
+WP_019365834.1,"glycerol kinase","Pseudomonas luteola",47886,501
+WP_010457696.1,"glycerol kinase","Pseudomonas mandelii",75612,501
+WP_017521003.1,"glycerol kinase","Pseudomonas nitroreducens",46680,504
+WP_016395679.1,"glycerol kinase","Pseudomonas plecoglossicida",70775,499
+WP_011063122.1,"glycerol kinase","Pseudomonas protegens",380021,501
+WP_015636823.1,"glycerol kinase","Pseudomonas protegens",380021,501
+WP_019411000.1,"glycerol kinase","Pseudomonas psychrophila",122355,501
+WP_007162743.1,"glycerol kinase","Pseudomonas psychrotolerans",237610,502
+WP_009399768.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_010952247.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_013973964.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_014589908.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_016498206.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_019750598.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_020190707.1,"glycerol kinase","Pseudomonas putida",303,499
+WP_011169329.1,"glycerol kinase","Pseudomonas savastanoi",29438,501
+WP_015476163.1,"glycerol kinase","Pseudomonas sp. ATCC 13867",1294143,504
+WP_017738296.1,"glycerol kinase","Pseudomonas sp. CBZ-4",1163065,501
+WP_020298571.1,"glycerol kinase","Pseudomonas sp. CF161",911241,503
+WP_007922414.1,"glycerol kinase","Pseudomonas sp. GM17",1144323,501
+WP_007938931.1,"glycerol kinase","Pseudomonas sp. GM18",1144324,501
+WP_007943556.1,"glycerol kinase","Pseudomonas sp. GM21",1144325,501
+WP_007953181.1,"glycerol kinase","Pseudomonas sp. GM25",1144327,500
+WP_007963959.1,"glycerol kinase","Pseudomonas sp. GM30",1144328,500
+WP_007971302.1,"glycerol kinase","Pseudomonas sp. GM33",1144329,501
+WP_008156871.1,"glycerol kinase","Pseudomonas sp. GM41(2012)",1144708,501
+WP_007985885.1,"glycerol kinase","Pseudomonas sp. GM48",1144330,501
+WP_007998510.1,"glycerol kinase","Pseudomonas sp. GM49",1144331,501
+WP_008018554.1,"glycerol kinase","Pseudomonas sp. GM55",1144333,501
+WP_008053512.1,"glycerol kinase","Pseudomonas sp. GM74",1144336,501
+WP_008056630.1,"glycerol kinase","Pseudomonas sp. GM78",1144337,501
+WP_008079432.1,"glycerol kinase","Pseudomonas sp. GM80",1144339,500
+WP_008094560.1,"glycerol kinase","Pseudomonas sp. GM84",1144340,499
+WP_008372386.1,"glycerol kinase","Pseudomonas sp. M47T1",1179778,501
+WP_017480117.1,"glycerol kinase","Pseudomonas sp. PAMC 26793",1240676,501
+WP_015096694.1,"glycerol kinase","Pseudomonas sp. UW4",1207075,501
+WP_003289421.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_003292206.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_003299277.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_011912765.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_014596337.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_014819956.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_014853593.1,"glycerol kinase","Pseudomonas stutzeri",316,503
+WP_015277532.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_017245762.1,"glycerol kinase","Pseudomonas stutzeri",316,502
+WP_019340977.1,"glycerol kinase","Pseudomonas stutzeri",316,503
+WP_004396510.1,"glycerol kinase","Pseudomonas syringae",317,501
+WP_017702524.1,"glycerol kinase","Pseudomonas syringae",317,501
+WP_019333936.1,"glycerol kinase","Pseudomonas syringae",317,501
+WP_002554859.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_004658188.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_005739144.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_005764834.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_005889324.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_007248746.1,"glycerol kinase","Pseudomonas syringae group",136849,501
+WP_016970742.1,"glycerol kinase","Pseudomonas tolaasii",29442,501
+WP_010231844.1,"glycerol kinase","Pseudonocardia",1847,505
+WP_010236371.1,"glycerol kinase","Pseudonocardia",1847,501
+WP_013677117.1,"glycerol kinase","Pseudonocardia dioxanivorans",240495,501
+WP_013677120.1,"glycerol kinase","Pseudonocardia dioxanivorans",240495,505
+WP_013634193.1,"glycerol kinase","Pseudopedobacter saltans",151895,497
+WP_014847411.1,"glycerol kinase","Pseudopropionibacterium propionicum",1750,507
+WP_006598383.1,"glycerol kinase","Pseudoramibacter alactolyticus",113287,513
+WP_006599722.1,"glycerol kinase","Pseudoramibacter alactolyticus",113287,502
+WP_012003144.1,"glycerol kinase","Pseudothermotoga",1643951,499
+WP_013932296.1,"glycerol kinase","Pseudothermotoga thermarum",119394,500
+WP_011280604.1,"glycerol kinase","Psychrobacter arcticus",334543,538
+WP_011513378.1,"glycerol kinase","Psychrobacter cryohalolentis",330922,536
+WP_019673947.1,"glycerol kinase","Psychrobacter lutiphocae",540500,532
+WP_007395277.1,"glycerol kinase","Psychrobacter sp. 1501(2011)",1002339,529
+WP_020443249.1,"glycerol kinase","Psychrobacter sp. G",571800,536
+WP_010198149.1,"glycerol kinase","Psychrobacter sp. PAMC 21119",1112209,533
+WP_011960872.1,"glycerol kinase","Psychrobacter sp. PRwf-1",349106,529
+WP_003434662.1,"glycerol kinase","Psychroflexus gondwanensis",251,498
+WP_015024248.1,"glycerol kinase","Psychroflexus torquis",57029,498
+WP_019037214.1,"glycerol kinase","Psychroflexus tropicus",197345,500
+WP_011771410.1,"glycerol kinase","Psychromonas ingrahamii",357794,507
+WP_019614815.1,"glycerol kinase","Psychromonas ossibalaenae",444922,507
+WP_013577587.1,"glycerol kinase","Rahnella",34037,507
+WP_015699188.1,"glycerol kinase","Rahnella aquatilis",34038,507
+WP_009239731.1,"glycerol kinase","Ralstonia",48736,498
+WP_004637141.1,"glycerol kinase","Ralstonia pickettii",329,498
+WP_012436600.1,"glycerol kinase","Ralstonia pickettii",329,498
+WP_015855775.1,"glycerol kinase","Ralstonia pickettii",329,498
+WP_003263276.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_003271311.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_003273657.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_011002945.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_013211190.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_014615902.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_016725175.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_020747261.1,"glycerol kinase","Ralstonia solanacearum",305,498
+WP_009522364.1,"glycerol kinase","Ralstonia sp. PBA",795666,528
+WP_013899760.1,"glycerol kinase","Ramlibacter tataouinensis",94132,497
+WP_012245351.1,"glycerol kinase","Renibacterium salmoninarum",1646,504
+WP_018325459.1,"glycerol kinase","Rhizobium giardinii",56731,499
+WP_008208543.1,"glycerol kinase","Rhodanobacter sp. 115",1162282,499
+WP_015446639.1,"glycerol kinase","Rhodanobacter sp. OR92",1076524,501
+WP_007810452.1,"glycerol kinase","Rhodanobacter spathiphylli",347483,499
+WP_008437273.1,"glycerol kinase","Rhodanobacter thiooxydans",416169,499
+WP_003935703.1,"glycerol kinase","Rhodococcus",1827,504
+WP_003939742.1,"glycerol kinase","Rhodococcus",1827,502
+WP_005571605.1,"glycerol kinase","Rhodococcus",1827,497
+WP_006550153.1,"glycerol kinase","Rhodococcus",1827,504
+WP_006939621.1,"glycerol kinase","Rhodococcus",1827,504
+WP_007727296.1,"glycerol kinase","Rhodococcus",1827,496
+WP_007733474.1,"glycerol kinase","Rhodococcus",1827,502
+WP_010594806.1,"glycerol kinase","Rhodococcus",1827,504
+WP_011598220.1,"glycerol kinase","Rhodococcus",1827,497
+WP_019747711.1,"glycerol kinase","Rhodococcus",1827,496
+WP_020112167.1,"glycerol kinase","Rhodococcus",1827,501
+WP_003940814.1,"glycerol kinase","Rhodococcus erythropolis",1833,496
+WP_019744908.1,"glycerol kinase","Rhodococcus erythropolis",1833,502
+WP_005518604.1,"glycerol kinase","Rhodococcus hoagii",43767,504
+WP_005239928.1,"glycerol kinase","Rhodococcus opacus",37919,497
+WP_005256961.1,"glycerol kinase","Rhodococcus opacus",37919,497
+WP_015890028.1,"glycerol kinase","Rhodococcus opacus",37919,497
+WP_010839259.1,"glycerol kinase","Rhodococcus rhodnii",38312,501
+WP_016692812.1,"glycerol kinase","Rhodococcus rhodochrous",1829,504
+WP_019666191.1,"glycerol kinase","Rhodococcus sp. 29MFTsu3.1",1150676,501
+WP_008712346.1,"glycerol kinase","Rhodococcus sp. AW25M09",1268303,505
+WP_008719489.1,"glycerol kinase","Rhodococcus sp. AW25M09",1268303,499
+WP_009479469.1,"glycerol kinase","Rhodococcus sp. JVH1",745408,497
+WP_016933247.1,"glycerol kinase","Rhodococcus sp. R1101",1170698,504
+WP_007538098.1,"glycerol kinase","Rhodococcus triatomae",300028,500
+WP_011465941.1,"glycerol kinase","Rhodoferax ferrireducens",192843,496
+WP_019596806.1,"glycerol kinase","Rhodonellum",336827,499
+WP_007328643.1,"glycerol kinase","Rhodopirellula baltica",265606,501
+WP_007334639.1,"glycerol kinase","Rhodopirellula baltica",265606,501
+WP_007338224.1,"glycerol kinase","Rhodopirellula baltica",265606,501
+WP_011119538.1,"glycerol kinase","Rhodopirellula baltica",265606,539
+WP_008658722.1,"glycerol kinase","Rhodopirellula europaea",1263866,501
+WP_008668240.1,"glycerol kinase","Rhodopirellula europaea",1263866,501
+WP_008698631.1,"glycerol kinase","Rhodopirellula maiorica",1265734,496
+WP_008675952.1,"glycerol kinase","Rhodopirellula sallentina",1263869,498
+WP_009097705.1,"glycerol kinase","Rhodopirellula sp. SWK7",595460,498
+WP_015753711.1,"glycerol kinase","Robiginitalea biformata",252307,499
+WP_018356985.1,"glycerol kinase","Rodentibacter pneumotropicus",758,503
+WP_014078481.1,"glycerol kinase","Roseburia hominis",301301,498
+WP_014078702.1,"glycerol kinase","Roseburia hominis",301301,504
+WP_006857093.1,"glycerol kinase","Roseburia intestinalis",166486,498
+WP_015519905.1,"glycerol kinase","Roseburia intestinalis",166486,498
+WP_007884942.1,"glycerol kinase","Roseburia inulinivorans",360807,504
+WP_011956505.1,"glycerol kinase","Roseiflexus sp. RS-1",357808,498
+WP_006887873.1,"glycerol kinase","Rothia aeria",172042,518
+WP_013398818.1,"glycerol kinase","Rothia dentocariosa",2047,518
+WP_005506598.1,"glycerol kinase","Rothia mucilaginosa",43675,518
+WP_005507710.1,"glycerol kinase","Rothia mucilaginosa",43675,518
+WP_017491047.1,"glycerol kinase","Rouxiella badensis",1646377,506
+WP_013627973.1,"glycerol kinase","Rubinisphaera brasiliensis",119,497
+WP_014426430.1,"glycerol kinase","Rubrivivax gelatinosus",28068,498
+WP_018972428.1,"glycerol kinase","Rudaea cellulosilytica",540746,505
+WP_019988789.1,"glycerol kinase","Rudanella lutea",451374,498
+WP_009324768.1,"glycerol kinase","Ruminococcaceae",541000,493
+WP_008981112.1,"glycerol kinase","Ruminococcaceae bacterium D16",552398,498
+WP_002853577.1,"glycerol kinase","Ruminococcus albus",1264,496
+WP_013498944.1,"glycerol kinase","Ruminococcus albus",1264,501
+WP_008703045.1,"glycerol kinase","Ruminococcus sp. 5_1_39BFAA",457412,498
+WP_019163288.1,"glycerol kinase","Ruminococcus sp. JC304",1095771,498
+WP_013929402.1,"glycerol kinase","Runella slithyformis",106,499
+WP_018977591.1,"glycerol kinase","Saccharibacillus kuerlensis",459527,500
+WP_005443559.1,"glycerol kinase","Saccharomonospora azurea",40988,504
+WP_005447261.1,"glycerol kinase","Saccharomonospora azurea",40988,504
+WP_005453596.1,"glycerol kinase","Saccharomonospora cyanea",40989,504
+WP_005461643.1,"glycerol kinase","Saccharomonospora glauca",40990,504
+WP_019810702.1,"glycerol kinase","Saccharomonospora halophila",129922,509
+WP_019810841.1,"glycerol kinase","Saccharomonospora halophila",129922,505
+WP_019810843.1,"glycerol kinase","Saccharomonospora halophila",129922,511
+WP_009152547.1,"glycerol kinase","Saccharomonospora marina",632569,504
+WP_007024268.1,"glycerol kinase","Saccharomonospora paurometabolica",208085,509
+WP_019816497.1,"glycerol kinase","Saccharomonospora saliphila",369829,504
+WP_019819488.1,"glycerol kinase","Saccharomonospora saliphila",369829,504
+WP_019819491.1,"glycerol kinase","Saccharomonospora saliphila",369829,505
+WP_012796077.1,"glycerol kinase","Saccharomonospora viridis",1852,504
+WP_006237808.1,"glycerol kinase","Saccharomonospora xinjiangensis",75294,504
+WP_009945105.1,"glycerol kinase","Saccharopolyspora erythraea",1836,500
+WP_010315712.1,"glycerol kinase","Saccharopolyspora spinosa",60894,500
+WP_015105019.1,"glycerol kinase","Saccharothrix espanaensis",103731,506
+WP_008589161.1,"glycerol kinase","Salimicrobium jeotgali",1230341,497
+WP_011404221.1,"glycerol kinase","Salinibacter ruber",146919,526
+WP_013061962.1,"glycerol kinase","Salinibacter ruber",146919,526
+WP_010202377.1,"glycerol kinase","Salinibacterium sp. PAMC 21357",1112215,502
+WP_010205735.1,"glycerol kinase","Salinibacterium sp. PAMC 21357",1112215,505
+WP_020007774.1,"glycerol kinase","Salinicoccus albus",418756,507
+WP_017548022.1,"glycerol kinase","Salinicoccus carnicancri",558170,507
+WP_011904416.1,"glycerol kinase","Salinispora",168694,507
+WP_012184593.1,"glycerol kinase","Salinispora",168694,505
+WP_018739229.1,"glycerol kinase","Salinispora",168694,507
+WP_012184590.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_018585272.1,"glycerol kinase","Salinispora arenicola",168697,505
+WP_018797267.1,"glycerol kinase","Salinispora arenicola",168697,505
+WP_018799088.1,"glycerol kinase","Salinispora arenicola",168697,505
+WP_018799089.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_018803969.1,"glycerol kinase","Salinispora arenicola",168697,505
+WP_018825319.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_019030937.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_019532305.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_019901356.1,"glycerol kinase","Salinispora arenicola",168697,505
+WP_020218132.1,"glycerol kinase","Salinispora arenicola",168697,507
+WP_018215645.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018216039.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018216042.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018219541.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018223657.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018223659.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018255378.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018255380.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018255733.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018720195.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018724791.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018728987.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018730437.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018732410.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018739228.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018745001.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018745003.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018810625.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018813168.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018819352.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_018819354.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018823634.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_018828708.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_019868625.1,"glycerol kinase","Salinispora pacifica",351187,507
+WP_019868626.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_019872340.1,"glycerol kinase","Salinispora pacifica",351187,505
+WP_011904413.1,"glycerol kinase","Salinispora tropica",168695,505
+WP_012013690.1,"glycerol kinase","Salinispora tropica",168695,505
+WP_018830846.1,"glycerol kinase","Salinispora tropica",168695,505
+WP_000136809.1,"glycerol kinase","Salmonella",590,502
+WP_000136773.1,"glycerol kinase","Salmonella bongori",54736,502
+WP_000136806.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136807.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136808.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136811.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136812.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136813.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000136814.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_000137244.1,"glycerol kinase","Salmonella enterica",28901,501
+WP_001523753.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_001742382.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_002954872.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_006894356.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_015406195.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_016506502.1,"glycerol kinase","Salmonella enterica",28901,502
+WP_018921969.1,"glycerol kinase","Salsuginibacillus kocurii",427078,504
+WP_012865709.1,"glycerol kinase","Sanguibacter keddieii",60920,505
+WP_002660634.1,"glycerol kinase","Saprospira grandis",1008,494
+WP_014373054.1,"glycerol kinase","Saprospira grandis",1008,494
+WP_010586361.1,"glycerol kinase","Schlesneria paludicola",360056,517
+WP_020498501.1,"glycerol kinase","Sciscionella marina",508770,501
+WP_012861508.1,"glycerol kinase","Sebaldella termitidis",826,507
+WP_020610791.1,"glycerol kinase","Sediminispirochaeta bajacaliforniensis",148,500
+WP_020612403.1,"glycerol kinase","Sediminispirochaeta bajacaliforniensis",148,505
+WP_013254236.1,"glycerol kinase","Sediminispirochaeta smaragdinae",55206,505
+WP_013256088.1,"glycerol kinase","Sediminispirochaeta smaragdinae",55206,500
+WP_018611531.1,"glycerol kinase","Segetibacter koreensis",398037,495
+WP_013139863.1,"glycerol kinase","Segniliparus rotundus",286802,505
+WP_007472293.1,"glycerol kinase","Segniliparus rugosus",286804,505
+WP_019543019.1,"glycerol kinase","Selenomonas bovis",416586,495
+WP_019543021.1,"glycerol kinase","Selenomonas bovis",416586,502
+WP_014423378.1,"glycerol kinase","Selenomonas ruminantium",971,500
+WP_014425754.1,"glycerol kinase","Selenomonas ruminantium",971,498
+WP_009646737.1,"glycerol kinase","Selenomonas sp. CM52",936381,500
+WP_009646751.1,"glycerol kinase","Selenomonas sp. CM52",936381,498
+WP_006190655.1,"glycerol kinase","Selenomonas sputigena",69823,498
+WP_006190657.1,"glycerol kinase","Selenomonas sputigena",69823,500
+WP_010147644.1,"glycerol kinase","Serinicoccus profundi",1078471,513
+WP_004931097.1,"glycerol kinase","Serratia",613,502
+WP_006328848.1,"glycerol kinase","Serratia",613,502
+WP_013814998.1,"glycerol kinase","Serratia",613,502
+WP_015962324.1,"glycerol kinase","Serratia marcescens",615,502
+WP_004956511.1,"glycerol kinase","Serratia odorifera",618,502
+WP_006317748.1,"glycerol kinase","Serratia plymuthica",82996,502
+WP_012147472.1,"glycerol kinase","Serratia proteamaculans",28151,502
+WP_009637725.1,"glycerol kinase","Serratia sp. M24T3",932213,506
+WP_017894417.1,"glycerol kinase","Serratia sp. S4",768491,502
+WP_011787773.1,"glycerol kinase","Shewanella",22,494
+WP_011758462.1,"glycerol kinase","Shewanella amazonensis",60478,495
+WP_006079883.1,"glycerol kinase","Shewanella baltica",62322,494
+WP_006086693.1,"glycerol kinase","Shewanella baltica",62322,494
+WP_011845612.1,"glycerol kinase","Shewanella baltica",62322,494
+WP_011982221.1,"glycerol kinase","Shewanella baltica",62322,494
+WP_012586603.1,"glycerol kinase","Shewanella baltica",62322,494
+WP_005501846.1,"glycerol kinase","Shewanella benthica",43661,497
+WP_011494804.1,"glycerol kinase","Shewanella denitrificans",192073,497
+WP_012275573.1,"glycerol kinase","Shewanella halifaxensis",271098,493
+WP_011867262.1,"glycerol kinase","Shewanella loihica",359303,498
+WP_011073911.1,"glycerol kinase","Shewanella oneidensis",70863,494
+WP_012157014.1,"glycerol kinase","Shewanella pealeana",70864,493
+WP_020912330.1,"glycerol kinase","Shewanella piezotolerans",404011,493
+WP_012140749.1,"glycerol kinase","Shewanella sediminis",271097,495
+WP_011718505.1,"glycerol kinase","Shewanella sp. ANA-3",94122,494
+WP_011624310.1,"glycerol kinase","Shewanella sp. MR-4",60480,494
+WP_011624916.1,"glycerol kinase","Shewanella sp. MR-7",60481,494
+WP_013053306.1,"glycerol kinase","Shewanella violacea",60217,497
+WP_012327120.1,"glycerol kinase","Shewanella woodyi",60961,495
+WP_000136795.1,"glycerol kinase","Shigella",620,502
+WP_000136796.1,"glycerol kinase","Shigella",620,502
+WP_000818511.1,"glycerol kinase","Shigella",620,502
+WP_000136772.1,"glycerol kinase","Shigella dysenteriae",622,502
+WP_000136815.1,"glycerol kinase","Shigella dysenteriae",622,502
+WP_000136789.1,"glycerol kinase","Shigella sonnei",624,503
+WP_002442664.1,"glycerol kinase","Shimwellia blattae",563,503
+WP_006906633.1,"glycerol kinase","Shuttleworthia satelles",177972,504
+WP_013943698.1,"glycerol kinase","Simkania negevensis",83561,494
+WP_002642017.1,"glycerol kinase","Simonsiella muelleri",72,495
+WP_018163373.1,"glycerol kinase","Smaragdicoccus niigatensis",359359,501
+WP_011411984.1,"glycerol kinase","Sodalis glossinidius",63612,504
+WP_008403958.1,"glycerol kinase","Solibacillus",648800,497
+WP_008404243.1,"glycerol kinase","Solibacillus",648800,496
+WP_014823477.1,"glycerol kinase","Solibacillus silvestris",76853,496
+WP_014679075.1,"glycerol kinase","Solitalea canadensis",995,496
+WP_014681438.1,"glycerol kinase","Solitalea canadensis",995,499
+WP_006526425.1,"glycerol kinase","Solobacterium moorei",102148,499
+WP_012873556.1,"glycerol kinase","Sphaerobacter thermophilus",2057,498
+WP_013740153.1,"glycerol kinase","Sphaerochaeta coccoides",273376,499
+WP_013607962.1,"glycerol kinase","Sphaerochaeta globosa",1131703,504
+WP_014271101.1,"glycerol kinase","Sphaerochaeta pleomorpha",1131707,506
+WP_013666175.1,"glycerol kinase","Sphingobacterium sp. 21",743722,504
+WP_002995749.1,"glycerol kinase","Sphingobacterium spiritivorum",258,499
+WP_003002987.1,"glycerol kinase","Sphingobacterium spiritivorum",258,499
+WP_016743904.1,"glycerol kinase","Sphingomonas",13687,509
+WP_012050398.1,"glycerol kinase","Sphingomonas wittichii",160791,509
+WP_014454430.1,"glycerol kinase","Spirochaeta africana",46355,501
+WP_016339290.1,"glycerol kinase","Spiroplasma chrysopicola",216933,503
+WP_004027691.1,"glycerol kinase","Spiroplasma melliferum",2134,503
+WP_016341161.1,"glycerol kinase","Spiroplasma syrphidicola",216945,503
+WP_018620200.1,"glycerol kinase","Spirosoma luteum",431553,504
+WP_020597403.1,"glycerol kinase","Spirosoma panaciterrae",496058,499
+WP_020605203.1,"glycerol kinase","Spirosoma spitsbergense",431554,500
+WP_010026546.1,"glycerol kinase","Sporolactobacillus inulinus",2078,496
+WP_010630696.1,"glycerol kinase","Sporolactobacillus vineae",444463,509
+WP_009766190.1,"glycerol kinase","Sporosarcina newyorkensis",759851,497
+WP_013017186.1,"glycerol kinase","Stackebrandtia nassauensis",283811,497
+WP_000417369.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417372.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417374.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417376.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417378.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417379.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417383.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417385.1,"glycerol kinase","Staphylococcus",1279,498
+WP_000417386.1,"glycerol kinase","Staphylococcus",1279,498
+WP_001829522.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002433942.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002439580.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002442632.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002446325.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002448786.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002453130.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002459243.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002465648.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002478262.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002480754.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002489950.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002491397.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002492109.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002501856.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002507805.1,"glycerol kinase","Staphylococcus",1279,500
+WP_011275899.1,"glycerol kinase","Staphylococcus",1279,499
+WP_011303228.1,"glycerol kinase","Staphylococcus",1279,500
+WP_017174636.1,"glycerol kinase","Staphylococcus",1279,499
+WP_017638335.1,"glycerol kinase","Staphylococcus",1279,499
+WP_019468728.1,"glycerol kinase","Staphylococcus",1279,500
+WP_020368070.1,"glycerol kinase","Staphylococcus",1279,499
+WP_002511027.1,"glycerol kinase","Staphylococcus arlettae",29378,500
+WP_000417368.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417370.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417371.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417373.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417375.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417377.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417380.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417381.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417382.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417384.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_000417387.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_001566609.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_001573163.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_002955249.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_017431831.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_017466566.1,"glycerol kinase","Staphylococcus aureus",1280,498
+WP_015900198.1,"glycerol kinase","Staphylococcus carnosus",1281,501
+WP_019165429.1,"glycerol kinase","Staphylococcus delphini",53344,500
+WP_002473610.1,"glycerol kinase","Staphylococcus epidermidis",1282,499
+WP_002476673.1,"glycerol kinase","Staphylococcus epidermidis",1282,499
+WP_002487415.1,"glycerol kinase","Staphylococcus epidermidis",1282,499
+WP_020361212.1,"glycerol kinase","Staphylococcus epidermidis",1282,499
+WP_019167783.1,"glycerol kinase","Staphylococcus intermedius",1285,500
+WP_017000462.1,"glycerol kinase","Staphylococcus lentus",42858,497
+WP_009381796.1,"glycerol kinase","Staphylococcus massiliensis",555791,500
+WP_017176556.1,"glycerol kinase","Staphylococcus massiliensis",555791,500
+WP_002472463.1,"glycerol kinase","Staphylococcus pettenkoferi",170573,499
+WP_014614030.1,"glycerol kinase","Staphylococcus pseudintermedius",283734,500
+WP_002483418.1,"glycerol kinase","Staphylococcus saprophyticus",29385,500
+WP_002463875.1,"glycerol kinase","Staphylococcus simiae",308354,498
+WP_016424957.1,"glycerol kinase","Staphylococcus sp. HGB0015",1078083,500
+WP_002451261.1,"glycerol kinase","Staphylococcus warneri",1292,499
+WP_017724341.1,"glycerol kinase","Staphylococcus xylosus",1288,500
+WP_013142878.1,"glycerol kinase","Staphylothermus hellenicus",84599,524
+WP_011838568.1,"glycerol kinase","Staphylothermus marinus",2280,524
+WP_008268321.1,"glycerol kinase","Stenotrophomonas",40323,499
+WP_005411142.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_005414549.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_005419537.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_006394869.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_012481326.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_012512176.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_014038576.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_014648505.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_017354788.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,502
+WP_019183621.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_019338865.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_019660739.1,"glycerol kinase","Stenotrophomonas maltophilia",40324,499
+WP_000076784.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076786.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076793.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076794.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076795.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076796.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076797.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076801.1,"glycerol kinase","Streptococcus",1301,502
+WP_000076803.1,"glycerol kinase","Streptococcus",1301,502
+WP_000093527.1,"glycerol kinase","Streptococcus",1301,502
+WP_000093530.1,"glycerol kinase","Streptococcus",1301,502
+WP_002896985.1,"glycerol kinase","Streptococcus",1301,502
+WP_002905838.1,"glycerol kinase","Streptococcus",1301,502
+WP_002918403.1,"glycerol kinase","Streptococcus",1301,502
+WP_003028700.1,"glycerol kinase","Streptococcus",1301,503
+WP_000093523.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_000093524.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_000093525.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_000093528.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_016480281.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_017643106.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_017645182.1,"glycerol kinase","Streptococcus agalactiae",1311,502
+WP_017770657.1,"glycerol kinase","Streptococcus agalactiae",1311,503
+WP_003026483.1,"glycerol kinase","Streptococcus anginosus",1328,503
+WP_003036512.1,"glycerol kinase","Streptococcus anginosus",1328,503
+WP_003041804.1,"glycerol kinase","Streptococcus anginosus",1328,503
+WP_003030589.1,"glycerol kinase","Streptococcus anginosus group",671232,503
+WP_006596161.1,"glycerol kinase","Streptococcus australis",113107,502
+WP_003044854.1,"glycerol kinase","Streptococcus canis",1329,504
+WP_006269260.1,"glycerol kinase","Streptococcus constellatus",76860,503
+WP_006269430.1,"glycerol kinase","Streptococcus constellatus",76860,503
+WP_005590120.1,"glycerol kinase","Streptococcus cristatus",45634,502
+WP_018366657.1,"glycerol kinase","Streptococcus didelphis",102886,504
+WP_003052247.1,"glycerol kinase","Streptococcus dysgalactiae",1334,504
+WP_012767458.1,"glycerol kinase","Streptococcus dysgalactiae",1334,504
+WP_014612528.1,"glycerol kinase","Streptococcus dysgalactiae",1334,508
+WP_015017320.1,"glycerol kinase","Streptococcus dysgalactiae",1334,504
+WP_012516190.1,"glycerol kinase","Streptococcus equi",1336,501
+WP_012677465.1,"glycerol kinase","Streptococcus equi",1336,501
+WP_012680024.1,"glycerol kinase","Streptococcus equi",1336,501
+WP_014623389.1,"glycerol kinase","Streptococcus equi",1336,501
+WP_018030971.1,"glycerol kinase","Streptococcus ferus",1345,500
+WP_018165238.1,"glycerol kinase","Streptococcus henryi",439219,500
+WP_008090081.1,"glycerol kinase","Streptococcus ictaluri",380397,502
+WP_003101849.1,"glycerol kinase","Streptococcus iniae",1346,504
+WP_003071024.1,"glycerol kinase","Streptococcus intermedius",1338,503
+WP_003074742.1,"glycerol kinase","Streptococcus intermedius",1338,503
+WP_003077583.1,"glycerol kinase","Streptococcus intermedius",1338,503
+WP_009567848.1,"glycerol kinase","Streptococcus intermedius",1338,503
+WP_018371570.1,"glycerol kinase","Streptococcus massiliensis",313439,501
+WP_018373010.1,"glycerol kinase","Streptococcus merionis",400065,504
+WP_018167381.1,"glycerol kinase","Streptococcus minor",229549,504
+WP_000076677.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076678.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076764.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076770.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076783.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076785.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076788.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076798.1,"glycerol kinase","Streptococcus mitis",28037,502
+WP_000076791.1,"glycerol kinase","Streptococcus oralis",1303,502
+WP_000076792.1,"glycerol kinase","Streptococcus oralis",1303,502
+WP_007520912.1,"glycerol kinase","Streptococcus oralis",1303,502
+WP_018378932.1,"glycerol kinase","Streptococcus ovis",82806,499
+WP_003006857.1,"glycerol kinase","Streptococcus parasanguinis",1318,502
+WP_003011680.1,"glycerol kinase","Streptococcus parasanguinis",1318,502
+WP_003017289.1,"glycerol kinase","Streptococcus parasanguinis",1318,502
+WP_013903464.1,"glycerol kinase","Streptococcus parasanguinis",1318,502
+WP_014713220.1,"glycerol kinase","Streptococcus parasanguinis",1318,502
+WP_003105149.1,"glycerol kinase","Streptococcus parauberis",1348,503
+WP_000076765.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076766.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076768.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076769.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076771.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076773.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076774.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076775.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076776.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076777.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076778.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076779.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076780.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076781.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076782.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076787.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076789.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076790.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_000076802.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_001844694.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_001863272.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_016397321.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_016398347.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_016399373.1,"glycerol kinase","Streptococcus pneumoniae",1313,502
+WP_003085288.1,"glycerol kinase","Streptococcus porcinus",1340,503
+WP_000076799.1,"glycerol kinase","Streptococcus pseudopneumoniae",257758,502
+WP_000076800.1,"glycerol kinase","Streptococcus pseudopneumoniae",257758,502
+WP_007894491.1,"glycerol kinase","Streptococcus pseudoporcinus",361101,503
+WP_002983556.1,"glycerol kinase","Streptococcus pyogenes",1314,508
+WP_011018084.1,"glycerol kinase","Streptococcus pyogenes",1314,508
+WP_011054909.1,"glycerol kinase","Streptococcus pyogenes",1314,508
+WP_011184847.1,"glycerol kinase","Streptococcus pyogenes",1314,504
+WP_011285068.1,"glycerol kinase","Streptococcus pyogenes",1314,508
+WP_011528882.1,"glycerol kinase","Streptococcus pyogenes",1314,508
+WP_014635637.1,"glycerol kinase","Streptococcus pyogenes",1314,500
+WP_003086704.1,"glycerol kinase","Streptococcus ratti",1341,506
+WP_002894531.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002899689.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002909032.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002913179.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002913232.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002914506.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002916886.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002920521.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002923454.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002931471.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_002932626.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_004190493.1,"glycerol kinase","Streptococcus sanguinis",1305,502
+WP_009659167.1,"glycerol kinase","Streptococcus sp. AS14",936577,502
+WP_009730830.1,"glycerol kinase","Streptococcus sp. F0442",999425,502
+WP_000076763.1,"glycerol kinase","Streptococcus sp. SK643",1095727,501
+WP_012775048.1,"glycerol kinase","Streptococcus suis",1307,504
+WP_014638061.1,"glycerol kinase","Streptococcus suis",1307,504
+WP_014735940.1,"glycerol kinase","Streptococcus suis",1307,504
+WP_014917235.1,"glycerol kinase","Streptococcus suis",1307,504
+WP_015646924.1,"glycerol kinase","Streptococcus suis",1307,503
+WP_018380568.1,"glycerol kinase","Streptococcus thoraltensis",55085,503
+WP_015911752.1,"glycerol kinase","Streptococcus uberis",1349,500
+WP_006739142.1,"glycerol kinase","Streptococcus urinalis",149016,504
+WP_003946639.1,"glycerol kinase","Streptomyces",1883,505
+WP_003947218.1,"glycerol kinase","Streptomyces",1883,513
+WP_003977165.1,"glycerol kinase 2","Streptomyces",1883,512
+WP_003978354.1,"glycerol kinase","Streptomyces",1883,507
+WP_006122734.1,"glycerol kinase","Streptomyces",1883,505
+WP_006123395.1,"glycerol kinase","Streptomyces",1883,514
+WP_006135543.1,"glycerol kinase","Streptomyces",1883,505
+WP_006141760.1,"glycerol kinase","Streptomyces",1883,512
+WP_006373302.1,"glycerol kinase","Streptomyces",1883,516
+WP_006380240.1,"glycerol kinase","Streptomyces",1883,503
+WP_007389658.1,"glycerol kinase","Streptomyces",1883,507
+WP_007455803.1,"glycerol kinase","Streptomyces",1883,514
+WP_007828963.1,"glycerol kinase","Streptomyces",1883,516
+WP_009187752.1,"glycerol kinase","Streptomyces",1883,512
+WP_009719172.1,"glycerol kinase","Streptomyces",1883,515
+WP_010057104.1,"glycerol kinase","Streptomyces",1883,514
+WP_014044407.1,"glycerol kinase","Streptomyces",1883,505
+WP_014045004.1,"glycerol kinase","Streptomyces",1883,512
+WP_014152467.1,"glycerol kinase","Streptomyces",1883,505
+WP_014157184.1,"glycerol kinase","Streptomyces",1883,509
+WP_014181673.1,"glycerol kinase","Streptomyces",1883,505
+WP_014671707.1,"glycerol kinase","Streptomyces",1883,512
+WP_015607527.1,"glycerol kinase","Streptomyces",1883,514
+WP_016467551.1,"glycerol kinase","Streptomyces",1883,501
+WP_016467862.1,"glycerol kinase","Streptomyces",1883,514
+WP_016573698.1,"glycerol kinase","Streptomyces",1883,518
+WP_017945418.1,"glycerol kinase","Streptomyces",1883,509
+WP_018087789.1,"glycerol kinase","Streptomyces",1883,513
+WP_018103728.1,"glycerol kinase","Streptomyces",1883,513
+WP_018469199.1,"glycerol kinase","Streptomyces",1883,513
+WP_018487904.1,"glycerol kinase","Streptomyces",1883,514
+WP_018570362.1,"glycerol kinase","Streptomyces",1883,512
+WP_018843697.1,"glycerol kinase","Streptomyces",1883,509
+WP_019059123.1,"glycerol kinase","Streptomyces",1883,512
+WP_019066099.1,"glycerol kinase","Streptomyces",1883,512
+WP_019066491.1,"glycerol kinase","Streptomyces",1883,503
+WP_019325243.1,"glycerol kinase","Streptomyces",1883,512
+WP_019330256.1,"glycerol kinase","Streptomyces",1883,505
+WP_019357401.1,"glycerol kinase","Streptomyces",1883,501
+WP_019434976.1,"glycerol kinase","Streptomyces",1883,514
+WP_019522713.1,"glycerol kinase","Streptomyces",1883,512
+WP_019525312.1,"glycerol kinase","Streptomyces",1883,505
+WP_020128308.1,"glycerol kinase","Streptomyces",1883,512
+WP_010350332.1,"glycerol kinase","Streptomyces acidiscabies",42234,512
+WP_010360556.1,"glycerol kinase","Streptomyces acidiscabies",42234,500
+WP_016639469.1,"glycerol kinase","Streptomyces aurantiacus",47760,513
+WP_016642953.1,"glycerol kinase","Streptomyces aurantiacus",47760,514
+WP_006607154.1,"glycerol kinase","Streptomyces auratus",114687,512
+WP_006607634.1,"glycerol kinase","Streptomyces auratus",114687,520
+WP_010988064.1,"glycerol kinase 1","Streptomyces avermitilis",33903,512
+WP_010988360.1,"glycerol kinase 2","Streptomyces avermitilis",33903,507
+WP_010988596.1,"glycerol kinase 3","Streptomyces avermitilis",33903,505
+WP_014181032.1,"glycerol kinase","Streptomyces bingchenggensis",379067,508
+WP_005485623.1,"glycerol kinase","Streptomyces bottropensis",42235,506
+WP_020114414.1,"glycerol kinase","Streptomyces bottropensis",42235,512
+WP_020117365.1,"glycerol kinase","Streptomyces canus",58343,503
+WP_020117737.1,"glycerol kinase","Streptomyces canus",58343,513
+WP_020118175.1,"glycerol kinase","Streptomyces canus",58343,505
+WP_014140879.1,"glycerol kinase","Streptomyces cattleya",29303,504
+WP_014145855.1,"glycerol kinase","Streptomyces cattleya",29303,506
+WP_010045379.1,"glycerol kinase","Streptomyces chartreusis",1969,512
+WP_010046273.1,"glycerol kinase","Streptomyces chartreusis",1969,506
+WP_003958475.1,"glycerol kinase","Streptomyces clavuligerus",1901,513
+WP_003959680.1,"glycerol kinase","Streptomyces clavuligerus",1901,502
+WP_011027172.1,"glycerol kinase 1","Streptomyces coelicolor",1902,507
+WP_015654981.1,"glycerol kinase","Streptomyces davawensis",348043,504
+WP_015661634.1,"glycerol kinase","Streptomyces davawensis",348043,514
+WP_015661901.1,"glycerol kinase","Streptomyces davawensis",348043,503
+WP_006135333.1,"glycerol kinase","Streptomyces gancidicus",68204,512
+WP_006136690.1,"glycerol kinase","Streptomyces gancidicus",68204,503
+WP_010062626.1,"glycerol kinase","Streptomyces globisporus",1908,505
+WP_006141498.1,"glycerol kinase","Streptomyces griseoaurantiacus",68213,507
+WP_004932569.1,"glycerol kinase","Streptomyces griseoflavus",35619,505
+WP_004933393.1,"glycerol kinase","Streptomyces griseoflavus",35619,512
+WP_012381570.1,"glycerol kinase","Streptomyces griseus",1911,514
+WP_012381931.1,"glycerol kinase","Streptomyces griseus",1911,505
+WP_009712805.1,"glycerol kinase","Streptomyces himastatinicus",998084,505
+WP_014670699.1,"glycerol kinase","Streptomyces hygroscopicus",1912,504
+WP_014671429.1,"glycerol kinase","Streptomyces hygroscopicus",1912,506
+WP_009323090.1,"glycerol kinase","Streptomyces ipomoeae",103232,506
+WP_009336900.1,"glycerol kinase","Streptomyces ipomoeae",103232,512
+WP_004946255.1,"glycerol kinase","Streptomyces mobaraensis",35621,508
+WP_005319501.1,"glycerol kinase","Streptomyces pristinaespiralis",38300,508
+WP_005320100.1,"glycerol kinase","Streptomyces pristinaespiralis",38300,504
+WP_005322127.1,"glycerol kinase","Streptomyces pristinaespiralis",38300,504
+WP_019059637.1,"glycerol kinase","Streptomyces prunicolor",67348,503
+WP_019884714.1,"glycerol kinase","Streptomyces purpureus",1951,502
+WP_019885008.1,"glycerol kinase","Streptomyces purpureus",1951,511
+WP_013004856.1,"glycerol kinase","Streptomyces scabiei",1930,512
+WP_020550365.1,"glycerol kinase","Streptomyces scabrisporus",159449,508
+WP_020551374.1,"glycerol kinase","Streptomyces scabrisporus",159449,504
+WP_010472231.1,"glycerol kinase","Streptomyces somaliensis",78355,510
+WP_020126505.1,"glycerol kinase","Streptomyces sp. 303MFCol5.2",1172181,505
+WP_020128949.1,"glycerol kinase","Streptomyces sp. 303MFCol5.2",1172181,506
+WP_020136946.1,"glycerol kinase","Streptomyces sp. 351MFTsu5.1",1172180,505
+WP_020138184.1,"glycerol kinase","Streptomyces sp. 351MFTsu5.1",1172180,503
+WP_020139265.1,"glycerol kinase","Streptomyces sp. 351MFTsu5.1",1172180,513
+WP_019356410.1,"glycerol kinase","Streptomyces sp. AA1529",1203257,514
+WP_009072696.1,"glycerol kinase","Streptomyces sp. AA4",591158,502
+WP_003970152.1,"glycerol kinase","Streptomyces sp. ACT-1",1609288,514
+WP_003970732.1,"glycerol kinase","Streptomyces sp. ACT-1",1609288,505
+WP_019983948.1,"glycerol kinase","Streptomyces sp. Amel2xE9",1157634,506
+WP_018556137.1,"glycerol kinase","Streptomyces sp. ATexAB-D23",1157635,513
+WP_018559049.1,"glycerol kinase","Streptomyces sp. BoleA5",1157637,508
+WP_018561120.1,"glycerol kinase","Streptomyces sp. BoleA5",1157637,518
+WP_018957987.1,"glycerol kinase","Streptomyces sp. CNB091",1169156,505
+WP_018959539.1,"glycerol kinase","Streptomyces sp. CNB091",1169156,514
+WP_018837884.1,"glycerol kinase","Streptomyces sp. CNQ766",1169157,509
+WP_017949585.1,"glycerol kinase","Streptomyces sp. CNS615",1169158,506
+WP_018891471.1,"glycerol kinase","Streptomyces sp. CNT302",1169155,509
+WP_018892410.1,"glycerol kinase","Streptomyces sp. CNT302",1169155,506
+WP_018849012.1,"glycerol kinase","Streptomyces sp. CNT372",1169154,515
+WP_018853120.1,"glycerol kinase","Streptomyces sp. CNY243",1169161,509
+WP_019766115.1,"glycerol kinase","Streptomyces sp. DvalAA-19",1839761,514
+WP_009187525.1,"glycerol kinase","Streptomyces sp. e14",645465,506
+WP_018090640.1,"glycerol kinase","Streptomyces sp. FxanaC1",1157640,512
+WP_019526448.1,"glycerol kinase","Streptomyces sp. FxanaD5",1157639,503
+WP_016434134.1,"glycerol kinase","Streptomyces sp. HGB0020",1078086,503
+WP_016434407.1,"glycerol kinase","Streptomyces sp. HGB0020",1078086,512
+WP_018534739.1,"glycerol kinase","Streptomyces sp. HmicA12",1156844,505
+WP_018535053.1,"glycerol kinase","Streptomyces sp. HmicA12",1156844,512
+WP_018549178.1,"glycerol kinase","Streptomyces sp. LaPpAH-108",1155714,512
+WP_008740764.1,"glycerol kinase","Streptomyces sp. Mg1",465541,505
+WP_008741932.1,"glycerol kinase","Streptomyces sp. Mg1",465541,514
+WP_018537171.1,"glycerol kinase","Streptomyces sp. MspMP-M5",1155718,518
+WP_018540069.1,"glycerol kinase","Streptomyces sp. MspMP-M5",1155718,512
+WP_015576504.1,"glycerol kinase","Streptomyces sp. PAMC 26508",1265601,509
+WP_018570128.1,"glycerol kinase","Streptomyces sp. PsTaAH-124",1157638,508
+WP_018515368.1,"glycerol kinase","Streptomyces sp. ScaeMP-e10",1156841,514
+WP_008748814.1,"glycerol kinase","Streptomyces sp. SPB074",465543,516
+WP_019324982.1,"glycerol kinase","Streptomyces sp. TOR3209",1073567,508
+WP_007449241.1,"glycerol kinase","Streptomyces sp. W007",1055352,505
+WP_007380598.1,"glycerol kinase","Streptomyces sviceus",285530,503
+WP_007380877.1,"glycerol kinase","Streptomyces sviceus",285530,513
+WP_007386238.1,"glycerol kinase","Streptomyces sviceus",285530,505
+WP_006350184.1,"glycerol kinase","Streptomyces tsukubensis",83656,508
+WP_015032458.1,"glycerol kinase","Streptomyces venezuelae",54571,510
+WP_014056810.1,"glycerol kinase","Streptomyces violaceusniger",68280,505
+WP_014057738.1,"glycerol kinase GlpK","Streptomyces violaceusniger",68280,505
+WP_014058203.1,"glycerol kinase","Streptomyces violaceusniger",68280,501
+WP_014058707.1,"glycerol kinase","Streptomyces violaceusniger",68280,510
+WP_014059525.1,"glycerol kinase","Streptomyces violaceusniger",68280,515
+WP_003988867.1,"glycerol kinase","Streptomyces viridochromogenes",1938,504
+WP_003989136.1,"glycerol kinase","Streptomyces viridochromogenes",1938,512
+WP_003996177.1,"glycerol kinase","Streptomyces viridochromogenes",1938,504
+WP_004002511.1,"glycerol kinase","Streptomyces viridochromogenes",1938,512
+WP_004002782.1,"glycerol kinase","Streptomyces viridochromogenes",1938,503
+WP_004984827.1,"glycerol kinase","Streptomyces viridosporus",67581,505
+WP_004990242.1,"glycerol kinase","Streptomyces viridosporus",67581,512
+WP_018383503.1,"glycerol kinase","Streptomyces vitaminophilus",76728,515
+WP_018385331.1,"glycerol kinase","Streptomyces vitaminophilus",76728,501
+WP_016905345.1,"glycerol kinase","Streptomyces xiaopingdaonensis",1565415,507
+WP_007495601.1,"glycerol kinase","Streptomyces zinciresistens",1073330,513
+WP_007497081.1,"glycerol kinase","Streptomyces zinciresistens",1073330,503
+WP_003981590.1,"glycerol kinase","Streptomycetaceae",2062,513
+WP_003986090.1,"glycerol kinase","Streptomycetaceae",2062,509
+WP_012889159.1,"glycerol kinase","Streptosporangium roseum",2001,505
+WP_012893895.1,"glycerol kinase","Streptosporangium roseum",2001,505
+WP_012893898.1,"glycerol kinase","Streptosporangium roseum",2001,505
+WP_007047763.1,"glycerol kinase","Subdoligranulum variabile",214851,502
+WP_020375468.1,"glycerol kinase","Sulfobacillus thermosulfidooxidans",28034,502
+WP_008543219.1,"glycerol kinase","Sutterella parvirubra",437898,496
+WP_005431022.1,"glycerol kinase","Sutterella wadsworthensis",40545,497
+WP_005435909.1,"glycerol kinase","Sutterella wadsworthensis",40545,496
+WP_016473516.1,"glycerol kinase","Sutterella wadsworthensis",40545,497
+WP_011195326.1,"glycerol kinase","Symbiobacterium thermophilum",2734,498
+WP_008712611.1,"glycerol kinase","Synergistes sp. 3_1_syn1",457415,498
+WP_013777682.1,"glycerol kinase","Tepidanaerobacter acetatoxydans",499229,497
+WP_013779254.1,"glycerol kinase","Tepidanaerobacter acetatoxydans",499229,495
+WP_020142023.1,"glycerol kinase","Terracoccus sp. 273MFTsu3.1",1172188,508
+WP_018590169.1,"glycerol kinase","Terrisporobacter glycolicus",36841,501
+WP_018592342.1,"glycerol kinase","Terrisporobacter glycolicus",36841,509
+WP_014125023.1,"glycerol kinase","Tetragenococcus halophilus",51669,505
+WP_010851484.1,"glycerol kinase","Tetrasphaera elongata",101689,504
+WP_004317056.1,"glycerol kinase","Thauera",33057,497
+WP_004364887.1,"glycerol kinase","Thauera phenylacetica",164400,497
+WP_002938242.1,"glycerol kinase","Thauera sp. 27",305700,498
+WP_013496048.1,"glycerol kinase","Thermaerobacter marianensis",73919,499
+WP_006903498.1,"glycerol kinase","Thermaerobacter subterraneus",175696,499
+WP_012870283.1,"glycerol kinase","Thermanaerovibrio acidaminovorans",81462,509
+WP_004400549.1,"glycerol kinase","Thermoanaerobacter",1754,497
+WP_009052782.1,"glycerol kinase","Thermoanaerobacter",1754,497
+WP_012269054.1,"glycerol kinase","Thermoanaerobacter",1754,497
+WP_003866562.1,"glycerol kinase","Thermoanaerobacter ethanolicus",1757,497
+WP_003871378.1,"glycerol kinase","Thermoanaerobacter ethanolicus",1757,497
+WP_012995763.1,"glycerol kinase","Thermoanaerobacter italicus",108150,497
+WP_013150703.1,"glycerol kinase","Thermoanaerobacter mathranii",583357,497
+WP_014063323.1,"glycerol kinase","Thermoanaerobacter wiegelii",46354,497
+WP_013297122.1,"glycerol kinase","Thermoanaerobacterium thermosaccharolyticum",1517,496
+WP_013787284.1,"glycerol kinase","Thermoanaerobacterium xylanolyticum",29329,496
+WP_015253496.1,"glycerol kinase","Thermobacillus composti",377615,496
+WP_012874426.1,"glycerol kinase","Thermobaculum terrenum",166501,499
+WP_011291234.1,"glycerol kinase","Thermobifida fusca",2021,500
+WP_012851581.1,"glycerol kinase","Thermomonospora curvata",2020,505
+WP_012056842.1,"glycerol kinase","Thermosipho melanesiensis",46541,489
+WP_008195110.1,"glycerol kinase","Thermotoga",2335,496
+WP_012896469.1,"glycerol kinase","Thermotoga",2335,496
+WP_010865340.1,"glycerol kinase","Thermotoga maritima",2336,482
+WP_015919556.1,"glycerol kinase","Thermotoga neapolitana",2337,496
+WP_011943837.1,"glycerol kinase","Thermotoga petrophila",93929,496
+WP_012311066.1,"glycerol kinase","Thermotoga sp. RQ2",126740,496
+WP_003045085.1,"glycerol kinase","Thermus aquaticus",271,495
+WP_018110932.1,"glycerol kinase","Thermus igniterrae",88189,497
+WP_016329086.1,"glycerol kinase","Thermus oshimai",56957,502
+WP_018461519.1,"glycerol kinase","Thermus oshimai",56957,498
+WP_015717797.1,"glycerol kinase","Thermus scotoductus",37636,496
+WP_019550270.1,"glycerol kinase","Thermus scotoductus",37636,497
+WP_014515127.1,"glycerol kinase","Thermus sp. CCB_US3_UF1",1111069,494
+WP_011229157.1,"glycerol kinase","Thermus thermophilus",274,495
+WP_014511174.1,"glycerol kinase","Thermus thermophilus",274,496
+WP_014630412.1,"glycerol kinase","Thermus thermophilus",274,495
+WP_017941822.1,"glycerol kinase","Thioalkalivibrio",106633,506
+WP_018139645.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_018173948.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_018648913.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_018862340.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_018866964.1,"glycerol kinase","Thioalkalivibrio",106633,506
+WP_018882042.1,"glycerol kinase","Thioalkalivibrio",106633,506
+WP_019024145.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_019590311.1,"glycerol kinase","Thioalkalivibrio",106633,500
+WP_019624374.1,"glycerol kinase","Thioalkalivibrio",106633,505
+WP_018941103.1,"glycerol kinase","Thioalkalivibrio sp. AKL11",545264,505
+WP_018947823.1,"glycerol kinase","Thioalkalivibrio sp. AKL17",1158160,501
+WP_019570671.1,"glycerol kinase","Thioalkalivibrio sp. ALE11",1265494,500
+WP_019558077.1,"glycerol kinase","Thioalkalivibrio sp. ALE12",1158170,506
+WP_019583903.1,"glycerol kinase","Thioalkalivibrio sp. ALE16",1158172,506
+WP_019591333.1,"glycerol kinase","Thioalkalivibrio sp. ALE20",545275,501
+WP_018877452.1,"glycerol kinase","Thioalkalivibrio sp. ALE28",1158179,506
+WP_018880584.1,"glycerol kinase","Thioalkalivibrio sp. ALE30",1158181,506
+WP_018875542.1,"glycerol kinase","Thioalkalivibrio sp. ALE31",1158182,506
+WP_018880210.1,"glycerol kinase","Thioalkalivibrio sp. ALE9",1158169,506
+WP_018994226.1,"glycerol kinase","Thioalkalivibrio sp. ALgr1",748655,505
+WP_020146784.1,"glycerol kinase","Thioalkalivibrio sp. ALJ15",748652,505
+WP_018873033.1,"glycerol kinase","Thioalkalivibrio sp. ALJ16",1158762,505
+WP_018875139.1,"glycerol kinase","Thioalkalivibrio sp. ALJ6",748654,506
+WP_018141056.1,"glycerol kinase","Thioalkalivibrio sp. ALJ7",1158756,506
+WP_019627048.1,"glycerol kinase","Thioalkalivibrio sp. ALJT",1158146,506
+WP_018949414.1,"glycerol kinase","Thioalkalivibrio sp. ALMg11",1158165,506
+WP_019592653.1,"glycerol kinase","Thioalkalivibrio sp. ALRh",1266911,505
+WP_018864475.1,"glycerol kinase","Thioalkalivibrio sp. ARh3",1158148,505
+WP_017926301.1,"glycerol kinase","Thioalkalivibrio sp. HL-Eb18",1266913,505
+WP_012982854.1,"glycerol kinase","Thioalkalivibrio sp. K90mix",396595,505
+WP_018506836.1,"glycerol kinase","Thiobacillus thioparus",931,495
+WP_013104808.1,"glycerol kinase","Thiomonas",32012,501
+WP_013122316.1,"glycerol kinase","Thiomonas intermedia",926,501
+WP_018914360.1,"glycerol kinase","Thiomonas sp. FB-6",1158291,502
+WP_015712354.1,"glycerol kinase","Treponema azotonutricium",150829,494
+WP_013757563.1,"glycerol kinase","Treponema brennaborense",81028,498
+WP_013967680.1,"glycerol kinase","Treponema caldarium",215591,498
+WP_016524572.1,"glycerol kinase","Treponema maltophilum",51160,543
+WP_016523127.1,"glycerol kinase","Treponema medium",58231,497
+WP_002698698.1,"glycerol kinase","Treponema phagedenis",162,498
+WP_010254816.1,"glycerol kinase","Treponema primitia",88058,495
+WP_015706948.1,"glycerol kinase","Treponema primitia",88058,494
+WP_009105518.1,"glycerol kinase","Treponema sp. JC4",1124982,502
+WP_013178983.1,"glycerol kinase","Truepera radiovictrix",332249,504
+WP_004601344.1,"glycerol kinase","Turicella otitidis",29321,509
+WP_009606992.1,"glycerol kinase","Turicibacter",191303,494
+WP_006784352.1,"glycerol kinase","Turicibacter sanguinis",154288,494
+WP_004613799.1,"glycerol kinase","Tyzzerella nexilis",29361,498
+WP_018609192.1,"glycerol kinase","Uliginosibacterium gangwonense",392736,499
+WP_008722736.1,"glycerol kinase","unclassified Clostridiales (miscellaneous)",39779,498
+WP_012748496.1,"glycerol kinase","Variovorax paradoxus",34073,497
+WP_013540662.1,"glycerol kinase","Variovorax paradoxus",34073,499
+WP_018905929.1,"glycerol kinase","Variovorax paradoxus",34073,497
+WP_019656039.1,"glycerol kinase","Variovorax paradoxus",34073,499
+WP_007831593.1,"glycerol kinase","Variovorax sp. CF313",1144315,498
+WP_010102776.1,"glycerol kinase","Verminephrobacter aporrectodeae",1110389,496
+WP_011810074.1,"glycerol kinase","Verminephrobacter eiseniae",364317,511
+WP_009960321.1,"glycerol kinase","Verrucomicrobium spinosum",2736,517
+WP_013734273.1,"glycerol kinase","Verrucosispora maris",1003110,505
+WP_000139387.1,"glycerol kinase","Vibrio",662,505
+WP_000139392.1,"glycerol kinase","Vibrio",662,505
+WP_000139396.1,"glycerol kinase","Vibrio",662,505
+WP_004732235.1,"glycerol kinase","Vibrio",662,507
+WP_005380193.1,"glycerol kinase","Vibrio",662,505
+WP_005436582.1,"glycerol kinase","Vibrio",662,505
+WP_005450894.1,"glycerol kinase","Vibrio",662,505
+WP_005456578.1,"glycerol kinase","Vibrio",662,505
+WP_005471471.1,"glycerol kinase","Vibrio",662,506
+WP_006072280.1,"glycerol kinase","Vibrio",662,497
+WP_010431785.1,"glycerol kinase","Vibrio",662,508
+WP_011079696.1,"glycerol kinase","Vibrio",662,505
+WP_014232826.1,"glycerol kinase","Vibrio",662,505
+WP_016767362.1,"glycerol kinase","Vibrio",662,508
+WP_017057823.1,"glycerol kinase","Vibrio",662,508
+WP_017064019.1,"glycerol kinase","Vibrio",662,506
+WP_017069710.1,"glycerol kinase","Vibrio",662,506
+WP_017082581.1,"glycerol kinase","Vibrio",662,506
+WP_017108454.1,"glycerol kinase","Vibrio",662,506
+WP_020329237.1,"glycerol kinase","Vibrio",662,505
+WP_000139397.1,"glycerol kinase","Vibrio albensis",140100,505
+WP_006877871.1,"glycerol kinase","Vibrio brasiliensis",170652,505
+WP_017029593.1,"glycerol kinase","Vibrio breoganii",553239,505
+WP_017032362.1,"glycerol kinase","Vibrio breoganii",553239,505
+WP_017243064.1,"glycerol kinase","Vibrio breoganii",553239,505
+WP_005427362.1,"glycerol kinase","Vibrio campbellii",680,505
+WP_005536117.1,"glycerol kinase","Vibrio campbellii",680,505
+WP_009602433.1,"glycerol kinase","Vibrio caribbeanicus",701175,505
+WP_000139393.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_000139394.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_000139395.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_000139398.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_000139400.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_000139401.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_001888032.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_001961486.1,"glycerol kinase","Vibrio cholerae",666,505
+WP_006961085.1,"glycerol kinase","Vibrio coralliilyticus",190893,504
+WP_008215951.1,"glycerol kinase","Vibrio crassostreae",246167,506
+WP_017060940.1,"glycerol kinase","Vibrio crassostreae",246167,506
+WP_017066102.1,"glycerol kinase","Vibrio crassostreae",246167,506
+WP_016784357.1,"glycerol kinase","Vibrio cyclitrophicus",47951,508
+WP_004726852.1,"glycerol kinase","Vibrio furnissii",29494,506
+WP_014257455.1,"glycerol kinase","Vibrio furnissii",29494,506
+WP_017035752.1,"glycerol kinase","Vibrio genomosp. F10",723171,505
+WP_017051885.1,"glycerol kinase","Vibrio genomosp. F6",723172,504
+WP_006742415.1,"glycerol kinase","Vibrio harveyi group",717610,505
+WP_006710619.1,"glycerol kinase","Vibrio ichthyoenteri",142461,502
+WP_004396681.1,"glycerol kinase","Vibrio metschnikovii",28172,506
+WP_000139388.1,"glycerol kinase","Vibrio mimicus",674,505
+WP_000139389.1,"glycerol kinase","Vibrio mimicus",674,505
+WP_000139390.1,"glycerol kinase","Vibrio mimicus",674,505
+WP_000139391.1,"glycerol kinase","Vibrio mimicus",674,505
+WP_005525710.1,"glycerol kinase","Vibrio mimicus",674,505
+WP_020334319.1,"glycerol kinase","Vibrio natriegens",691,505
+WP_004408027.1,"glycerol kinase","Vibrio nigripulchritudo",28173,506
+WP_010319895.1,"glycerol kinase","Vibrio ordalii",28174,506
+WP_004413044.1,"glycerol kinase","Vibrio orientalis",28175,505
+WP_015297194.1,"glycerol kinase","Vibrio parahaemolyticus",670,505
+WP_017026652.1,"glycerol kinase","Vibrio rumoiensis",76258,499
+WP_005599406.1,"glycerol kinase","Vibrio scophthalmi",45658,501
+WP_008081291.1,"glycerol kinase","Vibrio sinaloensis",379097,505
+WP_009843029.1,"glycerol kinase","Vibrio sp. AND4",314289,505
+WP_009845918.1,"glycerol kinase","Vibrio sp. MED222",314290,506
+WP_009384384.1,"glycerol kinase","Vibrio sp. N418",701176,501
+WP_004740379.1,"glycerol kinase","Vibrio splendidus",29497,506
+WP_017072631.1,"glycerol kinase","Vibrio splendidus",29497,508
+WP_017089504.1,"glycerol kinase","Vibrio splendidus",29497,507
+WP_019827051.1,"glycerol kinase","Vibrio splendidus",29497,506
+WP_012600121.1,"glycerol kinase","Vibrio tasmaniensis",212663,507
+WP_017108878.1,"glycerol kinase","Vibrio tasmaniensis",212663,506
+WP_004747901.1,"glycerol kinase","Vibrio tubiashii",29498,505
+WP_019377227.1,"glycerol kinase","Virgibacillus halodenitrificans",1482,498
+WP_019377723.1,"glycerol kinase","Virgibacillus halodenitrificans",1482,496
+WP_010370714.1,"glycerol kinase","Weissella",46255,504
+WP_009495704.1,"glycerol kinase","Weissella ceti",759620,501
+WP_009496073.1,"glycerol kinase","Weissella ceti",759620,500
+WP_009496445.1,"glycerol kinase","Weissella ceti",759620,502
+WP_010372868.1,"glycerol kinase","Weissella cibaria",137591,501
+WP_003608782.1,"glycerol kinase","Weissella confusa",1583,502
+WP_003609049.1,"glycerol kinase","Weissella confusa",1583,501
+WP_006845536.1,"glycerol kinase","Weissella koreensis",165096,500
+WP_006845937.1,"glycerol kinase","Weissella koreensis",165096,508
+WP_013989136.1,"glycerol kinase","Weissella koreensis",165096,500
+WP_002828491.1,"glycerol kinase","Weissella paramesenteroides",1249,501
+WP_002828746.1,"glycerol kinase","Weissella paramesenteroides",1249,503
+WP_008316391.1,"glycerol kinase","Wohlfahrtiimonas chitiniclastica",400946,499
+WP_018121674.1,"glycerol kinase","Wohlfahrtiimonas chitiniclastica",400946,499
+WP_003485659.1,"glycerol kinase","Xanthomonas",338,499
+WP_010377280.1,"glycerol kinase","Xanthomonas",338,499
+WP_011346063.1,"glycerol kinase","Xanthomonas",338,499
+WP_011035612.1,"glycerol kinase","Xanthomonas campestris",339,499
+WP_011269474.1,"glycerol kinase","Xanthomonas campestris",339,499
+WP_014509304.1,"glycerol kinase","Xanthomonas campestris",339,499
+WP_019237177.1,"glycerol kinase","Xanthomonas campestris",339,499
+WP_005912771.1,"glycerol kinase","Xanthomonas citri",346,499
+WP_007968439.1,"glycerol kinase","Xanthomonas citri group",643453,499
+WP_002808176.1,"glycerol kinase","Xanthomonas fragariae",48664,499
+WP_006449583.1,"glycerol kinase","Xanthomonas gardneri",90270,499
+WP_010342417.1,"glycerol kinase","Xanthomonas sacchari",56458,499
+WP_017910850.1,"glycerol kinase","Xanthomonas sp. SHU 199",1591174,499
+WP_003476510.1,"glycerol kinase","Xanthomonas translucens",343,499
+WP_004426268.1,"glycerol kinase","Xanthomonas translucens",343,499
+WP_009610050.1,"glycerol kinase","Xanthomonas translucens",343,499
+WP_010368988.1,"glycerol kinase","Xanthomonas vasicola",56459,499
+WP_012990536.1,"glycerol kinase","Xenorhabdus bovienii",40576,507
+WP_010847663.1,"glycerol kinase","Xenorhabdus nematophila",628,507
+WP_013183162.1,"glycerol kinase","Xenorhabdus nematophila",628,507
+WP_012877173.1,"glycerol kinase","Xylanimonas cellulosilytica",186189,504
+WP_004083444.1,"glycerol kinase","Xylella fastidiosa",2371,499
+WP_004088276.1,"glycerol kinase","Xylella fastidiosa",2371,499
+WP_020852018.1,"glycerol kinase","Xylella fastidiosa",2371,499
+WP_031337660.1,"glycerol kinase","Xylella fastidiosa",2371,499
+WP_002218876.1,"glycerol kinase","Yersinia",629,507
+WP_005190533.1,"glycerol kinase","Yersinia",629,507
+WP_005279174.1,"glycerol kinase","Yersinia",629,507
+WP_004704798.1,"glycerol kinase","Yersinia aldovae",29483,507
+WP_005163879.1,"glycerol kinase","Yersinia enterocolitica",630,507
+WP_005175870.1,"glycerol kinase","Yersinia enterocolitica",630,507
+WP_019080288.1,"glycerol kinase","Yersinia enterocolitica",630,507
+WP_004710532.1,"glycerol kinase","Yersinia frederiksenii",29484,507
+WP_004392236.1,"glycerol kinase","Yersinia kristensenii",28152,507
+WP_002221679.1,"glycerol kinase","Yersinia pestis",632,507
+WP_002228890.1,"glycerol kinase","Yersinia pestis",632,515
+WP_004714416.1,"glycerol kinase","Yersinia rohdei",29485,507
+WP_004719540.1,"glycerol kinase","Yersinia ruckeri",29486,506
+WP_006817911.1,"glycerol kinase","Yokenella regensburgei",158877,501
+WP_020471137.1,"glycerol kinase","Zavarzinella formosa",360055,495
+WP_013070269.1,"glycerol kinase","Zunongwangia profunda",398743,497
