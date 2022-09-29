@@ -1,15 +1,20 @@
 geom.pos.mean <- function(x) {
-#  numValues <- 0
-#  product <- 1
-#  for (value in x) {
-#    if (x > 0) {
-#      numValues <- numValues + 1
-#      product <- prod(product, x)
-#    }
-#  }
-#  return(product**(1 / numValues))
-#}
+  subList <- x[(x > 0)]
+  product <- prod(subList)
+  numPositive <- length(subList)
+  return(product**(1 / numPositive))
+}
 
+neg.mean <- function(x) {
+  subList <- x[(x < 0)]
+  sumOfNeg <- sum(subList)
+  numNegative <- length(subList)
+  return(sumOfNeg / numNegative)
+}
 
-
-neg.mean <- function
+harmonicMean <- function(x) {
+  subList <- x[(x != 0)]
+  inverseList <- 1 / x
+  listLength <- length(inverseList)
+  denominator <- sum(inverseList)
+}
