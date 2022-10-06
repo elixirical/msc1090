@@ -23,8 +23,12 @@ delays.per.incident <- function(x) {
   return(incident.count)
 }
 
-minimum.delay <- function() {
-  return(0)
+minimum.delay <- function(x) {
+  print(x[x$Incident == "Mechanical", ])
+  mechanical.incidents <- x[x$Incident == "Mechanical", ]
+  valid.mech.incidents <-
+  print(valid.mech.incidents)
+  return(1)
 }
 
 most.delays.february <- function() {
@@ -41,4 +45,4 @@ print.output <- function(incidentTypes, numIncidents, mechIncMinDelay, mostDelay
   cat("The route with the most delays in February was route", mostDelayedRoute, "\n")
 }
 
-print.output(types.of.incidents(table),delays.per.incident(table),minimum.delay(),most.delays.february())
+print.output(types.of.incidents(table),delays.per.incident(table),minimum.delay(table),most.delays.february())
