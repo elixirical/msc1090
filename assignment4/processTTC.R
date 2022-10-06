@@ -7,13 +7,11 @@ if (length(arg) == 0) {
   quit()
 } else cat("Processing data from file:", arg, "\n")
 
-table <- read.csv(arg, header = TRUE)
+table <- read.csv(arg, colClasses = "character", header = TRUE)
 
 types.of.incidents <- function(x) {
   return(unique(x$Incident))
 }
-
-print(types.of.incidents(table))
 
 delays.per.incident <- function(x) {
   incident.types <- types.of.incidents(x)
@@ -35,9 +33,6 @@ most.delays.february <- function() {
 
 print.output <- function(incidentTypes, numIncidents, mechIncMinDelay, mostDelayedRoute) {
   cat("Total number of delays per incident type:\n")
-  print(typeof(incidentTypes))
-  cat(incidentTypes)
-  cat(incidentTypes[1])
   for (n in 1:length(incidentTypes)) {
     cat("\t", incidentTypes[n], " -- ", numIncidents[n], "\n")
   }
