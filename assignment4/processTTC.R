@@ -8,6 +8,7 @@ if (length(arg) == 0) {
 } else cat("Processing data from file:", arg, "\n")
 
 table <- read.csv(arg, colClasses = "character", header = TRUE)
+table.not.chars <- read.csv(arg)
 
 types.of.incidents <- function(x) {
   return(unique(x$Incident))
@@ -34,7 +35,10 @@ unique.routes <- function(x) {
 }
 
 most.delays.february <- function(x) {
-  return(0)
+  february.incidents = x[substr(x$Report.Date, 6, 7) == "02", ]
+  frequency = sort(table(february.incidents$Route), decreasing = TRUE)
+  worst.route = names(frequency)[1]
+  return(worst.route)
 }
 
 print.output <- function(incidentTypes, numIncidents, mechIncMinDelay, mostDelayedRoute) {
@@ -47,4 +51,4 @@ print.output <- function(incidentTypes, numIncidents, mechIncMinDelay, mostDelay
   cat("The route with the most delays in February was route", mostDelayedRoute, "\n")
 }
 
-print.output(types.of.incidents(table),delays.per.incident(table),minimum.delay(table),most.delays.february())
+print.output(types.of.incidents(table),delays.per.incident(table),minimum.delay(table),most.delays.february(table))
