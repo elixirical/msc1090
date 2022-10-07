@@ -46,16 +46,16 @@ minimum.delay <- function(x) {
 
 # returns the route with the most delays in february
 most.delays.february <- function(x) {
-  february.incidents = x[substr(x$Report.Date, 6, 7) == "02", ] # grabs all incidents from february by matching the month in the date
-  frequency = sort(table(february.incidents$Route), decreasing = TRUE) # grabs only the route numbers, then analyzes the frequency, sorting with most frequent at the top
-  worst.route = names(frequency)[1] # creates vector of the names (ie. route numbers) of the sorted frequency list, and returns the first, which had the most incidents
+  february.incidents <- x[substr(x$Report.Date, 6, 7) == "02", ] # grabs all incidents from february by matching the month in the date
+  frequency <- sort(table(february.incidents$Route), decreasing = TRUE) # grabs only the route numbers, then analyzes the frequency, sorting with most frequent at the top
+  worst.route <- names(frequency)[1] # creates vector of the names (ie. route numbers) of the sorted frequency list, and returns the first, which had the most incidents
   return(worst.route) # returns that route number from above
 }
 
 # function that prints out the desired output as specified in the assignment
 print.output <- function(x) {
-  incidentTypes = types.of.incidents(x) # grabs the unique incident types so that this function doesnt have to run more then once
-  numIncidents = delays.per.incident(x) # grabs the delays per incident type so that this fn wont fun more then once too
+  incidentTypes <- types.of.incidents(x) # grabs the unique incident types so that this function doesnt have to run more then once
+  numIncidents <- delays.per.incident(x) # grabs the delays per incident type so that this fn wont fun more then once too
   cat("Total number of delays per incident type:\n")
   for (n in 1:length(incidentTypes)) { # for each incident type...
     cat("\t", incidentTypes[n], " -- ", numIncidents[n], "\n") # print the incident and how many times its occured
