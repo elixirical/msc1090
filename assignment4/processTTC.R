@@ -24,14 +24,16 @@ delays.per.incident <- function(x) {
 }
 
 minimum.delay <- function(x) {
-  print(x[x$Incident == "Mechanical", ])
-  mechanical.incidents <- x[x$Incident == "Mechanical", ]
-  valid.mech.incidents <-
-  print(valid.mech.incidents)
-  return(1)
+  y <- x[x$Incident == "Mechanical", 7]
+  min.delay.avg <- mean(as.numeric(y), na.rm = TRUE)
+  return(min.delay.avg)
 }
 
-most.delays.february <- function() {
+unique.routes <- function(x) {
+  return(unique(x$Route))
+}
+
+most.delays.february <- function(x) {
   return(0)
 }
 
