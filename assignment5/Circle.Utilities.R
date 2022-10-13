@@ -21,8 +21,8 @@ max.angular.diff <- function(x) {
 }
 
 sim.null.hypo <- function(k, n) {
-  n.vector <- sample(c(k), n, replace = TRUE)
+  n.vector <- rep(k, n)
   n.vector <- sapply(n.vector, runif, 0, 2*pi)
-  n.vector <- sapply(n.vector, max.angular.diff)
+  n.vector <- apply(n.vector, 2, max.angular.diff)
   return(n.vector)
 }
