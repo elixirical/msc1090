@@ -26,3 +26,7 @@ sim.null.hypo <- function(k, n) {
   n.vector <- apply(n.vector, 2, max.angular.diff)
   return(n.vector)
 }
+
+calc.cdf <- function(n) {
+  return(hist(n,breaks=40,plot=FALSE))
+}
