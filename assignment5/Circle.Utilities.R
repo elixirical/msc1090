@@ -40,3 +40,12 @@ calc.cdf <- function(n) {
   hist.cumsum <- cdf.fn(hist.results$counts,sum(hist.results$counts))
   return(data.frame(breaks = hist.breaks, Cumulative.Data = hist.cumsum))
 }
+
+to.tenths.ceiling <- function(x) {
+  return(ceiling(x*10)/10)
+}
+
+calc.cumulative <- function(x, y) {
+  bin.to.return <- x[x$breaks == to.tenths.ceiling(y), ]
+  return(bin.to.return$Cumulative.Data)
+}
