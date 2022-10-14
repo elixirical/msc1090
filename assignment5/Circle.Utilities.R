@@ -27,6 +27,16 @@ sim.null.hypo <- function(k, n) {
   return(n.vector)
 }
 
+cdf.fn <- function(x, total.points) { #vector of counts per bin
+  if (length(x) == 0) { return(c()) }
+  return( c( cdf.fn( x[-length(x)],
+                     total.points),
+             sum(x)/total.points))
+}
+
 calc.cdf <- function(n) {
-  return(hist(n,breaks=40,plot=FALSE))
+  hist.results <- hist(n, breaks = 40, plot=FALSE)
+  hist.breaks <- hist.results$breaks[-1]
+  hist.cumsum <- cdf.fn(hist.results$counts,sum(hist.results$counts))
+  return(data.frame(breaks = hist.breaks, Cumulative.Data = hist.cumsum))
 }
