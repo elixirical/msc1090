@@ -1,3 +1,10 @@
+# Name: Alvin Han
+# SciNet username: tmp_ahan
+# Description:
+#   A script to test the hypothesis that birds DONT leave from a birdfeeder in
+#   random directions, using functions pulled from Circle.Utilities.R as well as
+#   the EnvStats package.
+
 source("Circle.Utilities.R")
 library("EnvStats")
 
@@ -19,7 +26,7 @@ generate.data <- function(k) {
 
 simulated.null.hypo <- sim.null.hypo(num.birds,10000)
 #print(simulated.null.hypo)
-#hist(simulated.null.hypo, breaks=21, freq=FALSE)
+hist(simulated.null.hypo, breaks=21, freq=FALSE)
 
 cdf.null.hypo <- calc.cdf(simulated.null.hypo)
 print(cdf.null.hypo)
