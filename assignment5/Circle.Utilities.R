@@ -81,14 +81,23 @@ calc.cdf <- function(n) {
 # ceil, then dividing back down. This probably only works really for tenths, not for any
 # other decimal value.
 to.tenths.ceiling <- function(x) {
-  return(ceiling(x*10)/10)
+  return(as.numeric(ceiling(x*10)/10))
 }
 
 # this function determines the value of the CDF x that the value y would fall in
 calc.cumulative <- function(x, y) {
   # uses to.tenths.ceiling to find the bin that a value would fall under.
   # uses ceil because the bins are marked by their rightmost (ie. highest) edge.
-  bin.to.return <- x[x$breaks == to.tenths.ceiling(y), ]
+  bin.to.return <- x[as.numeric(trimws(x$breaks)) == as.numeric(trimws(to.tenths.ceiling(y))), ] #trimws seems to fix the numeric(0) error
+  print(y)
+  print(str(to.tenths.ceiling(y)))
+  print(str(x))
+  print(to.tenths.ceiling(y))
+  print(to.tenths.ceiling(y) %in% x$breaks)
+  print(x$breaks)
+  print(as.numeric(x$breaks) == to.tenths.ceiling(y))
+  #print(to.tenths.ceiling(y))
+  print(bin.to.return)
   # returns the CDF at that bin
   return(bin.to.return$Cumulative.Data)
 }
