@@ -21,12 +21,18 @@ generate.data <- function(k) {
   my.data <- rtri(k, 0.5 * pi, 1.5 * pi, mode = pi)
 }
 
-#test<-c(1,2,3,2,4,1,5,6)
-#hist(test)
+generated.max.angle <- max.angular.diff(generate.data(num.birds))
 
 simulated.null.hypo <- sim.null.hypo(num.birds,10000)
-#print(simulated.null.hypo)
 hist(simulated.null.hypo, breaks=21, freq=FALSE)
 
 cdf.null.hypo <- calc.cdf(simulated.null.hypo)
 print(cdf.null.hypo)
+plot(cdf.null.hypo)
+print(generated.max.angle)
+
+p.value = 1 - calc.cumulative(cdf.null.hypo, generated.max.angle) #technically this is JUST greater than the value, not greater than or equal to but idk how to,,,,, do it yet
+
+print(to.tenths.ceiling(generated.max.angle))
+print(calc.cumulative(cdf.null.hypo,generated.max.angle))
+print(p.value)
