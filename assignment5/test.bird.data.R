@@ -6,7 +6,7 @@
 #   the EnvStats package.
 
 source("Circle.Utilities.R")
-library("EnvStats")
+suppressPackageStartupMessages(library("EnvStats", quietly=TRUE))
 
 arg <- commandArgs(trailingOnly = TRUE)
 if (length(arg) != 1) {
@@ -29,4 +29,9 @@ hist(simulated.null.hypo, breaks=21, freq=FALSE)
 cdf.null.hypo <- calc.cdf(simulated.null.hypo)
 plot(cdf.null.hypo)
 
-p.value = 1 - calc.cumulative(cdf.null.hypo, generated.max.angle) #technically this is JUST greater than the value, not greater than or equal to but idk how to,,,,, do it yet
+p.value = 1 - calc.cumulative(cdf.null.hypo, generated.max.angle)
+#^technically this is JUST greater than the value, not greater than or equal to but idk how to,,,,, do it yet while still using calc cumulative
+
+if (p.value < 0.05) {
+  cat("The test is significant, with a p value of", p.value, "\n")
+} else cat("The test is not significant, with a p value of", p.value, "\n")
