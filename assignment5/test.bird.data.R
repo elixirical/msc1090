@@ -34,5 +34,5 @@ print(generated.max.angle)
 p.value = 1 - calc.cumulative(cdf.null.hypo, generated.max.angle) #technically this is JUST greater than the value, not greater than or equal to but idk how to,,,,, do it yet
 
 print(to.tenths.ceiling(generated.max.angle))
-print(calc.cumulative(cdf.null.hypo,generated.max.angle))
+print(calc.cumulative(cdf.null.hypo,generated.max.angle)) #sometimes returns as numeric(0)
 print(p.value)
