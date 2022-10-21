@@ -10,7 +10,10 @@ source("Circle.Utilities.R")
 # Imports the EnvStats package, while supprseeing annoying messages
 suppressPackageStartupMessages(library("EnvStats", quietly=TRUE))
 
+# takes text following the file name as arguments
 arg <- commandArgs(trailingOnly = TRUE)
+# checks that there is only a single numeric argument, if there is not, suggests usage
+# and quits the program
 if ((length(arg) != 1) || is.na(as.numeric(arg[1]))) {
   cat("Please supply a single numerical argument following the command! \n",
       "Example: Rscript test.bird.data.R 15\n")
