@@ -21,7 +21,8 @@ generate.data <- function(k) {
   return(rtri(k, 0.5 * pi, 1.5 * pi, mode = pi))
 }
 
-generated.max.angle <- max.angular.diff(generate.data(num.birds))
+generated.H1.data <- generate.data(num.birds)
+generated.max.angle <- max.angular.diff(generated.H1.data) #max.angular.diff(generate.data(num.birds))
 
 simulated.null.hypo <- sim.null.hypo(num.birds,10000)
 hist(simulated.null.hypo, breaks=21, freq=FALSE)

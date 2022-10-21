@@ -86,9 +86,13 @@ to.tenths.ceiling <- function(x) {
 
 # this function determines the value of the CDF x that the value y would fall in
 calc.cumulative <- function(x, y) {
+  # if we are given a value y that is larger than the rightmost bin, we know that ALL the
+  # data is left of it, so we can return a value of 1.
+  if (y > max(x$breaks)) { return(1) }
   # uses to.tenths.ceiling to find the bin that a value would fall under.
   # uses ceil because the bins are marked by their rightmost (ie. highest) edge.
-  bin.to.return <- x[as.numeric(trimws(x$breaks)) == as.numeric(trimws(to.tenths.ceiling(y))), ] #trimws seems to fix the numeric(0) error
+  bin.to.return <- x[as.numeric(trimws(x$breaks)) == as.numeric(trimws(to.tenths.ceiling(y))), ]
+  #trimws seems to fix the numeric(0) error
   # returns the CDF at that bin
   return(bin.to.return$Cumulative.Data)
 }
