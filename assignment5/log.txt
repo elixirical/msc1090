@@ -1,0 +1,239 @@
+commit 724370ff2d1ac107fc8af25795c713eb7ee66c69
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 21 17:48:27 2022 -0400
+
+    a few more comments
+
+commit cd03a725ad9523e098bb47d417bb9de1903a1708
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 21 17:45:10 2022 -0400
+
+    some commenting, as well as dividing the main program into functions
+
+commit cb2445697747195a984fecce6e1e9a02f461298c
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 21 12:59:24 2022 -0400
+
+    accounted for testing for values larger then the max bin, which often occurs with larger sample sizes
+
+commit d4880377e083a722ed5a40a4a206aa1ccd1fe2fb
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 20 16:50:36 2022 -0400
+
+    outputs the p value w/ significance method. P value is however currently calculated as 1-calccumulative, which results in a number GREATER THAN and not GREATER THAN OR EQUAL TO the value tested; unsure if this is an oversight in the assignment
+
+commit 4d44781aa0ff173e34fc9213530480cbd2076f20
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 20 16:16:52 2022 -0400
+
+    removed all the print statements i used when debugging
+
+commit f3fbb7e78a89021a9588cfef26a1688f370df4d3
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 20 16:14:21 2022 -0400
+
+    the numeric(0) error seems to be resolved by using trimws(). not sure why this works because i checked and the types were all numeric but it did
+
+commit ffb8e7474038723406f41957cd636f9dd7401b71
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 20 14:36:53 2022 -0400
+
+    forgot to save
+
+commit 15f5cbe4391fd3f5e57a22ffaae49bc7ce89ec9d
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 20 14:34:37 2022 -0400
+
+    i understand now how to get the p value, but struggling to see how to use calc cumulative as that returns less than or equal to, and the question asks for greater than equal to, so 1-calc.cumulative doesnt really work; also sometimes calc cumulative returns numeric(0) and i need to debug that
+
+commit 4da472dd387e971f797ade675ab289878bc5e1a7
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Tue Oct 18 15:48:42 2022 -0400
+
+    commented everything in Circle.Utilities.R
+
+commit f6f6f7799507ae4945d04a3059cf7ff19a8580a5
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Mon Oct 17 13:00:09 2022 -0400
+
+    frankly idk what im doing and I assume that the stuff for the second file will be covered this week so idk why im even bothering tearing my hair out rn
+
+commit 230bb4e6fabccc4ae7622dd2e0a3a97f60e8100e
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 14 17:27:57 2022 -0400
+
+    frankly i dont remember anything about statistics and will need time to understand how to finish the second part
+
+commit 0ccf1a916586c3887c66604fad9be7852a2e3b29
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 14 16:39:01 2022 -0400
+
+    calc.cumulative is functional i believe,,,
+
+commit 53ce0caacd820b72b147e50931bcc287a638b6e2
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 14 16:23:25 2022 -0400
+
+    nim null hypo done, calc cdf done with recursion lol cause i like to make my life hard lol
+
+commit c198bf34bd90d553de673168c329d91e20292658
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 13 19:53:28 2022 -0400
+
+    calc cdf is on there but not really done
+
+commit e25636dbea8d270ab038533faf21674a5f7ad030
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 13 19:44:10 2022 -0400
+
+    i believe sim.null.hypo works properly
+
+commit ec784365b665cda4508e7928dba6527722749960
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 13 19:21:53 2022 -0400
+
+    finished max.angular.diff; working on sim.null.hypo
+
+commit 3ecb51ae91d7b747bf935443e255d32ebafe94b5
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 13 17:33:45 2022 -0400
+
+    starting assignment 5
+
+commit c44fef8c202efabf77e2178db523ab07cdbe4b22
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 15:59:38 2022 -0400
+
+    accidently used = insteads of <- for some declarations; fixed now
+
+commit 7c9d1e82d2f60922585a6682dd6c9aa23c1afcef
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 15:45:23 2022 -0400
+
+    added the git log to .gitignore
+
+commit 928ea51014cd372c1dbe112bd94016c6543dd702
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 15:44:02 2022 -0400
+
+    a little cleanup and commenting
+
+commit 9569bab7c0794d9b547980c92c3dac6798400f8f
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 15:02:40 2022 -0400
+
+    shell script now runs processTTC.R against all .csv files in /data/
+
+commit 1050dc3f0c33d3f987b81175723ccfd807d984a2
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 14:54:49 2022 -0400
+
+    most delays in february done! the R part of the assignment is finished
+
+commit 9cc1e6d68511a3cea20c6a145965cb583bdc0666
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Fri Oct 7 14:05:02 2022 -0400
+
+    minimum delay function working now!
+
+commit 4143920865bc96b9c924e427d62c2522d7ee722c
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 16:44:38 2022 -0400
+
+    started working on part D of the 1st section of the question
+
+commit 433a02b4b727bfcfe68db60bb480151d4808c384
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 16:05:30 2022 -0400
+
+    set colClasses to character so that it creates vectors instead of factors when reading the files
+
+commit 151f75804246dc6d637abe8ff30ebae5084d82c0
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 15:29:37 2022 -0400
+
+    delays per incident works but idrk why it thinks the output of types of incident is a vector of integers
+
+commit 2c60aa7b14f07d06a98a37a71f353bf2724f042a
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 14:35:02 2022 -0400
+
+    removed something from the commit that was unintentionally added
+
+commit 0fe9b5e6a8bfee4999f08e55ce1230b713494c33
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 14:31:54 2022 -0400
+
+    give up for today; can now read the file and identify the unique incidents. as for the rest.... idk yet
+
+commit a4f9a2e7ecb0f1eacb861253d755002f9bdfaf6e
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 13:13:48 2022 -0400
+
+    removed the zip and added to gitignore
+
+commit a49ff1bd3ec5b21c83cda20a17be901e512b393a
+Author: Alvin Han <alvinhan1999@gmail.com>
+Date:   Thu Oct 6 13:08:06 2022 -0400
+
+    new assignment folder w/ blank files and the raw data we're working with
+
+commit a7ded18e2aee4f9d282f23e6872d086fc6f23279
+Author: elixirical <alvinhan1999@gmail.com>
+Date:   Thu Sep 29 19:50:42 2022 -0400
+
+    completed assignment3
+
+commit 964a8b4b73479d73b504e03c83895f36c43c9efc
+Author: elixirical <alvinhan1999@gmail.com>
+Date:   Thu Sep 29 19:30:34 2022 -0400
+
+    included a lintr file so that it stops screaming at me for using acmel case and dotted case
+
+commit 1beec83060e8279f8353ce3282de1ee110252c2f
+Author: elixirical <alvinhan1999@gmail.com>
+Date:   Thu Sep 29 17:20:14 2022 -0400
+
+    um
+
+commit 2891433986892725242206d7378781e2c965e4b7
+Author: Alvin H <alvinhan1999@gmail.com>
+Date:   Mon Sep 26 19:22:46 2022 -0400
+
+    add gitignore for random other files skjdasdjkasd
+
+commit eef146ded52863eae630c7809d4c267105c7cf3c
+Author: elixirical <alvinhan1999@gmail.com>
+Date:   Mon Sep 26 19:15:19 2022 -0400
+
+    assignment 2 done i think
+
+commit 848a3a76c327871c89dbf5ef4b1087345dc8cede
+Author: elixirical <alvinhan1999@gmail.com>
+Date:   Mon Sep 26 18:18:31 2022 -0400
+
+    assignment 2
+
+commit 7108f1225e0754982a49712bc00e60507fbe1192
+Author: Alvin H <alvinhan1999@gmail.com>
+Date:   Thu Sep 22 01:45:48 2022 -0400
+
+    oop consistency
+
+commit feb3d1faab0d777cf68937867030f6748bf6459f
+Author: Alvin H <alvinhan1999@gmail.com>
+Date:   Thu Sep 22 01:41:13 2022 -0400
+
+    turns out windows bash and WLS bash run echo differently and when i run this dumb thing on debian it magincally works without overwritting the line lmfao
+
+commit 319b5a97a38bcbcf81f24b675ccba790e04fc9b6
+Author: Alvin H <alvinhan1999@gmail.com>
+Date:   Thu Sep 22 01:36:39 2022 -0400
+
+    wooo
+
+commit 7b71de6540d09300e4a43850517bce7aa5180c41
+Author: Alvin H <alvinhan1999@gmail.com>
+Date:   Thu Sep 22 00:11:46 2022 -0400
+
+    Initial commit
