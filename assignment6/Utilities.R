@@ -31,8 +31,37 @@ plot.data.w.quad.model <- function(my.data, data.model) {
   lines(xx, yy, lwd = 2, col = "red")
 }
 
+generalized.linear.model <- function(my.data) {
+  glmodel <- glm(digits ~ counts, data = my.data, family = gaussian(link = "log"))
+  return(glmodel)
+}
+
+plot.data.with.glm <- function(my.data, data.model) {
+  plot(my.data$digits, my.data$counts)
+  sorted.counts <- sort(my.data$counts)
+  #prediction <- predict(data.model, data.frame(counts = sorted.counts), type="response")
+  #lines(sorted.counts,prediction)
+  lines(sorted.counts,
+        predict(data.model,
+                data.frame(counts = sorted.counts),
+                type = "response"))
+}
+
 test <- build.digit.freqs(load.data("1710014201-eng.csv"),"X2017")
 print(test)
 test2 <- quadratic.model(test)
 print(summary(test2))
 plot.data.w.quad.model(test,test2)
+
+plot(test2$residuals)
+plot(test$digits,test2$residuals)
+plot(test$counts,test2$residuals)
+#par(mfrow = c(1,1))
+hist(test2$residuals, breaks=11)
+qqnorm(test2$residuals)
+qqline(test2$residuals)
+
+
+test3 <- generalized.linear.model(test)
+print(summary(test3))
+plot.data.with.glm(test,test3)
