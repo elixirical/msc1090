@@ -1,11 +1,13 @@
+# imports the functions from Utilities.R where all calculations are performed
 source("Utilities.R")
 
+# grabs any arguments at the end of the command
 args <- commandArgs(trailingOnly = TRUE)
 
-#acceptable <- data.frame(one=c(1:3),
-#                         two=c(2017:2021))
+# these are the acceptable argument inputs
 acceptable <- list(c(1:3),c(2017:2021))
 
+# checks that the inputs are appropriate; if not, informs user of usage and stops program
 if ( (length(args) != 2) ||
     !(args[1] %in% unlist(acceptable[1])) ||
     !(args[2] %in% unlist(acceptable[2])) ) {
@@ -20,6 +22,7 @@ if ( (length(args) != 2) ||
   quit()
 }
 
+# primary driver function
 main <- function(test, year) {
   frequencies <- build.digit.freqs(load.data("1710014201-eng.csv"), paste("X",year,sep=""))
   if (test == 1) {
@@ -40,4 +43,5 @@ main <- function(test, year) {
   }
 }
 
+# runs the driver function
 main(args[1], args[2])
