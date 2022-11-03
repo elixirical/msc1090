@@ -15,9 +15,9 @@ benfords.law.seq <- function(x) {
   }
 }
 
-benfords.law.df <- function() {
-  return(data.frame( digits=c(1:9), freq=benfords.law.seq(9)))
-}
+#benfords.law.df <- function() {
+#  return(data.frame( digits=c(1:9), freq=benfords.law.seq(9)))
+#}
 
 # function which takes above data as data frame, a year, as arguments
 # then calculates the frequency of each possible first digit and returns
@@ -26,7 +26,7 @@ build.digit.freqs <- function(x, y) {
   pops.from.year <- x[y]
   no.zero.pops <- pops.from.year[pops.from.year != 0]
   no.zero.pops <- gsub(",","",no.zero.pops)
-  no.zero.pops <- no.zero.pops[!is.na(as.numeric(no.zero.pops))]
+  no.zero.pops <- no.zero.pops[!is.na(suppressWarnings(as.numeric(no.zero.pops)))]
   to.return <- data.frame(digits=c(),counts=c())
   for (z in c(1:9)) {
     digit.freq <- length(no.zero.pops[substr(no.zero.pops,1,1) == toString(z)])
@@ -35,9 +35,9 @@ build.digit.freqs <- function(x, y) {
   return(to.return)
 }
 
-#digit.freqdigits_squared.proportions <- function(x) {
+#digit.freq.proportions <- function(x) {
 #  total <- sum(x$counts)
-#  return(datadigits_squared.frame(digits=c(1:9),freq=x$counts/total))
+#  return(data.frame(digits=c(1:9),freq=x$counts/total))
 #}
 
 quadratic.model <- function(my.data) {
@@ -73,7 +73,7 @@ plot.data.with.glm <- function(my.data, data.model) {
 }
 
 benfords.chisq.test <- function(x) {
-  return(chisq.test(x$counts, p = benfords.law.df()$freq))
+  return(chisq.test(x$counts, p = benfords.law.seq(9)))
 }
 
 chisq.p.value.message <- function(x) {
