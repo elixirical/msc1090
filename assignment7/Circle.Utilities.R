@@ -13,6 +13,8 @@ calc.angular.diff <- function(x, y) {
 
 # Takes a vector of k angles in rads corresponding to the direction birds have left the feeder
 max.angular.diff <- function(x) {
+  #if (length(x) == 1) return(0)
+
   sorted.angles <- sort(x, decreasing = FALSE) # puts the angles in sequential order
   angular.differences <- c() # initializes an empty vector that will store the differences
   # beginning with the second angle in the sequential vector, calculates the angular difference
@@ -27,7 +29,7 @@ max.angular.diff <- function(x) {
   angular.differences <- append(angular.differences,
                                 calc.angular.diff(sorted.angles[length(sorted.angles)],
                                                   sorted.angles[1]))
-  #print(angular.differences)
+  #print(max(angular.differences))
   return(max(angular.differences)) # returns from the vector of differences, the largest difference
 }
 
@@ -35,13 +37,19 @@ max.angular.diff <- function(x) {
 # n times from a uniform distribution, and returns a vector of the max angular difference
 # from each sample.
 sim.null.hypo <- function(k, n) {
-  n.vector <- rep(k, n) # creates a vector on n length, composed entirely of the integer k
+  n.vector <- rep(k, n) # creates a vector of n length, composed entirely of the integer k
   # for each int element of the array, samples that int many times using runif between 0
   # and 2pi rads. This generates a data frame.
+  if (k == 1) {
+    return(rep(0,n))
+  }
+  #print(n.vector)
   n.vector <- sapply(n.vector, runif, 0, 2*pi)
   # For each random sample, (now in the second column of a dataframe), calculates the max
   # angular difference, and returns just an array of those differences
+  #print(n.vector)
   n.vector <- apply(n.vector, 2, max.angular.diff)
+  #print(n.vector)
   return(n.vector) # returns that array
 }
 
