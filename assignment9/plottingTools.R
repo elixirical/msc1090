@@ -1,4 +1,6 @@
 library(ggplot2)
+library(dplyr)
+library(ggsignif)
 
 # imports a file
 load.file <- function(filename) {
@@ -54,19 +56,39 @@ data.summary <- function(rawdata) {
   return(temp)
 }
 
+data.summary2 <- function(rawdata) {
+  datasummary <- rawdata %>%
+    group_by(injury) %>%
+    summarise(
+      sd = sd(layer1.iba.count, na.rm = TRUE),
+      layer1.iba.count = mean(layer1.iba.count)
+    )
+  return(datasummary)
+}
+
 #gen.plottable.data <- function(x) {
 #  return(data.frame(get.means(x),)
 #}
 
-plot.data <- function(rawdata) {
+correspond <- function() {
+
+  return()
+}
+
+plot.data <- function(rawdata, datasummary) {
   ggplot(data = rawdata, aes(x = injury, y = layer1.iba.count, fill=injury)) +
-    geom_dotplot(binaxis = "y", stackdir = "center")# +
-    #stat_summary()
+    geom_dotplot(binaxis = "y", stackdir = "center", dotsize=0.2) +
+    geom_errorbar(aes(ymin=layer1.iba.count-sd, ymax=layer1.iba.count+sd),
+                  data = datasummary,
+                  width=.2,                    # Width of the error bars
+                  position=position_dodge(.9)) +
+    geom_point(data=datasummary, size=2)
+
 }
 
 test <- load.file("iba1_new.csv")
 print(test)
-plot.data(test)
+plot.data(test, data.summary2(test))
 #print(get.means(c(1:10)))
 #print(get.means(c("a",TRUE,23)))
-print(data.summary(test))
+#print(data.summary(test))
