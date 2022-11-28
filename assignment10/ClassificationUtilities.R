@@ -45,8 +45,10 @@ kNN.model <- function(traindata) {
 
 confusion.matrix <- function(model, test.data) {
   pred <- predict(model, newdata = test.data)
-  #return(confusionMatrix(pred, test.data$label))
-  return(table(test.data$label, pred))
+  test.data$label <- factor(test.data$label)
+  cm <- confusionMatrix(pred, test.data$label)
+  print(cm$table)
+  #return(table(test.data$label, pred))
 }
 
 test <- load.file("https://pages.scinet.utoronto.ca/~afedosee/seeds_dataset2.txt")
@@ -54,5 +56,7 @@ test <- load.file("https://pages.scinet.utoronto.ca/~afedosee/seeds_dataset2.txt
 #print(test[1])
 testknn <- kNN.model(as.data.frame(test[1]))
 testdt <- data.model(as.data.frame(test[1]), "DT")
+print(predict(testdt, newdata = as.data.frame(test[2])))
+print(as.data.frame(test[2])$label)
 #print(data.model(as.data.frame(test[1]), "SVM"))
-print(confusion.matrix(testdt, as.data.frame(test[2])))
+#confusion.matrix(testknn, as.data.frame(test[2]))
